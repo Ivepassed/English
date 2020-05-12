@@ -17,7 +17,7 @@ challenge                                   n
 **furnish                                     v.供应,提供;装备,布置**    
 establish                                   v.建立,设立;安置,使定居    
 **intellectual                                n.知识分子 a.智力的，理智的，有理解力的**    
-qualification                         n.资格,合格;限定,条件;合格证    
+qualification                                   n.资格,合格;限定,条件;合格证    
 appearance                                  n.出现，露面；外表；(在会议等)作短暂露面    
 aspect                                                              n.样子, 外表, 面貌, (问题等的)方面    
 liquid                                                              n.液体 a.液体的,液态的    
