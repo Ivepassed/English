@@ -12,18 +12,18 @@
 
 # **Word List 1** 
 
-challenge['tʃælindʒ]n.挑战(书);艰巨任务,难题v.向…挑战
-establish[i'stæbliʃ]v.建立,设立;安置,使定居
-furnish['fə:niʃ]v.供应,提供;装备,布置
-intellectual[,intə'lektjuəl,-tʃuəl]n.知识分子a.智力的,理智的,有理解力的
-qualification[,kwɔlifi'keiʃən]n.资格;限定,条件;合格证
-appearance[ə'piərəns]n.出现,露面;外表;(在会议等)作短暂露面
-aspect['æspekt]n.样子,面貌,(问题等的)方面
-liquid['likwid]n.液体a.液体的,液态的
-lad[læd]n.男孩,小伙子
-apply
-exterior[ik'stiəriə]a.外部的,外面的n.外部
-preference['prefərəns]n.(for,to)偏爱;优惠;
+challenge['tʃælindʒ]n.挑战(书);艰巨任务,难题v.向…挑战 
+establish[i'stæbliʃ]v.建立,设立;安置,使定居 
+furnish['fə:niʃ]v.供应,提供;装备,布置 
+intellectual[,intə'lektjuəl,-tʃuəl]n.知识分子a.智力的,理智的,有理解力的 
+qualification[,kwɔlifi'keiʃən]n.资格;限定,条件;合格证 
+appearance[ə'piərəns]n.出现,露面;外表;(在会议等)作短暂露面 
+aspect['æspekt]n.样子,面貌,(问题等的)方面  
+liquid['likwid]n.液体a.液体的,液态的 
+lad[læd]n.男孩,小伙子 
+apply 
+exterior[ik'stiəriə]a.外部的,外面的n.外部 
+preference['prefərəns]n.(for,to)偏爱;优惠; 
 elbow['elbəu]n.肘,(衣服的)肘部vt.用肘推
 discipline['disiplin]n.学科;纪律;训练;惩罚vt.训练,训导;惩戒
 thrill[θril]n.一阵激动(恐惧)v.激动;(使)毛骨悚然
