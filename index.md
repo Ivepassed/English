@@ -16,12 +16,10 @@ challenge      n.挑战(书);艰巨任务,难题 v.向…挑战
 **furnish        v.供应,提供;装备,布置**  
 establish      v.建立,设立;安置,使定居  
 **intellectual   n.知识分子 a.智力的，理智的，有理解力的**  
-qualification  n.资格,合格;限定,条件;合格证  
-worthy a.(of)值得…的,配得上…的;有价值的  
+qualification  n.资格,合格;限定,条件;合格证
 appearance     n.出现，露面；外表；(在会议等)作短暂露面  
 aspect         n.样子, 外表, 面貌, (问题等的)方面  
-liquid         n.液体 a.液体的,液态的  
-sword          n.剑，刀  
+liquid         n.液体 a.液体的,液态的
 **lad            n.男孩；少年；男青年；小伙子**  
 apply        vi.(以书面形式)申请；请求 vt.应用；实施  
 exterior       a.外部的,外面的 n.外部  
