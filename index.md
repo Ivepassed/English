@@ -10,10 +10,8 @@
 - [Word List 41](#word-list-41) - [Word List 42](#word-list-42) - [Word List 43](#word-list-43) - [Word List 44](#word-list-44) - [Word List 45](#word-list-45)
 - [Word List 46](#word-list-46) - [Word List 47](#word-list-47) - [Word List 48](#word-list-48) - [Word List 49](#word-list-49) - [Word List 50](#word-list-50)
 
-[markdown toc](#markdown-toc)
-
 # **Word List 1**
-
+[markdown toc](#markdown-toc)
 challenge      n.挑战(书);艰巨任务,难题 v.向…挑战  
 **furnish        v.供应,提供;装备,布置**  
 establish      v.建立,设立;安置,使定居  
