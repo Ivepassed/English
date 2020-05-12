@@ -1,4 +1,4 @@
-- [Word List 1](#word-list-1)     - [Word List 2](#word-list-2)   - [Word List 3](#word-list-3)   - [Word List 4](#word-list-4)   - [Word List 5](#word-list-5)
+- [Word List 1](#word-list-1)   - [Word List 2](#word-list-2)   - [Word List 3](#word-list-3)   - [Word List 4](#word-list-4)   - [Word List 5](#word-list-5)
 - [Word List 6](#word-list-6)   - [Word List 7](#word-list-7)   - [Word List 8](#word-list-8)   - [Word List 9](#word-list-9)   - [Word List 10](#word-list-10)
 - [Word List 11](#word-list-11) - [Word List 12](#word-list-12) - [Word List 13](#word-list-13) - [Word List 14](#word-list-14) - [Word List 15](#word-list-15)
 - [Word List 16](#word-list-16) - [Word List 17](#word-list-17) - [Word List 18](#word-list-18) - [Word List 19](#word-list-19) - [Word List 20](#word-list-20)
