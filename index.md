@@ -3393,464 +3393,464 @@ ownership  n. 所有（权），所有制
 
 # **Word List 45**  
 
-assignment n.分配，委派，任务，课外作业  
+assignment 	n.分配，委派，任务，课外作业  
 confuse    vt.使混乱，混淆，使迷惑，使糊涂  
 acid n.酸，adj.酸的，尖酸的，  
 **holy       adj.神圣的，圣洁的**  
 alliance   n.结盟，联盟，联姻  
 **lag        vi.落后于，滞后于, n.落后，滞后**  
 criterion  n.评判的标准，准则  
-**refund     vt.退还，偿还，退款 n.退款，偿还额，**  
-update     vt.更新，使现代化  
-guilty     adj.有罪的，内疚的  
-comparison n.比较，对比，比喻，比拟  
-profitable adj.有利可图的，有益的  
+**refund   	  vt.退还，偿还，退款 n.退款，偿还额，**  
+update   	  vt.更新，使现代化  
+guilty     	adj.有罪的，内疚的  
+comparison 		n.比较，对比，比喻，比拟  
+profitable 		adj.有利可图的，有益的  
 **permanent adj.永久的，持久的**  
-roast     vi.&vt.烤，炙，烘  
-**sphere    n.球，球体，范围，领域**  
-**sham      n.假冒，虚伪 vt.假冒，虚伪**  
-carve     vt.&vi.雕刻  
-**trivial      adj.琐碎的，无足轻重的**  
-**overwhelming adj.势不可挡的，压倒的**  
-crush      vt.压碎，压坏，vi.压碎，压坏，压服，压垮  
-**scattered  adj.离散的，分散的**  
-tenant     n.承租人，房客，佃户  
-**deficiency n.缺乏，不足，缺陷，缺点**  
-accustomed adj.惯常的，习惯的  
-lower      adj.较低的，下级的，下游的 vt.&vi.使降低，放低  
-**appetite   n.食欲，胃口，欲望，爱好，要求**  
-**courtyard  n.庭院，院子**  
-**breed      vt.&vi.繁殖，生殖，造成，引起,教养，抚养，饲养n.品种，种类**  
-**infrared   adj.红外线的 n.红外线**  
-coherent   adj.粘着的，粘附的  
-assistance n.帮助，援助  
-curse   vt.&vi.诅咒，咒骂  
-violate vt.违反，违背  
-zigzag  adj.之字形，之字形的，vi.使成之字形，曲折盘旋  
-instruct  vt.教、教授，命令、指示 instructive 有教育意义的  
-rarely ad.很少、难得，稀有的  
-evolution n. 进化、渐进、演化  
-entry   n.进入，入口、通道，记载、条目  
-**plantation  n.种植园**  
-landlady   n.女房东、女地主  
-**engagement   n.约会、约定，婚约、订婚**  
-strengthen    v.加强、巩固  
-embrace   v.拥抱 vt. 包含  
-parliament  n. 国会、议会  
-pose vt. 造成（困难等）、提出（问题等）、陈述（观点等） vi.摆姿势，假装、冒充  
-shopkeeper n.店主  
-enthusiastic  a. 热情的、热心的  
-merely ad. 仅仅，只不过  
-**mortgage n./vt. 抵押（借款）**  
-**notorious  a. 臭名昭著的、声名狼藉的、从所周知**的  infamous / disreputable  
-**disturb vt. 扰乱、妨碍，使不安、使烦恼**  
-**parasite   n.寄生虫**  
-**confidential  a. 秘密的、机密的 ，亲信的**  
-**dramatic   a. 戏剧的、戏剧性的，巨大的、突然的**  
-**chip   n. 碎片 ，（土豆等）薄片，芯片**  
-sincere  a.诚挚的、诚恳的，忠实的、忠诚的  
-**vertical  a. 垂直的、竖的 n.垂线**  
-**marine  a. 海的、海生的 ，船舶的、航海的**  
-**impetus   n. 推动力、促进**  
-nephew    n.外甥、侄子  
-naughty  adj.淘气的 、顽皮的，猥亵的  
-apart    v.分开，使分离  
-perform  v.做，  
-punctual adj.守时的  
-boycott  vt.联合抵制  
-license  n.许可证，证件  
-theft    n.偷盗  
-alphabet n.字母表  
-scarf    n.围巾，头巾  
-litter   n.垃圾，一窝动物  
-overcome v.克服  
-**sponge   n.海绵，抹掉**  
-slight   adj.微小的
+roast     	vi.&vt.烤，炙，烘  
+**sphere 	   n.球，球体，范围，领域**  
+**sham     	 n.假冒，虚伪 vt.假冒，虚伪**  
+carve     	vt.&vi.雕刻  
+**trivial     	adj.琐碎的，无足轻重的**  
+**overwhelming 			adj.势不可挡的，压倒的**  
+crush		      vt.压碎，压坏，vi.压碎，压坏，压服，压垮  
+**scattered  	adj.离散的，分散的**  
+tenant     		n.承租人，房客，佃户  
+**deficiency 	n.缺乏，不足，缺陷，缺点**  
+accustomed 	adj.惯常的，习惯的  
+lower     			 adj.较低的，下级的，下游的 vt.&vi.使降低，放低  
+**appetite   	n.食欲，胃口，欲望，爱好，要求**  
+**courtyard  	n.庭院，院子**  
+**breed    		  vt.&vi.繁殖，生殖，造成，引起,教养，抚养，饲养n.品种，种类**  
+**infrared	   adj.红外线的 n.红外线**  
+coherent   	adj.粘着的，粘附的  
+assistance 	n.帮助，援助  
+curse   		vt.&vi.诅咒，咒骂  
+violate 			vt.违反，违背  
+zigzag  		adj.之字形，之字形的，vi.使成之字形，曲折盘旋  
+instruct  		vt.教、教授，命令、指示 instructive 有教育意义的  
+rarely 			ad.很少、难得，稀有的  
+evolution	 		n. 进化、渐进、演化  
+entry  		 n.进入，入口、通道，记载、条目  
+**plantation  	n.种植园**  
+landlady   	n.女房东、女地主  
+**engagement  	 n.约会、约定，婚约、订婚**  
+strengthen  	  v.加强、巩固  
+embrace  	 v.拥抱 vt. 包含  
+parliament  	n. 国会、议会  
+pose 				vt. 造成（困难等）、提出（问题等）、陈述（观点等） vi.摆姿势，假装、冒充  
+shopkeeper 		n.店主  
+enthusiastic  		a. 热情的、热心的  
+merely 				ad. 仅仅，只不过  
+**mortgage 	n./vt. 抵押（借款）**  
+**notorious  	a. 臭名昭著的、声名狼藉的、从所周知**的  infamous / disreputable  
+**disturb 		vt. 扰乱、妨碍，使不安、使烦恼**  
+**parasite 	  n.寄生虫**  
+**confidential 	 a. 秘密的、机密的 ，亲信的**  
+**dramatic       a. 戏剧的、戏剧性的，巨大的、突然的**  
+**chip  	 n. 碎片 ，（土豆等）薄片，芯片**  
+sincere 	 a.诚挚的、诚恳的，忠实的、忠诚的  
+**vertical  	a. 垂直的、竖的 n.垂线**  
+**marine  	a. 海的、海生的 ，船舶的、航海的**  
+**impetus  	 n. 推动力、促进**  
+nephew  	  n.外甥、侄子  
+naughty  	adj.淘气的 、顽皮的，猥亵的  
+apart 	   v.分开，使分离  
+perform 	 v.做，  
+punctual 	adj.守时的  
+boycott  	vt.联合抵制  
+license 	 n.许可证，证件  
+theft  	  	n.偷盗  
+alphabet 		n.字母表  
+scarf  		  n.围巾，头巾  
+litter   		n.垃圾，一窝动物  
+overcome	 v.克服  
+**sponge  	 n.海绵，抹掉**  
+slight   	adj.微小的
 
 # **Word List 46**  
 
-effective a. 有效的、生效的，给人深刻印象的、显著的 ineffective 无效的  
-proof n. 证据、证明，校样、样张  
-amplify vt. 放大、增强 expand  cf. **deflate vt. 放弃、使缩小 shrink vi. 缩小**  
-renaissance n. (文学、艺术等的)复兴、再生、新生，文艺复兴、文艺复兴时期  
-capsule n. 胶囊，太空舱  
-bypass/by-pass n. 旁路、迂回旁道，搭桥术、旁通管 bypass
-operation(心血管)搭桥手术  
-confess v. 供认、承认，坦白、忏悔 cf. profess v. 表示 process n. 过程  
-impatient a.不耐烦的、急躁的 impatiently ad. 无耐性地、焦躁地  
-outcome n. 结果、成果  
-lash v. **（用绳索等）将（物品）系牢，鞭打、抽打，（风雨等）猛烈打击，抨击、斥责
+effective		 a. 有效的、生效的，给人深刻印象的、显著的 ineffective 无效的  
+proof 		n. 证据、证明，校样、样张  
+amplify 		vt. 放大、增强 expand  cf. **deflate vt. 放弃、使缩小 shrink vi. 缩小**  
+renaissance		 n. (文学、艺术等的)复兴、再生、新生，文艺复兴、文艺复兴时期  
+capsule 		n. 胶囊，太空舱  
+bypass/by-pass 		n. 旁路、迂回旁道，搭桥术、旁通管 bypass
+operation			(心血管)搭桥手术  
+confess 			v. 供认、承认，坦白、忏悔 cf. profess v. 表示 process n. 过程  
+impatient 			a.不耐烦的、急躁的 impatiently ad. 无耐性地、焦躁地  
+outcome			 n. 结果、成果  
+lash 			v. **（用绳索等）将（物品）系牢，鞭打、抽打，（风雨等）猛烈打击，抨击、斥责
 n. 鞭打，眼睫毛，鞭子、鞭梢**  
-**prudent a. 谨慎的、深谋远虑的**  
-factor n. 因素 factual a.事实的、实际的 辩：element /ingredient  
-nap n. 小睡、打盹  
-finding n. 发现、发现物， 调查（研究）结果  
-astronaut n. 宇航员  
-overpass n. 过街天桥 overbridge n. 天桥  
-**plight n. 困境、苦境**  
-muscular a.肌肉的，肌肉发达的  
-video n. 电视、视频，录像a.电视的、视频的 ，录像的  
-vocabulary n. 词汇、词汇量，词汇表  
-cite vt. 引用、引证、举例  cf.excite vi 兴奋  
-portray vt. 描写、描绘，扮演、饰演 depict /describe  
-unfortunately ad.不幸地、可惜地  
-adolescent n. 青少年a.青春期的、青少年的  
-**mug n.大杯 vt. 对…行凶抢劫**  
-cotroversy n. 争论、辩论  
-barn n.谷仓、畜棚  
-possibility n.可能、可能性，可能的事，希望  
-sociology n. 社会学  
-skeleton n. 骨骼、骨架，框架，梗概、提要  
-rent n. 租、租赁vt.租金  
-horn n. （牛、羊等的）角、触角，号、喇叭，角状物、角制品  
-imagine vt. 想象、设想、料想  
-bureaucracy n. 官僚、官僚主义、官僚作风，（公司的）管理人员  
-**hysterical a. 情绪异常激动的、**  
-**greedy a. 贪婪的，贪吃的，渴望的**  
-**conscientious a.认真的、勤勤恳恳的 scrupulous**  
-participant n. 参加者、参与者  
-**complication n.复杂、纠纷，并发症**  
-therapy n.治疗、理疗  
-sour a. 酸的、发酸的、酸痛的，脾气坏的、刻薄的  
-**sensation n.感觉、知觉，激动、轰动，轰动一时的事情 perception n.感知、感觉**  
-**label n. 标签、标记，称号、外号 vt.贴标签于…，把…称为**  
-electrical a.电的、电学的  
-**scholarship n.奖学金，学问、学识**  
-**rational a. 理性的、合理的**  
-**passive a.被动的、消极的**  
-responsibility n.责任、责任心，职责、任务  
-**odd a.奇数的、单的，奇怪的、古怪的，临时的、不固定的，带零头的，余的**  
-gossip n.流言蜚语，说长道短的人 vi.传播流言蜚语、说长道短  
-perfection n.尽善尽美、完美  
-routine n.例行公事、常规 a.常规的、例行的  
-saddle n.鞍、马鞍、鞍状物 in the saddle在职、掌权 cf.sandal n.凉鞋  
-**correspondence n.通信、信件，符合、一致，相当、相似**  
-submarine n.潜水艇 a.水底的、海底的  
-finite a. 有限的 cf.boundless a.无限的、无边无际的  
-**candidate n. 候选人、候补人，报考者**  
-mystery n.神秘、神秘的事物，神秘小说、侦探小说  
-garbage n.垃圾  
-resemblance n.相似、相似处 similarity 、likeness cf. dissimilarity  
-dimension n.尺寸、尺度，维数、度数  
-**resolve v. 决心，决定，使分解、溶解，决议，解决 n.解决、解答，决心，决议，
-resolved a.下定决心的**  
-album n.粘贴簿、集邮簿、相册  
-insurance n. 保险、保险费、保险业 accident insurance 意外险  
-drum n.鼓，圆桶 drummer 鼓手  
-clay n. 黏土、泥土  
-regulate vt. 管制、控制，调节、校准，调整  
-likely a. 很可能的、有希望的ad.大概、多半  
-conceive v.设想、想象、构思、以为，怀胎、受孕conceive of 想象、设想，  
-**discreet a. 谨慎的、慎重的 discrete a. 不连续的**  
-trademark n.商标 brand 商标、牌子  
-**gross a. 总的、毛重的，显而易见的、粗鲁的**  
-infinite a.无限的、无穷的，n.无限
+**prudent 			a. 谨慎的、深谋远虑的**  
+factor 			n. 因素 factual a.事实的、实际的 辩：element /ingredient  
+nap 			n. 小睡、打盹  
+finding 			n. 发现、发现物， 调查（研究）结果  
+astronaut 			n. 宇航员  
+overpass 				n. 过街天桥 overbridge n. 天桥  
+**plight		 n. 困境、苦境**  
+muscular 			a.肌肉的，肌肉发达的  
+video		 n. 电视、视频，录像a.电视的、视频的 ，录像的  
+vocabulary 		n. 词汇、词汇量，词汇表  
+cite			 vt. 引用、引证、举例  cf.excite vi 兴奋  
+portray 			vt. 描写、描绘，扮演、饰演 depict /describe  
+unfortunately 			ad.不幸地、可惜地  
+adolescent 			n. 青少年a.青春期的、青少年的  
+**mug			 n.大杯 vt. 对…行凶抢劫**  
+cotroversy 			n. 争论、辩论  
+barn 			n.谷仓、畜棚  
+possibility			 n.可能、可能性，可能的事，希望  
+sociology 			n. 社会学  
+skeleton			 n. 骨骼、骨架，框架，梗概、提要  
+rent 			n. 租、租赁vt.租金  
+horn 			n. （牛、羊等的）角、触角，号、喇叭，角状物、角制品  
+imagine 			vt. 想象、设想、料想  
+bureaucracy			 n. 官僚、官僚主义、官僚作风，（公司的）管理人员  
+**hysterical				a. 情绪异常激动的、**  
+**greedy				 a. 贪婪的，贪吃的，渴望的**  
+**conscientious 			a.认真的、勤勤恳恳的 scrupulous**  
+participant			 n. 参加者、参与者  
+**complication 			n.复杂、纠纷，并发症**  
+therapy 					n.治疗、理疗  
+sour 					a. 酸的、发酸的、酸痛的，脾气坏的、刻薄的  
+**sensation 				n.感觉、知觉，激动、轰动，轰动一时的事情 perception n.感知、感觉**  
+**label 					n. 标签、标记，称号、外号 vt.贴标签于…，把…称为**  
+electrical 					a.电的、电学的  
+**scholarship 				n.奖学金，学问、学识**  
+**rational 				a. 理性的、合理的**  
+**passive				 a.被动的、消极的**  
+responsibility 			n.责任、责任心，职责、任务  
+**odd				 a.奇数的、单的，奇怪的、古怪的，临时的、不固定的，带零头的，余的**  
+gossip 			n.流言蜚语，说长道短的人 vi.传播流言蜚语、说长道短  
+perfection			 n.尽善尽美、完美  
+routine 				n.例行公事、常规 a.常规的、例行的  
+saddle 				n.鞍、马鞍、鞍状物 in the saddle在职、掌权 cf.sandal n.凉鞋  
+**correspondence 		n.通信、信件，符合、一致，相当、相似**  
+submarine			 n.潜水艇 a.水底的、海底的  
+finite 					a. 有限的 cf.boundless a.无限的、无边无际的  
+**candidate 				n. 候选人、候补人，报考者**  
+mystery 				n.神秘、神秘的事物，神秘小说、侦探小说  
+garbage 				n.垃圾  
+resemblance 			n.相似、相似处 similarity 、likeness cf. dissimilarity  
+dimension 				n.尺寸、尺度，维数、度数  
+**resolve 			v. 决心，决定，使分解、溶解，决议，解决 n.解决、解答，决心，决议，
+resolved 				a.下定决心的**  
+album 				n.粘贴簿、集邮簿、相册  
+insurance 				n. 保险、保险费、保险业 accident insurance 意外险  
+drum 					n.鼓，圆桶 drummer 鼓手  
+clay 				n. 黏土、泥土  
+regulate 				vt. 管制、控制，调节、校准，调整  
+likely 				a. 很可能的、有希望的ad.大概、多半  
+conceive 				v.设想、想象、构思、以为，怀胎、受孕conceive of 想象、设想，  
+**discreet 				a. 谨慎的、慎重的 discrete a. 不连续的**  
+trademark 					n.商标 brand 商标、牌子  
+**gross				 a. 总的、毛重的，显而易见的、粗鲁的**  
+infinite 					a.无限的、无穷的，n.无限
 
 # **Word List 47**  
 
-independence n.独立、自主 bid for independence 寻求独立  
-internal a.内部的、内的，国内的、内政的  
-**apparatus n.器械、设备、仪器、装置 mechanic** apparatus 机械设备  
-persuasion n.说服、说服力  
-**original a. 最初的、原始的、原文的， 新颖的、有独创性的 n. 原物、原作、原文**  
-dial n. 钟表、刻度盘、拨号盘，v. 拨号、打电话  
-disaster n. 灾难、天灾  
-**physician n.内科医生**  
-confusion n.混乱、混淆  
-pigeon n.鸽  
-toss v. 是摇摆、颠簸，向上扔，辗转反侧  
-criticism n.批评、评论  
-differ vi. （from）与。。。不同，（with）与。。。意见不同  
-aerial a. 空中的、航空的，n.天线  
-radar n.雷达radar screen雷达屏幕  
-**reciprocal a. 相互的、往复的、互利的**  
-**poultry n.家禽**  
-reputation n.名声、声望  
-**fracture n.裂缝、裂痕，骨折，v. 使断裂、是折断**  
-starve v. 使饿死、挨饿  
-decrease v. 使减少、减小，n. 减少、减小  
-accessory n.附件、配件，附属的  
-withess n.目击者、证人 ，证据、证明 vt. 目击、目睹 ，作证  
-**stagger vt.使吃惊、，使错开、使交错 vi. 蹒跚、摇晃 stagger to one’s feet
+independence 		n.独立、自主 bid for independence 寻求独立  
+internal 				a.内部的、内的，国内的、内政的  
+**apparatus 			n.器械、设备、仪器、装置 mechanic** apparatus 机械设备  
+persuasion 			n.说服、说服力  
+**original			a. 最初的、原始的、原文的， 新颖的、有独创性的 n. 原物、原作、原文**  
+dial 						n. 钟表、刻度盘、拨号盘，v. 拨号、打电话  
+disaster			 n. 灾难、天灾  
+**physician 			n.内科医生**  
+confusion 		n	.混乱、混淆  
+pigeon 				n.鸽  
+toss				 v. 是摇摆、颠簸，向上扔，辗转反侧  
+criticism 	n.批评、评论  
+differ 			vi. （from）与。。。不同，（with）与。。。意见不同  
+aerial 			a. 空中的、航空的，n.天线  
+radar 				n.雷达radar screen雷达屏幕  
+**reciprocal 		a. 相互的、往复的、互利的**  
+**poultry			 n.家禽**  
+reputation 			n.名声、声望  
+**fracture 			n.裂缝、裂痕，骨折，v. 使断裂、是折断**  
+starve 				v. 使饿死、挨饿  
+decrease 				v. 使减少、减小，n. 减少、减小  
+accessory			 n.附件、配件，附属的  
+withess				 n.目击者、证人 ，证据、证明 vt. 目击、目睹 ，作证  
+**stagger			 vt.使吃惊、，使错开、使交错 vi. 蹒跚、摇晃 stagger to one’s feet
 摇摇晃晃地站起来 n.蹒跚、踉跄**  
-departure n.离开、启程  
-**optimum a. 最好的、最有利的**  
-**tender a. 嫩的，脆弱的、敏感的，温柔的、温厚的，v. 提出、提供，投标 tender
+departure				 n.离开、启程  
+**optimum 			a. 最好的、最有利的**  
+**tender 				a. 嫩的，脆弱的、敏感的，温柔的、温厚的，v. 提出、提供，投标 tender
 for投标**  
-**bearing n.举止、风度，方位、方向感，轴承**  
-automatic n.自动机械 a. 自动的、机械的、无意识的  
-**furious a. 狂怒的、狂暴的、猛烈的**  
+**bearing 				n.举止、风度，方位、方向感，轴承**  
+automatic			 n.自动机械 a. 自动的、机械的、无意识的  
+**furious 				a. 狂怒的、狂暴的、猛烈的**  
 concerning prep. 关于  
-puzzle n.难题、谜、迷惑 word puzzles填字游戏 vt. 使迷惑、使为难  
-**span n.跨度、跨距、范围**  
-**territory n.领土、版图，领域、范围**  
-giant n.巨人、巨物，industrial giants 工业巨头  
-economics n.经济学，经济情况  
-**ignite v.点火、引燃**  
-**civilise/civilize vt.使文明、教化**  
-sunset n.日落  
-**treason n.谋反、通敌、叛国**  
-pursuit n.追赶、追求，职业、工作  
-column n.圆柱、柱状物，列、**（报刊中的）专栏**  
-**resent vt. 对。。。表示愤恨、怨恨**  
-mature a.成熟的、熟的、成年人的v. （使）成熟  
-heading n.标题  
-**cyberspace n.计算机世界、网络空间**  
-revolve v.  使旋转 revolve around… 绕。。。旋转  
-enroll v. 招收、登记、入学  
-feudal a.封建的  
-minmize vt. 使减到最少、使降到最低  
-**heap n.（一）堆、大量、许多 v. （up）堆、堆起**  
-shorthand n. 速记  
-reluctant n.（to do ）不愿的、勉强的  
-bride n. 新娘 cf. bribe n.贿赂  
-plunge v.使投入、使插进、陷入，猛冲 n. 投入、尝试 plunge into 使投入 ，  
-velvet n. 丝绒、天鹅绒 a. 丝绒制的，柔软的  
-**hollow a.空的、中空的，空洞的、空虚的 vt. （out）挖空、凿空**  
-**retort vt./n. 反驳、回嘴**  
-striking a. 显著的、惊人的  
-exclaim v. 呼喊、惊叫、大声说，cf. proclaim 宣布 acclaim 欢呼 declaim 高声朗读  
-**expel vt. 把。。。开除，驱逐，排出** expel sb. from the school 开除某人的学籍  
-sometime  ad. 曾经、在某一时刻、有一天  
-**duplicate n. 复制品、副本，a. 复制的、二重的、二倍的 vt. 复写、复制、使加倍**  
-diagram n.图表、图解  
-**chronic a. （疾病）慢性的，积习难改的，严重的、坏的**  
-vast a. 巨大的、辽阔的、大量的，巨额的  
-nowhere ad. 任何地方都不，没有地方 nowhere near 离。。。很远  
-independent a. 独立的、自主的 independent of  
-tolerate vt. 容忍、默许  
-religious a. 宗教的、信教的、虔诚的  
-unlikely a. 未必的、不可能的、靠不住的  
-abolish vt. 废除、取消 annul ,destroy  
-**lens n. 透镜、镜头contact lens 隐形眼镜**
+puzzle 			n.难题、谜、迷惑 word puzzles填字游戏 vt. 使迷惑、使为难  
+**span 				n.跨度、跨距、范围**  
+**territory 				n.领土、版图，领域、范围**  
+giant 				n.巨人、巨物，industrial giants 工业巨头  
+economics 			n.经济学，经济情况  
+**ignite 			v.点火、引燃**  
+**civilise/civilize 		vt.使文明、教化**  
+sunset 			n.日落  
+**treason 			n.谋反、通敌、叛国**  
+pursuit 			n.追赶、追求，职业、工作  
+column 			n.圆柱、柱状物，列、**（报刊中的）专栏**  
+**resent 			vt. 对。。。表示愤恨、怨恨**  
+mature			 a.成熟的、熟的、成年人的v. （使）成熟  
+heading 			n.标题  
+**cyberspace 		n.计算机世界、网络空间**  
+revolve 				v.  使旋转 revolve around… 绕。。。旋转  
+enroll 				v. 招收、登记、入学  
+feudal 				a.封建的  
+minmize 				vt. 使减到最少、使降到最低  
+**heap 				n.（一）堆、大量、许多 v. （up）堆、堆起**  
+shorthand 					n. 速记  
+reluctant 				n.（to do ）不愿的、勉强的  
+bride 				n. 新娘 cf. bribe n.贿赂  
+plunge 					v.使投入、使插进、陷入，猛冲 n. 投入、尝试 plunge into 使投入 ，  
+velvet 				n. 丝绒、天鹅绒 a. 丝绒制的，柔软的  
+**hollow				 a.空的、中空的，空洞的、空虚的 vt. （out）挖空、凿空**  
+**retort 				vt./n. 反驳、回嘴**  
+striking				 a. 显著的、惊人的  
+exclaim 				v. 呼喊、惊叫、大声说，cf. proclaim 宣布 acclaim 欢呼 declaim 高声朗读  
+**expel 				vt. 把。。。开除，驱逐，排出** expel sb. from the school 开除某人的学籍  
+sometime 				 ad. 曾经、在某一时刻、有一天  
+**duplicate			 n. 复制品、副本，a. 复制的、二重的、二倍的 vt. 复写、复制、使加倍**  
+diagram				 n.图表、图解  
+**chronic 			a. （疾病）慢性的，积习难改的，严重的、坏的**  
+vast 			a. 巨大的、辽阔的、大量的，巨额的  
+nowhere 				ad. 任何地方都不，没有地方 nowhere near 离。。。很远  
+independent 			a. 独立的、自主的 independent of  
+tolerate			 vt. 容忍、默许  
+religious 				a. 宗教的、信教的、虔诚的  
+unlikely 			a. 未必的、不可能的、靠不住的  
+abolish 			vt. 废除、取消 annul ,destroy  
+**lens 				n. 透镜、镜头contact lens 隐形眼镜**
 
 # **Word List 48**  
 
-rob vt. （of）抢劫、盗取，剥夺 cf. robot 机器人  
-**premium n.保险金，额外费用、加付款，奖赏、赠品、额外津贴a.
+rob 			vt. （of）抢劫、盗取，剥夺 cf. robot 机器人  
+**premium 			n.保险金，额外费用、加付款，奖赏、赠品、额外津贴a.
 高级的、优质的，售价高的**premium system 奖励制度  
-**elite n. 上层人士、掌权人物、实力集团 elitism 精英论**  
-preserve vt. 保护、维持，保存、保藏，腌制 n. 专门领域  
-**imitate vt. 模仿、仿效，仿造、伪造**  
-significant a. 有意义的、重大的、重要的  
-staircase /stairway n.楼梯  
-surpass vt. 超过、胜过  
-compassion n.同情、怜悯  
-nourish vt. 提供养分、养育 nourishing a. 有营养的  
-fortnight n.两星期  
-briliant a. 光辉的、灿烂的，卓越的、有才华的  
-liberty n.自由 at liberty 自由、有空  
-bulk n. 体积、容积，大批、大量、大块in bulk 散装、大批、大量  
-cope vi. （with）竞争、对抗，对付、应付、妥善处理  
-aluminium n.铝  
-**porter n.搬运工人、门房**  
-acclaim vt. 向。。。欢呼、为。。。喝彩 n. 称赞  
-disastrous a. 灾难性的 calamitous a. 多灾多难的、不幸的  
-erupt vi.（尤指火山）爆发  
-tune n. 调子、曲调，v. 调音、调频，调整、调节 tune in (to sth.) 收听  
-energetic a. 有力的、精力旺盛的 energy-intensive 能源密集型的  
-**sarcastic a. 讽刺的、挖苦的、嘲笑的**  
-**chap n. 小伙子、家伙**  
-hug n./vt. 热烈拥抱、紧抱  
-brake v. 刹车，n.制动器、闸、刹车  
-**annual a. 每年的、年度的 n. 年刊、年鉴**  
-**snatch n. 攫取、抢夺，v. 攫取、抢夺**  
-**minature n.缩小的规模、缩图 a. 微型的、缩小的**  
-**epoch n.时期、朝代**  
-conversely ad. 相反  
-equip vt. （with）装备、配备  
-**prosecute vt. 继续从事，对。。。提起诉讼、告发、检举**  
-hike n.徒步旅行，增加、上升 vi.徒步旅行，vt. 提高（价格等）  
-**particle n.粒子、微粒，小品词、虚词**  
-**genetics n.遗传学**  
-**formulate vt. 构想、形成，系统地阐述**  
-**pneumonia n.肺炎**  
-**impulse n.推动力，冲动、刺激 a charitable impulse 怜悯 on (the ) impulse (of…)
+**elite 			n. 上层人士、掌权人物、实力集团 elitism 精英论**  
+preserve			 vt. 保护、维持，保存、保藏，腌制 n. 专门领域  
+**imitate			 vt. 模仿、仿效，仿造、伪造**  
+significant 			a. 有意义的、重大的、重要的  
+staircase /stairway			 n.楼梯  
+surpass			 vt. 超过、胜过  
+compassion			 n.同情、怜悯  
+nourish 			vt. 提供养分、养育 nourishing a. 有营养的  
+fortnight 			n.两星期  
+briliant 				a. 光辉的、灿烂的，卓越的、有才华的  
+liberty			 n.自由 at liberty 自由、有空  
+bulk 				n. 体积、容积，大批、大量、大块in bulk 散装、大批、大量  
+cope 			vi. （with）竞争、对抗，对付、应付、妥善处理  
+aluminium 			n.铝  
+**porter 			n.搬运工人、门房**  
+acclaim 				vt. 向。。。欢呼、为。。。喝彩 n. 称赞  
+disastrous				 a. 灾难性的 calamitous a. 多灾多难的、不幸的  
+erupt					 vi.（尤指火山）爆发  
+tune 				n. 调子、曲调，v. 调音、调频，调整、调节 tune in (to sth.) 收听  
+energetic 			a. 有力的、精力旺盛的 energy-intensive 能源密集型的  
+**sarcastic 			a. 讽刺的、挖苦的、嘲笑的**  
+**chap 			n. 小伙子、家伙**  
+hug 			n./vt. 热烈拥抱、紧抱  
+brake 			v. 刹车，n.制动器、闸、刹车  
+**annual 			a. 每年的、年度的 n. 年刊、年鉴**  
+**snatch 			n. 攫取、抢夺，v. 攫取、抢夺**  
+**minature			 n.缩小的规模、缩图 a. 微型的、缩小的**  
+**epoch 			n.时期、朝代**  
+conversely 				ad. 相反  
+equip			 vt. （with）装备、配备  
+**prosecute 			vt. 继续从事，对。。。提起诉讼、告发、检举**  
+hike 			n.徒步旅行，增加、上升 vi.徒步旅行，vt. 提高（价格等）  
+**particle 			n.粒子、微粒，小品词、虚词**  
+**genetics 				n.遗传学**  
+**formulate				 vt. 构想、形成，系统地阐述**  
+**pneumonia 			n.肺炎**  
+**impulse 			n.推动力，冲动、刺激 a charitable impulse 怜悯 on (the ) impulse (of…)
 凭（…的）冲动**  
-naval a.海军的、军舰的  
-towel n.毛巾  
-lunar a. 月的、月亮的 **lunar calendar 农历**  
-relax v. （使）松弛、放松、休息  
-beneficial a. 有利的、有益的  
-suicide n.自杀、自取灭亡 physician-assisted suicide 医生帮助下的自杀  
-**gorgeous a. 华丽的、绚丽的，令人十分痛快的、极好的**  
-requirement n.（for ，of）需要、需要的东西、要求  
-coke n.焦炭、焦煤 ，可口可乐【C】 ，可卡因  
-consume vt. 消费、消耗、耗尽  
-lord n.（The Lord 上帝、主，）主人、长官、君主、贵族 the Lord Chancellor 大法官  
-bandage n.绑带 vt. 用绑带扎缚  
-**sanction vt. 批准、认可，n. 批准、认可，约束因素、约束力 【pl】国际仲裁**  
-agenda n.议事日程  
-breast n.胸膛、乳房  
-corresponding a. 符合的、相应的、对应的  
-seemingly ad. 表面上、看上去 apparently  ad. 显然、表面上 ostensibly 表面上  
-**veto  n.否决权、vt. 否决  prohibit /interdiction ,cf. approve 批准、通过
+naval 			a.海军的、军舰的  
+towel 				n.毛巾  
+lunar 				a. 月的、月亮的 **lunar calendar 农历**  
+relax 					v. （使）松弛、放松、休息  
+beneficial 				a. 有利的、有益的  
+suicide 				n.自杀、自取灭亡 physician-assisted suicide 医生帮助下的自杀  
+**gorgeous				 a. 华丽的、绚丽的，令人十分痛快的、极好的**  
+requirement 				n.（for ，of）需要、需要的东西、要求  
+coke 				n.焦炭、焦煤 ，可口可乐【C】 ，可卡因  
+consume 				vt. 消费、消耗、耗尽  
+lord 			n.（The Lord 上帝、主，）主人、长官、君主、贵族 the Lord Chancellor 大法官  
+bandage			 n.绑带 vt. 用绑带扎缚  
+**sanction 			vt. 批准、认可，n. 批准、认可，约束因素、约束力 【pl】国际仲裁**  
+agenda 			n.议事日程  
+breast 			n.胸膛、乳房  
+corresponding 				a. 符合的、相应的、对应的  
+seemingly 				ad. 表面上、看上去 apparently  ad. 显然、表面上 ostensibly 表面上  
+**veto 				n.否决权、vt. 否决  prohibit /interdiction ,cf. approve 批准、通过
 ，vote投票**  
-alcohol n. 乙醇、酒精 alcoholism n. 酒精中毒  
-province n.省，领域、范围  
-**fell vt. 砍倒、砍伐**  
-sob vi. 哭泣、呜咽  
-**prospect n.景色，前景、前途、展望**  
-crawl vi./n. 爬行、蠕动，缓慢地进行，  
-philosopher n.哲学家、哲人  
-**geometry n.几何（学）**  
-**tilt v. （使）倾倒、（使）倾侧** ，at full tilt 全速地、全力地 incline /lean.
+alcohol 				n. 乙醇、酒精 alcoholism n. 酒精中毒  
+province 				n.省，领域、范围  
+**fell 			vt. 砍倒、砍伐**  
+sob 				vi. 哭泣、呜咽  
+**prospect				 n.景色，前景、前途、展望**  
+crawl 				vi./n. 爬行、蠕动，缓慢地进行，  
+philosopher				 n.哲学家、哲人  
+**geometry 					n.几何（学）**  
+**tilt 					v. （使）倾倒、（使）倾侧** ，at full tilt 全速地、全力地 incline /lean.
 v. 使倾斜  
-per prep. 每per hour   
-density n.密集、密度、浓度  
-**beloved a. 受爱戴的、敬爱的，n. 爱人、所爱的人**  
-**quota n.定额、限额、配额**  
-historian n.历史学家
+per 				prep. 每per hour   
+density 			n.密集、密度、浓度  
+**beloved 			a. 受爱戴的、敬爱的，n. 爱人、所爱的人**  
+**quota			 n.定额、限额、配额**  
+historian 				n.历史学家
 
 # **Word List 49**  
 
-rub v. 擦、摩擦rub out  擦掉  
-**fragrant a.香的**  
-**excerpt n.摘录、选录、节录** cf. except ，expect，**exempt v. 免除**  
-**missile n. 导弹、发射物**  
-consideration n.需要考虑的事、理由，考虑、思考，体谅、照顾  
-cemetery n.坟墓、公墓  
-jealous a. 妒忌的 ，珍惜的、爱惜的， be jealous of 妒忌  
-**municipal a. 市的、市政的、市立的** municipal business 市营商业机构
+rub 			v. 擦、摩擦rub out  擦掉  
+**fragrant 			a.香的**  
+**excerpt 			n.摘录、选录、节录** cf. except ，expect，**exempt v. 免除**  
+**missile			 n. 导弹、发射物**  
+consideration 			n.需要考虑的事、理由，考虑、思考，体谅、照顾  
+cemetery 				n.坟墓、公墓  
+jealous 			a. 妒忌的 ，珍惜的、爱惜的， be jealous of 妒忌  
+**municipal 			a. 市的、市政的、市立的** municipal business 市营商业机构
 municipality 市政府  
-clergy n. 牧师、圣职者，神职人员  
-destructive a.破坏性的  
-sole a.单独的、唯一的，专有的、独有的 n. 脚垫、鞋底  
-**gut n.【pl.】勇气、胆量，内脏，肠、肠线 a. 本能的、直觉的 vt.
+clergy				 n. 牧师、圣职者，神职人员  
+destructive 			a.破坏性的  
+sole 			a.单独的、唯一的，专有的、独有的 n. 脚垫、鞋底  
+**gut 				n.【pl.】勇气、胆量，内脏，肠、肠线 a. 本能的、直觉的 vt.
 毁坏（建筑物等）的内部，取出…的内脏**  
 **paralyze/paralyse vt.使瘫痪（麻痹）、使丧失作用**  
-calculate v. 计算、推算 ，计划、打算  
-**yield vi.出产、生长 vi. 屈服、服从， n. 产量、收**获  yield to 屈服、服从  
-create vt. 创造、创作，引起、造成、建立  
-blossom n. 花  vt. 开花，成长、发展  
-predominant a.（over）占优势的，主要的、突出的  
-glimpse n./vt. 一瞥、瞥见 catch/get a glimpse of 瞥见  
-**whirl v.使 旋转、打转 n. 旋转、急转**  
-deliver v.交付、递送、释放，发表、表达，接生  
-**escalate v. 使逐步增长或发展、是更紧张，逐步上升、逐步加强、扩大**  
-sorrow n.悲痛、悲哀  
-thereof ad. 因此、由此  
-drip  vi. 滴下、漏水，n.滴、水滴、点滴  
-canvas n. 帆布、油画布，油画  
-trash n.垃圾、废物，拙劣的文学（或艺术）作品，没用的人、社会渣滓 vt. 捣毁、破坏  
-detail n.细节、详情 ，vt. 详述 in detail 详细地  
-**hatch vi. 孵、孵出 vt. 策划、图谋 n. 舱口、小门**  
-statue n. 塑像、雕像  
-**orchard n.果园**  
-practitioner n. 开业者（尤指医生、律师等），从业者  
-impress vt. on 印，盖印 ，留下印象，引人注目（给人以印象、给物以印痕）n.印记  
-**tariff n. 关税、税率，价目表、收费表 duty、tax**  
-**section n.章节，部分，地区，部门、科，截面、剖面** cf. session n. 会议、开庭  
-**superficial a. 表面的，肤浅的、浅薄的**  
-ceremony n.典礼、仪式，礼节、礼仪 opening/closing ceremony 开/闭幕式 graduation
+calculate 			v. 计算、推算 ，计划、打算  
+**yield			 vi.出产、生长 vi. 屈服、服从， n. 产量、收**获  yield to 屈服、服从  
+create			 vt. 创造、创作，引起、造成、建立  
+blossom 			n. 花  vt. 开花，成长、发展  
+predominant 			a.（over）占优势的，主要的、突出的  
+glimpse 			n./vt. 一瞥、瞥见 catch/get a glimpse of 瞥见  
+**whirl 				v.使 旋转、打转 n. 旋转、急转**  
+deliver			v.交付、递送、释放，发表、表达，接生  
+**escalate 			v. 使逐步增长或发展、是更紧张，逐步上升、逐步加强、扩大**  
+sorrow 				n.悲痛、悲哀  
+thereof 			ad. 因此、由此  
+drip  					vi. 滴下、漏水，n.滴、水滴、点滴  
+canvas			 n. 帆布、油画布，油画  
+trash 			n.垃圾、废物，拙劣的文学（或艺术）作品，没用的人、社会渣滓 vt. 捣毁、破坏  
+detail 			n.细节、详情 ，vt. 详述 in detail 详细地  
+**hatch 			vi. 孵、孵出 vt. 策划、图谋 n. 舱口、小门**  
+statue 			n. 塑像、雕像  
+**orchard 			n.果园**  
+practitioner			 n. 开业者（尤指医生、律师等），从业者  
+impress 			vt. on 印，盖印 ，留下印象，引人注目（给人以印象、给物以印痕）n.印记  
+**tariff 			n. 关税、税率，价目表、收费表 duty、tax**  
+**section 			n.章节，部分，地区，部门、科，截面、剖面** cf. session n. 会议、开庭  
+**superficial 			a. 表面的，肤浅的、浅薄的**  
+ceremony			 n.典礼、仪式，礼节、礼仪 opening/closing ceremony 开/闭幕式 graduation
 ceremony  
-ankle n.踝  
-recruit v.招募（新兵）、招收（新成员）n. 新兵、新成员  
-priority n.先、前，优先、优先权  
-scare n. 惊恐、恐慌 v. 使惊吓、受惊  
-**nationality n.国籍、民族**  
-leather n.皮革，皮革制品  
-transport vt.运输、运送、搬运， n. 运输系统、运载工具  
-**casual a. 偶然的、碰巧的，临时的、非正式的，**casual clothes 便装 causal a.
+ankle 				n.踝  
+recruit				 v.招募（新兵）、招收（新成员）n. 新兵、新成员  
+priority 			n.先、前，优先、优先权  
+scare 				n. 惊恐、恐慌 v. 使惊吓、受惊  
+**nationality				 n.国籍、民族**  
+leather						 n.皮革，皮革制品  
+transport 					vt.运输、运送、搬运， n. 运输系统、运载工具  
+**casual 					a. 偶然的、碰巧的，临时的、非正式的，**casual clothes 便装 causal a.
 原因的、因果关系的  
-inject vt.注射、注入 inject with. 用。。。注入  
-descend v. 下来、下降  
-mission n.使命、任务，使团、代表团 military mission 军事任务 urgent mission
+inject 				vt.注射、注入 inject with. 用。。。注入  
+descend 				v. 下来、下降  
+mission 				n.使命、任务，使团、代表团 military mission 军事任务 urgent mission
 紧急任务  
-scan vt. 细看、审视，浏览、扫描 n. 粗略一看、扫描  
-**ministry n.（政府）部门，牧师**  
-**tackle n.用具、器械、滑车**  
-magnetic a. 磁的、有磁性的，有吸引力的  
-jewel n.宝石、宝石饰物  
-**masculine a. 男性的、男子的 ，男子气概的、男子气 cf. effeminate (男子)女子气的
-feminine 女性的、女人味的**  
-**counter n.柜台，计算器、计算器，a. 相反的，v. 抵制、反对、反击，ad.相反**  
-alarm n.警报，惊恐、惊慌 vt. 是惊恐、惊动、惊吓，向。。。报警、警告 security
-alarms 安全警报  
-Christ n.基督、救世主  
-**jargon n. 行话、术语**  
-identification n.识别、鉴别  
-analyse /analyze vt. 分析、分解  
-civilisation / civilization n.文明、文化  
-military a. 军事的、军用的，军队的 military-**intelligence 军事情报**  
-circumstance n.[pl.]情况、形势、环境  
-witch n.女巫、巫婆，v. 施巫术、迷惑 cf. switch 开关  
-award n.奖品、vt. 授予、奖给  
-awful a. 极度的、极坏的、糟糕的，威严的、可怕的，ad.  十分、极度地  
-glorious a. 壮丽的、辉煌的，光荣的  
-adopt vt. 采用、采纳，通过，收养  
-version n. 型、版本，译本、译文，说法、描述  
-**enclose vt. 围住、卷起、封入**  
-**articulate a. 善于表达的,vt. 清晰明白地说**  
-**subtle a. 精巧的、巧妙的，细微的、微妙的**  
-grain 谷物、谷类、粮食，颗粒、细粒
+scan 					vt. 细看、审视，浏览、扫描 n. 粗略一看、扫描  
+**ministry 			n.（政府）部门，牧师**  
+**tackle 				n.用具、器械、滑车**  
+magnetic 				a. 磁的、有磁性的，有吸引力的  
+jewel 					n.宝石、宝石饰物  
+**masculine 				a. 男性的、男子的 ，男子气概的、男子气 cf. effeminate (男子)女子气的
+feminine 			女性的、女人味的**  
+**counter 				n.柜台，计算器、计算器，a. 相反的，v. 抵制、反对、反击，ad.相反**  
+alarm 				n.警报，惊恐、惊慌 vt. 是惊恐、惊动、惊吓，向。。。报警、警告 security
+alarms 				安全警报  
+Christ 				n.基督、救世主  
+**jargon 				n. 行话、术语**  
+identification 				n.识别、鉴别  
+analyse /analyze 				vt. 分析、分解  
+civilisation / civilization 				n.文明、文化  
+military 				a. 军事的、军用的，军队的 military-**intelligence 军事情报**  
+circumstance 				n.[pl.]情况、形势、环境  
+witch 					n.女巫、巫婆，v. 施巫术、迷惑 cf. switch 开关  
+award				 n.奖品、vt. 授予、奖给  
+awful 				a. 极度的、极坏的、糟糕的，威严的、可怕的，ad.  十分、极度地  
+glorious 				a. 壮丽的、辉煌的，光荣的  
+adopt 				vt. 采用、采纳，通过，收养  
+version 				n. 型、版本，译本、译文，说法、描述  
+**enclose 				vt. 围住、卷起、封入**  
+**articulate 					a. 善于表达的,vt. 清晰明白地说**  
+**subtle 				a. 精巧的、巧妙的，细微的、微妙的**  
+grain 					谷物、谷类、粮食，颗粒、细粒
 
 # **Word List 50**  
 
-**rack n.挂物架、搁物架，vt. 使痛苦、折磨** rack one’s brains 绞尽脑汁  
-pepper n. 胡椒粉、胡椒，辣椒  
-**embody vt.体现、使具体化**  
-**precaution n.预防、谨慎、警惕**  
-oval n.椭圆形 a. 椭圆形的  
-**empire n.帝国**  
-awkward a.笨拙的、不灵活的，棘手的、尴尬的，使用不便的  
-conscious a.（of）意识到的、自觉的、有意识的 self-consicous 有自我意识的  
-**complement vt. /n.补充、补足， n. 余数，补语**  
-fiction n.虚构、编造 ，小说 science fiction 科幻小说  
-niece n.侄女、外甥女  
-refreshment n.精力恢复，爽快，[pl.]点心、饮料  
-resistance n.（to）抵抗、反抗、抵抗力、阻力，电阻， disease resistance抗病能力  
-champion n.冠军、得胜者，拥护者、勇士 cf. champagne ,香槟酒campaign n. 战役  
-obedience n.服从、顺从  
-laboratory n.实验室、研究室  
-**sway v. 摇摆、摇动**  
-**opaque  a.不透明（光）的，难理解的、晦涩的**  
-perspective  n.透视画法、透视图，远景、前途，观点、看法 ， in perspective正确地  
-interview vt.采访、面试，n. 接见、会见、采访、面试 phone interview 电话采访  
-accent n. 腔调、口音，重音（符号）cf. assent 同意，**ascent n. 上升**  
-**superstition n.迷信、迷信行为、盲目的恐惧**  
-holder n.持有者、占有者，（台、架等）支持物 a patent holder 专利持有者  
-alternative a.供选择的，n. 替换物、选择对象  
-**thorn n.刺、荆棘**  
-**bewilder vt.是迷惑、难住**  
-cargo n.船货、货物  
-**sticky a.黏的、黏性**  
-auditorium n.礼堂、观众席  
-mosquito n.蚊子  
-**arithmetic n.算术**  
-**distress n.苦恼，危难、不幸，vt. 使苦恼**  
-panic n.恐慌、惊慌  
-civilian n. 平民, 平民的、民用的  
+**rack			 n.挂物架、搁物架，vt. 使痛苦、折磨** rack one’s brains 绞尽脑汁  
+pepper				 n. 胡椒粉、胡椒，辣椒  
+**embody 			vt.体现、使具体化**  
+**precaution 				n.预防、谨慎、警惕**  
+oval 			n.椭圆形 a. 椭圆形的  
+**empire 			n.帝国**  
+awkward 			a.笨拙的、不灵活的，棘手的、尴尬的，使用不便的  
+conscious				 a.（of）意识到的、自觉的、有意识的 self-consicous 有自我意识的  
+**complement				 vt. /n.补充、补足， n. 余数，补语**  
+fiction 			n.虚构、编造 ，小说 science fiction 科幻小说  
+niece				 n.侄女、外甥女  
+refreshment		n.精力恢复，爽快，[pl.]点心、饮料  
+resistance			 n.（to）抵抗、反抗、抵抗力、阻力，电阻， disease resistance抗病能力  
+champion 			n.冠军、得胜者，拥护者、勇士 cf. champagne ,香槟酒campaign n. 战役  
+obedience			 n.服从、顺从  
+laboratory			 n.实验室、研究室  
+**sway 			v. 摇摆、摇动**  
+**opaque  				a.不透明（光）的，难理解的、晦涩的**  
+perspective 			 n.透视画法、透视图，远景、前途，观点、看法 ， in perspective正确地  
+interview 				vt.采访、面试，n. 接见、会见、采访、面试 phone interview 电话采访  
+accent 				n. 腔调、口音，重音（符号）cf. assent 同意，**ascent n. 上升**  
+**superstition			 n.迷信、迷信行为、盲目的恐惧**  
+holder			 n.持有者、占有者，（台、架等）支持物 a patent holder 专利持有者  
+alternative			 a.供选择的，n. 替换物、选择对象  
+**thorn				 n.刺、荆棘**  
+**bewilder				 vt.是迷惑、难住**  
+cargo 				n.船货、货物  
+**sticky 			a.黏的、黏性**  
+auditorium 				n.礼堂、观众席  
+mosquito 				n.蚊子  
+**arithmetic			 n.算术**  
+**distress				 n.苦恼，危难、不幸，vt. 使苦恼**  
+panic				 n.恐慌、惊慌  
+civilian 			n. 平民, 平民的、民用的  
 April 四月  
-**wicked a. 邪恶的、恶劣的，恶意的**  
-stock n.备料、库存、现货 ，股票、公债 laughing stock 笑柄 in stock 现有、备有
+**wicked 			a. 邪恶的、恶劣的，恶意的**  
+stock 			n.备料、库存、现货 ，股票、公债 laughing stock 笑柄 in stock 现有、备有
 out of stock 无现货的、脱销的  
-sympathetic a. 同情的、共鸣的  
-melt v.是融化、使熔化  
-approximate vi.（to）接近，估计，a. 近似的  
-**hydrogen n.氢 cf. oxygen 氧，nitrogen n. 氮**  
-creep vi 爬、爬行，（植物）蔓延  
-pond n.池塘 cf. respond 响应、回答，correspond vi 符合、通信  
-**ritual n.典礼、（宗教等）仪式，例行公事、老规矩 a. 作为仪式一部分的，理性的**  
-rank n.军衔、社会阶层、排、横列 vt. 分等级，把。。。分类、排列 cf. frank a.
+sympathetic 				a. 同情的、共鸣的  
+melt				v.是融化、使熔化  
+approximate				 vi.（to）接近，估计，a. 近似的  
+**hydrogen 				n.氢 cf. oxygen 氧，nitrogen n. 氮**  
+creep 					vi 爬、爬行，（植物）蔓延  
+pond			 n.池塘 cf. respond 响应、回答，correspond vi 符合、通信  
+**ritual 				n.典礼、（宗教等）仪式，例行公事、老规矩 a. 作为仪式一部分的，理性的**  
+rank 				n.军衔、社会阶层、排、横列 vt. 分等级，把。。。分类、排列 cf. frank a.
 坦白的、率直的  
-adapt v.(to)使适应、适合，改编、改写 adapt…for 改编、改写  
-**irritate vt.激怒、使恼火、使急躁，刺激 agitate 使不**安、是焦虑，disturb
+adapt 				v.(to)使适应、适合，改编、改写 adapt…for 改编、改写  
+**irritate 					vt.激怒、使恼火、使急躁，刺激 agitate 使不**安、是焦虑，disturb
 打扰、使烦恼  
-kid n. 小孩、儿童，v.戏弄、取笑  
-fur n.毛、毛皮  
-**subjective a.主观上的，个人的**  
-**shed vt. 流出，发散、散发，脱落、摆脱 n. 棚、小屋**  
-curb vt. 控制，路缘、（街道的）镶边石，勒马绳  
-accountant n.会计人员、会计师  
-**policy n.政策、方针**  
-ascend v.上升  
-royal a.王室的、皇家的 ，一流的、高贵的 the royal family 王室成员  
-viewpoint n.观点  
-whiskey n.威士忌酒  
-specific  a.明确的、具体的，特定的、特有的  
-**hitherto  ad. 到目前为止，迄今**  
-**rear  n.后部、尾部，a. 后方的、后部的，背后的 ，vt. 饲养、抚养 rear-view
-mirror 后视镜**  
-enquire /inquire  v.（of）询问，（about）打听 （after）问好、问候  
-microscope  n. 显微镜 cf. submicroscopic a. 亚显微镜的
+kid 				n. 小孩、儿童，v.戏弄、取笑  
+fur 			n.毛、毛皮  
+**subjective 			a.主观上的，个人的**  
+**shed 			vt. 流出，发散、散发，脱落、摆脱 n. 棚、小屋**  
+curb 				vt. 控制，路缘、（街道的）镶边石，勒马绳  
+accountant			 n.会计人员、会计师  
+**policy 			n.政策、方针**  
+ascend 			v.上升  
+royal 			a.王室的、皇家的 ，一流的、高贵的 the royal family 王室成员  
+viewpoint				n.观点  
+whiskey 			n.威士忌酒  
+specific 				 a.明确的、具体的，特定的、特有的  
+**hitherto 				 ad. 到目前为止，迄今**  
+**rear  				n.后部、尾部，a. 后方的、后部的，背后的 ，vt. 饲养、抚养 rear-view
+mirror 			后视镜**  
+enquire /inquire 				 v.（of）询问，（about）打听 （after）问好、问候  
+microscope  			n. 显微镜 cf. submicroscopic a. 亚显微镜的
