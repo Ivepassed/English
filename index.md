@@ -3848,9 +3848,9 @@ ascend 			v.上升
 royal 			a.王室的、皇家的 ，一流的、高贵的 the royal family 王室成员  
 viewpoint				n.观点  
 whiskey 			n.威士忌酒  
-specific 				 a.明确的、具体的，特定的、特有的  
-**hitherto 				 ad. 到目前为止，迄今**  
-**rear  				n.后部、尾部，a. 后方的、后部的，背后的 ，vt. 饲养、抚养 rear-view
-mirror 			后视镜**  
+specific                                                                                    a.明确的、具体的，特定的、特有的  
+**hitherto        ad. 到目前为止，迄今**  
+**rear              n.后部、尾部，a. 后方的、后部的，背后的 ，vt. 饲养、抚养 rear-view
+mirror            后视镜**  
 enquire /inquire 				 v.（of）询问，（about）打听 （after）问好、问候  
 microscope                                         n. 显微镜 cf. submicroscopic a. 亚显微镜的
