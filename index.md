@@ -1,7 +1,4 @@
-- [Word List 1](#word-list-1)- [Word List 2](#word-list-2)
-- [Word List 3](#word-list-3)
-- [Word List 4](#word-list-4)
-- [Word List 5](#word-list-5)
+- [Word List 1](#word-list-1)- [Word List 2](#word-list-2)- [Word List 3](#word-list-3)- [Word List 4](#word-list-4)- [Word List 5](#word-list-5)
 - [Word List 6](#word-list-6)
 - [Word List 7](#word-list-7)
 - [Word List 8](#word-list-8)
