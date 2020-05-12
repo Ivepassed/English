@@ -12,227 +12,395 @@
 
 # **Word List 1** 
 
-challenge['tʃælindʒ]n.挑战(书);艰巨任务,难题v.向…挑战  
+challenge['tʃælindʒ]n.挑战(书);艰巨任务,难题v.向…挑战
+
 establish[i'stæbliʃ]v.建立,设立;安置,使定居
+
 furnish['fə:niʃ]v.供应,提供;装备,布置
+
 intellectual[,intə'lektjuəl,-tʃuəl]n.知识分子a.智力的,理智的,有理解力的
+
 qualification[,kwɔlifi'keiʃən]n.资格;限定,条件;合格证
+
 appearance[ə'piərəns]n.出现,露面;外表;(在会议等)作短暂露面
+
 aspect['æspekt]n.样子,面貌,(问题等的)方面
+
 liquid['likwid]n.液体a.液体的,液态的
+
 lad[læd]n.男孩,小伙子
+
 apply
+
 exterior[ik'stiəriə]a.外部的,外面的n.外部
+
 preference['prefərəns]n.(for,to)偏爱;优惠;
+
 elbow['elbəu]n.肘,(衣服的)肘部vt.用肘推
+
 discipline['disiplin]n.学科;纪律;训练;惩罚vt.训练,训导;惩戒
+
 thrill[θril]n.一阵激动(恐惧)v.激动;(使)毛骨悚然
+
 allegiance[ə'li:dʒəns]n.拥护,忠诚
+
 edition[i'diʃn]n.版本
+
 triumph['traiəmf,-ʌmf]n.胜利,成功v.得胜,战胜
+
 hostage['hɔstidʒ]n.人质
+
 loaf[ləuf]n.一条面包vi游荡,闲逛
+
 applicable['æplikəbl,ə'plikə-]a.可应用(实施)的;适当的,合适的
+
 motion['məuʃən]n.运动,动;提议,动议v.提议,动议
+
 diploma[di'pləumə]n.毕业文凭,学位证书
+
 contrast[kən'trɑ:st,-'træst,'kɔntrɑ:st,-træst]n.对比,对照vi.形成对比vt.把…与…对比
+
 trend[trend]n.倾向,趋势vi.伸向,倾向
+
 honorable['ɔnərəbl]a.(honourable)可敬的;光荣的
+
 freelance[fri:la:ns]a.自由职业的
+
 appendix[ə'pendiks]n.附录,附属物
+
 objection
+
 inflation[in'fleiʃən]n.通货膨胀
+
 substantial[səb'stænʃəl]a.实质的;坚固的;富裕的
+
 hasty['heisti]a.匆忙的,仓促的;草率的
+
 interpret[in'tə:prit]vt.解释,认为,口译vi做口译
+
 fraction['frækʃən]n.碎片,小部分,一点儿;分数
+
 rectangle['rek,tæŋɡl]n.矩形;长方形
+
 owl[aul]n.猫头鹰
+
 denote[di'nəut]vt.表示,意味着
+
 editor['editə]n.编辑,编者
+
 fruitful['fru:tful]a.多产的;果实累累的,富有成效的
+
 startle['stɑ:tl]v.惊吓,使吃惊
+
 inlet['inlet,-lit,in'let]n.水湾,小湾;进口,入口
+
 system['sistəm]n.系统,体系;制度;方法,方式,步聚
+
 concede[kən'si:d]vt.承认;容许;(比赛结束前)认输;退让
+
 dictate[dik'teit,'dikteit]v.口授;(使)听写;指令,指示,命令;
+
 lame[leim]a.跛的,(辩解、论据等)无说服力的
+
 exhaust[iɡ'zɔ:st]v.使筋疲力尽,耗尽;抽完n.排气装置;废气
+
 stiff[stif]a.硬的,僵直的;拘谨的;呆板的;艰难的
+
 pinch[pintʃ]v.捏,掐,拧;收缩;紧急关头;匮乏;压力
+
 pants[pænts]n.长裤,宽松的便裤,内裤
+
 remnant['remnənt]n.剩余(物),零料,遗迹
+
 projector[prəu'dʒektə]n.放映机,幻灯机,投影仪
+
 torrent['tɔrənt]n.激流,山洪
+
 crisp[krisp]a.脆的,易碎的
+
 tag[tæɡ]n.标签;鞋带;垂饰;vt.加标签于;附加vi.紧随
+
 duration[djuə'reiʃən]n.持久;期间;持续时间
+
 dealer['di:lə]n.商人
+
 incident['insidənt]n.事件,事变
+
 zeal[zi:l]n.热心,热忱,热情
+
 rhythm['riðəm]n.节奏,韵律
+
 educate['edʒukeit]vt.教育,培养,训练
+
 overlook[,əuvə'luk,'əuvəluk]v.忽略;俯瞰;宽容,放任
+
 shear[ʃiə]v.剪,修剪
+
 kidnap['kidnæp]vt.诱拐;绑架,劫持
+
 propaganda[,prɔpə'ɡændə]n.宣传(机构)
+
 prescribe[pris'kraib]v.指示,规定;处(方),开(药)
+
 cape[keip]n.海角,岬;披肩,短披风
-
-
 ###### [markdown toc](#markdown-toc)
 
 # **Word List 2**  
 
-solo         n.独奏 a.&ad.单独的(地)；独唱的(地)  
-neglect      v./n.忽视;疏忽,漏做,忽略  
-**quantify     v.确定数量**  
-faulty       a.有错误的，有缺点的，不完善的  
-eliminate    vt.除去;淘汰;排(删,消)除;削减(人员)  
-upright      a.垂直的,直立的;正直的,诚实的 ad.竖立着  
-invitation   n.邀请，招待，请柬  
-**commemorate  vt.纪念，庆祝**  
-**reproach     v./n.责备,指责**  
-**dilute       vt.稀释，冲淡 a.稀释的，冲淡的**  
-**sane         a.心智健全的,神志清醒的,明智的,稳健的**  
-**lease        vt.出租,租用 n.租借,租期,租赁物**  
-browse       vi.随意翻阅，浏览；(牛、羊等)吃草  
-**tentative    a.试探性的，暂时的；犹豫不决的**  
-**seam         n.缝,接缝**  
-highway      n.公路，大路  
-alter        vt.改变，更改；改做(衣服) vi.改变，变化  
-**manipulate   vt.(熟练地)使用，操作；(巧妙地)处理**  
-accuracy     n.准确（性）；精确；准确度  
-descendant   n.子孙,后代  
-sting        v./n.刺,刺痛,剧痛;刺,叮  
-**linguistic   a.语言的，语言学的**  
-outbreak     n.(战争,愤怒,火灾等的)爆发,(疾病的)发作  
-phrase       n.短语,词语,习语  
-brochure     n.小册子  
-enormous     a.巨大的,庞大的  
-exclude      v.拒绝,把…排除在外,排斥  
-spin         v.旋转;纺纱;织网,吐丝 n.旋转;自转  
-**brutal       a.残忍的;严峻的;严酷的**  
-howl         n.怒吼，嗥叫 vi.(风等)怒吼，咆哮  
-network      n.网状物，广播网，电视网，网络  
-evident      a.明显的,明白的  
-**dynamic      a.动力的,电动的;有生气的**  
-**swan         n.天鹅 vi.闲荡，游荡**  
-**rigorous     a.严格的,严厉的,严酷的,严密的,严谨的**  
-technology   n.工艺，技术  
-wax          n.蜡,蜂蜡 v.打蜡  
-pillow       n.枕头  
-**solidarity   n.团结；休戚相关**  
-slaughter    n.屠杀，屠宰 vt.屠杀，宰杀  
-**pit          n.坑,陷阱;煤矿,矿井**  
-decay        v./n.腐朽,腐烂;衰减,衰退  
-pray         v.请求,恳求;祈祷,祈求  
-**grand        a.盛大的,豪华的;重大的,主要的**  
-booth        n.电话亭,货摊  
-**beware       v.当心,谨防**  
-occasion     n.场合,时节,时刻;时机,机会  
-numerous     a.众多的,许多的,大批的  
-element      n.元素;要素;成分;元件;自然环境  
-nursery      n.托儿所  
-worship      n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜  
-dental       a.牙齿的；牙科(用)的  
-dense        a.浓厚的,密集的,稠密的  
-productivity n.生产率  
-**valve        n.阀;(英)电子管,真空管;(心脏的）瓣膜**  
-abuse        vt.滥用；辱骂；诋毁 n.滥用；恶习；弊端  
-circular     a.圆(形)的,环形的;循环的 n.传单,通报  
-**classic      n.(pl.)杰作,名著 a.第一流的,不朽的**  
-**revive       v.恢复;(使)复苏**  
-disguise     n./v.假装,伪装  
-deny         v.否认,否定;拒绝  
-huddle       n./v.拥挤;聚集v.(因寒冷、害怕而)缩成一团  
-cheat        v.欺骗，作弊n.骗子，欺骗行为  
-cellar       n.地窑,地下室  
-court        n.法院,法庭;宫廷,朝廷;院子;球场  
-namely       ad.即,也就是  
-paw          n.爪  
-undertake    v.承担,担任;许诺,保证;着手,从事  
-**instrumental a.仪器的;器械的;乐器的;起作用的;有帮助**  
-generate     vt.产生,发生;生殖  
-threat       n.恐吓,威胁;坏兆头,危险迹象  
-manual       a.手的,手工做的,体力的 n.手册,指南  
-hamburger    n.汉堡包，牛肉饼
+solo['səuləu]n.独奏a.\&ad.单独的(地);独唱的(地)
+
+neglect[ni'ɡlekt]v./n.忽视;疏忽,漏做,忽略
+
+quantify['kwɔntifai]v.确定数量
+
+faulty['fɔ:lti]a.有错误的,有缺点的,不完善的
+
+eliminate[i'limineit]vt.排除;削减(人员)
+
+upright['ʌprait]a.垂直的;正直的ad.竖立着
+
+commemorate[kə'meməreit]vt.纪念,庆祝
+
+reproach[ri'prəutʃ]v./n.责备,指责
+
+dilute[dai'lju:t,di-]vt.稀释,冲淡a.稀释的
+
+sane[sein]a.心智健全的,明智的,合情合理的
+
+lease[li:s]vt.出租,租用n.租借,租期,租赁物
+
+browse[brauz]vi.随意翻阅,浏览;(牛、羊等)吃草
+
+tentative['tentətiv]adj.试验性的,尝试的
+
+seam[si:m]n.缝,接缝
+
+highway['haiwei]n.公路,大路;捷径
+
+alter['ɔ:ltə]vt.改变,变更
+
+manipulate[mə'nipjuleit]vt.操作,控制;操纵,影响
+
+accuracy['ækjurəsi]n.准确,准确度
+
+descendant[di'sendənt]n.子孙,后代
+
+sting v.刺,叮n.刺痛,剧痛
+
+linguistic[liŋ'ɡwistik,-kəl]adj.语言的;语言学的
+
+outbreak['autbreik]n.(战争,愤怒,火灾等)爆发
+
+brochure[bro'ʃur]n.小册子
+
+enormous[i'nɔ:məs]a.巨大的,庞大的
+
+exclude[iks'klu:d]v.拒绝,把…排除在外,排斥
+
+spin[spin]n.旋转;自转v.旋转;纺纱;吐丝
+
+brutal['bru:təl]adj.残忍的;野蛮的,不讲理的
+
+howl[haul]n.怒吼,嗥叫vi.(风等)怒吼,咆哮
+
+network['netwə:k]n.网络;广播网;网状物
+
+dynamical[dai'næmikəl]adj.动力的;有生气的
+
+swan[swɔn]n.天鹅
+
+rigorous['riɡərəs]a.严密的,缜密的;严格的;严峻的
+
+technology[tek'nɔlədʒi]n.技术;工艺;术语
+
+wax[wæks]n.蜡,蜂蜡v.打蜡
+
+solidarity[,sɔli'dæriti]n.团结,团结一致
+
+slaughter['slɔ:tə]n.屠杀,屠宰vt.屠杀,宰杀
+
+pit[pit]n.坑,陷阱;煤矿,矿井
+
+decay[di'kei]v./n.腐朽,腐烂;衰减,衰退
+
+pray[prei]v.请求,恳求;祈祷,祈求
+
+grand[ɡrænd]adj.盛大的,豪华的;重大的,主要的
+
+booth[bu:ð,bu:θ]n.电话亭,货摊
+
+beware[bi'wεə]v.当心,谨防
+
+occasion[ə'keiʒən]n.场合,时节,时刻;时机,机会
+
+numerous['nju:mərəs]a.众多的,许多的,大批的
+
+element['elimənt]n.元素;组成成分
+
+nursery['nə:səri]n.托儿所
+
+worship['wə:ʃip]n.礼拜,礼拜仪式;崇拜v.敬仰;做礼拜
+
+dental['dentəl]a.牙齿的;牙科(用)的
+
+dense[dens]a.浓厚的,密集的,稠密的
+
+productivity[,prɔdʌk'tivəti]n.生产率
+
+valve[vælv]n.阀;电子管,真空管
+
+abuse[ə'bju:z,ə'bju:s]vt.滥用;虐待;谩骂;n.滥用;恶习;弊端
+
+circular['sə:kjulə]a.圆(形)的;循环的n.传单,通报
+
+classic['klæsik]n.杰作a.第一流的,不朽的;典型的
+
+revive[ri'vaiv]v.恢复;(使)复苏
+
+disguise[dis'ɡaiz]n./v.假装,伪装
+
+deny[di'nai]v.否认,否定;拒绝
+
+huddle['hʌdl]v.拥挤;聚集n.挤一起的人,杂乱的东西
+
+cellar['selə]n.地窑,地下室
+
+namely['neimli]ad.即,也就是
+
+undertake[,ʌndə'teik]v.承担,担任;保证;着手,从事
+
+instrumental[,instru'mentəl]a.乐器的;(in)起作用的,有帮助的
+
+generate['dʒenəreit]vt.产生,发生
+
+threat[θret]n.恐吓,威胁;坏兆头,危险迹象
+
+manual['mænjuəl]a.手工做的,体力的n.手册,指南
+
+converge[kən'və:dʒ]vi回合,互相靠拢;聚集;（思想,观点）趋近
+
+default[di'fɔ:lt]n.违约,拖欠,弃权;vi.不履行义务
 ###### [markdown toc](#markdown-toc)
 
 # **Word List 3**  
 
-**fabulous  a.极好的；极为巨大的；寓言中的，传说中**  
-graduate    n.大学毕业生,研究生 v.大学毕业a.毕了业的  
-inhabit     vt.居住于,存在于;栖息于  
-constant    a.固定的，持续的,忠实的 n.常数,恒量  
-**prosperity  n.繁荣,兴旺**  
-siege       n.包围，围攻，围困  
-handwriting n.笔迹,手迹,书法  
-**conduct     n.行为,品行 v.引导;管理;指挥(乐队);传导**  
-lever       n.杆,杠杆,手段,途径,工具  
-**blend       n.混合(物) v.混和,混杂**  
-crab        n.螃蟹,蟹肉  
-ample       a.充分的，富裕的；宽敞的，宽大的  
-urban       a.城市的, 市内的  
-preside     v.(at,over)主持  
-psychology  n.心理,心理学,心理状态  
-**rash        a.轻率的,鲁莽的 n.皮疹**  
-radical     a.基本的,重要的;激进的,极端的;根本的  
-document    n.公文，文件，文献  
-**inventory   n.详细目录,存货,财产清册,总量**  
-pillar      n.柱,台柱,栋梁  
-harm        n./v.伤害,损害,危害  
-grip        v./n.紧握,抓紧;掌握  
-**antenna     n.(无线电或电视的)天线**  
-sip         v.小口地喝，抿，呷n.一小口的量  
-devise      vt.设计;发明;图谋;作出(计划);想出(办法)  
-**bold        a.大胆的,勇敢的;冒失的;黑体的,粗体的**  
-highly      adv.高度地，非常，很，赞许地  
-**stadium     n.体育场**  
-**diffuse     v.扩散;传播 a.(文章等)冗长的,漫无边际的**  
-globe       n.球体,地球仪;地球,世界  
-negligible  a.可忽略不计的，微不足道的  
-mostly      adv.主要地，大部分，通常  
-dine        v.吃饭，进餐  
-graph       n.图表,曲线图  
-**tile        n.瓦片,瓷砖 vt.铺瓦于，贴砖于**  
-jail        n.监狱，拘留所v.监禁某人  
-segregate   vt.使分开，隔离（病患等）  
-spider      n.蜘蛛  
-invasion    n.入侵,侵略,侵犯  
-precedent   n.先例  
-critical    a.批评的,评论的;危急,紧要的;临界的  
-**excursion   n.短途旅行,游览;离题;**  
-commit      v.把…交托给,提交;犯(错误),干(坏事)  
-integrate   v.(into,with)(使)成为一体,(使)结合在一起  
-message     n.消息,信息,通讯,启示,教训,广告词,预言  
-crash       v./n.碰撞,坠落,摔坏 n.失败,瓦解;爆裂声  
-environment n.环境，外界**cosy **  a.暖和舒服的；舒适的  
-boundary    n.分界线,边界  
-**peep        v.偷看,窥视**  
-toast       n.烤面包,吐司;祝酒(词)v.烘,烤;(向…)祝酒  
-**conductor n.管理者；(汽车)售票员；领队，指挥；导体**  
-neighborhood n.邻居，四邻，街道，住宅区  
-**halt        n.止步,停步,停止前进 v.止步,(使)停止**  
-isle        n.小岛(用于诗歌中)  
-**intrigue    n.阴谋v.密谋,私通;激起…的兴趣;诡计取得**  
-character   n.性格,品质,特性;人物,角色;字符,(汉)字  
-**stoop       v.弯腰,俯身 n.弯腰,曲背**  
-cater       vi.(for/to)满足,迎合;(for)提供饮食及服务  
-**inertia     n.不活动,惰性;惯性**  
-deviate     v.(from)背离,偏离  
-drawer      n.抽屉  
-**closet      n.(壁)橱a.私下的vt.把…引进密室会谈**  
-deadly      a.致命的，致死的  
-luggage     n.行李,皮箱  
-**plausible   a.似是而非的,似乎合理的,似乎可信的**  
-vice        n.邪恶;恶习;(pl.)台钳,老虎钳  
-repay       v.偿还,报答  
-underneath  prep.在…下面 ad.在下面,在底下  
-blur        n.模糊不清的事物；污点 vt.使模糊；玷污  
-percentage  n.百分数,百分率,百分比  
-nucleus     n.(pl.nuclei)核,核心,原子核  
-**ambiguous   a.引起歧义的，模棱两可的，含糊不清的**
+fabulous['fæbjuləs]a.寓言式的,极为巨大的;极好的
+
+inhabit[in'hæbit]vt.居住,栖息
+
+constant['kɔnstənt]a.持续的,忠实的n.常数,恒量
+
+prosperity[prɔs'periti]n.繁荣,兴旺
+
+siege[si:dʒ]n.包围,围攻,围困
+
+handwriting['hænd,raitiŋ]n.笔迹,手迹,书法
+
+conduct['kɔndʌkt,kən'dʌkt]n.行为,品行;引导,实施v.引导;管理;指挥(乐队);传导
+
+lever['li:və]n.杠杆
+
+blend[blend]n.混合(物)v.混和,混杂
+
+ample['æmpl]a.充分的,富裕的;宽敞的,宽大的
+
+preside[pri'zaid]v.(at,over)主持
+
+psychology[psai'kɔlədʒi]n.心理,心理学,心理状态
+
+rash[ræʃ]n.皮疹a.轻率的,鲁莽的
+
+radical['rædikəl]a.基本的,重要的;激进的,极端的
+
+inventory['invəntəri]n.详细目录;存货/财产清册
+
+pillar['pilə]n.柱,台柱,栋梁
+
+grip[grip]v./n.紧握,抓紧;掌握
+
+antenna[æn'tenə]n.天线
+
+sip[sip]v.啜饮,抿,呷n.小口地喝,一小口的量
+
+devise[di'vaiz]vt.设计;发明;想出(办法)
+
+bold[bəuld]a.大胆的,勇敢的;冒失的;黑体的,粗体的
+
+highly['haili]adv.高度地;很;非常;赞许地
+
+stadium['steidiəm]n.体育场
+
+diffuse[di'fju:s]v.扩散;传播a.(文章等)冗长的,漫无边际的
+
+negligible['neɡlidʒəbl]a.可忽略不计的,微不足道的
+
+graph[ɡrɑ:f]n.图表,曲线图
+
+tile[tail]n.瓷砖,瓦片
+
+jail[dʒeil]n.监狱;监牢;拘留所vt.监禁;下狱
+
+segregate['seɡriɡit]vt.使分开,隔离（病患等）
+
+invasion[in'veiʒən]n.入侵,侵略,侵犯
+
+precedent[pri'si:dənt]n.先例
+
+critical['kritikəl]a.评论的;危急,紧要的;挑剔的
+
+excursion[ik'skə:ʃən]n.短途旅行,游览;离题;
+
+commit[kə'mit]v.把…交托给,提交;犯(错误),干(坏事)
+
+integrate['intiɡreit]v.(into,with)(使)成为一体,(使)结合在一起
+
+message['mesidʒ]n.消息,信息,通讯,启示,要旨
+
+crash v./n.碰撞,坠落,摔坏n.失败,瓦解;爆裂声
+
+cozy[ˈkəuzi]n.保温罩
+
+boundary['baundəri]n.分界线,边界
+
+peep[pi:p]v.偷看,窥视
+
+conductor[kən'dʌktə]n.领队,指挥;(汽车)售票员;导体
+
+halt[hɔ:lt]n.停止;立定;休息v.停止;立定;踌躇,犹豫
+
+isle[ail]n.小岛(用于诗歌中)
+
+intrigue[in'tri:ɡ,'in-]n.阴谋;诡计;密谋vt.引起极大兴趣;激起...的好奇心vi.密谋;施诡计
+
+stoopvi/n..弯腰;俯身
+
+cater['keitə]vi.满足,迎合;(for)提供饮食及服务
+
+inertia[i'nə:ʃiə]n.不活动,惰性;惯性
+
+deviate['di:vieit,'di:viət]v.(from)背离,偏离
+
+drawer[drɔ:]n.抽屉
+
+closet['klɔzit]n.(壁)橱a.私下的vt.把…引进密室会谈
+
+deadly['dedli]adj.致命的;非常的;死一般的
+
+luggage['lʌɡidʒ]n.行李,皮箱
+
+plausible['plɔ:zəble]a.似乎合理的,似乎可信的
+
+vice[vais]n.邪恶;恶习;(pl.)台钳,老虎钳
+
+underneath[,ʌndə'ni:θ]prep.在…下面ad.在下面,在底下
+
+blur[blə:]n.模糊不清的事物;污点v.使模糊
+
+percentage[pə'sentidʒ]n.百分数,百分率,百分比
+
+nucleus['nju:kliəs]n.(pl.nuclei)核,核心,原子核
+
+ambiguous[æm'biɡjuəs]a.模棱两可的
 ###### [markdown toc](#markdown-toc)
 
 # **Word List 4**  
