@@ -11,7 +11,6 @@
 - [Word List 46](#word-list-46) - [Word List 47](#word-list-47) - [Word List 48](#word-list-48) - [Word List 49](#word-list-49) - [Word List 50](#word-list-50)
 
 # **Word List 1** 
-###### [markdown toc](#markdown-toc)
 
 challenge      n.挑战(书);艰巨任务,难题 v.向…挑战  
 **furnish        v.供应,提供;装备,布置**  
@@ -86,6 +85,7 @@ kidnap         vt.诱拐；绑架，劫持
 **propaganda     n.宣传(机构)；**  
 prescribe      v.指示，规定，开处方  
 **cape           n.海角，岬；披肩，短披风**
+###### [markdown toc](#markdown-toc)
 
 # **Word List 2**  
 
@@ -162,6 +162,7 @@ generate     vt.产生,发生;生殖
 threat       n.恐吓,威胁;坏兆头,危险迹象  
 manual       a.手的,手工做的,体力的 n.手册,指南  
 hamburger    n.汉堡包，牛肉饼
+###### [markdown toc](#markdown-toc)
 
 # **Word List 3**  
 
@@ -237,6 +238,7 @@ blur        n.模糊不清的事物；污点 vt.使模糊；玷污
 percentage  n.百分数,百分率,百分比  
 nucleus     n.(pl.nuclei)核,核心,原子核  
 **ambiguous   a.引起歧义的，模棱两可的，含糊不清的**
+###### [markdown toc](#markdown-toc)
 
 # **Word List 4**  
 
@@ -313,6 +315,7 @@ growth       n.生长，发展，增长
 aboard       ad.&prep.在船(飞机、车)上；ad.上船(飞机)  
 describe     v.描述,形容  
 aware        a.知道的，意识到的；
+###### [markdown toc](#markdown-toc)
 
 # **Word List 5**  
 
@@ -387,6 +390,7 @@ feminine         a.女性的;娇柔的
 combat           v./n.战斗,搏斗,格斗  
 style            n.风格,文体;式样,时式,类型  
 cottage          n.村舍,小屋,别墅
+###### [markdown toc](#markdown-toc)
 
 # **Word List 6**  
 
@@ -466,14 +470,14 @@ complicate    v.使..复杂；使..难懂；使（疾病等）恶化；
 contrary      a.相反的，矛盾的，对抗的 n.矛盾，反对，相反，反面，对立物（面）  
 numerical     a.数字的，用数字表示的，数值的  
 junior        a./n.年少的/者,三年级的/学生,下级(的)
+###### [markdown toc](#markdown-toc)
 
 # **Word List 7**  
 
 **sturdy      a.坚定的，不屈不挠的；强健的，结实的**  
 **fuss        n./v.忙乱,大惊小怪**  
 **undo        v.松开,解开**  
-ax       n.斧子
-
+ax          n.斧子
 majority    n.多数,大多数,成年,法定年龄  
 physical    a.物质的;肉体的,身体的;自然科学的,物理的  
 possess     v.占有,拥有  
@@ -492,7 +496,6 @@ altitude    n.高度，海拔；
 **vulgar      a.粗俗的，庸俗的，本土的，通俗的，普通的**  
 cripple     n.跛子,残疾人 v.使跛,使残疾  
 **liable   adj.有责任的，有义务的，有倾向的，易于的**
-
 farewell    n.再会，别了，告别  
 equality    n.同等;平等;相等;等式;等同性  
 **panel       n.面,板;控制板,仪表盘;专门小组**  
@@ -544,13 +547,12 @@ brand       n.商标,标记,牌子 v.使铭记;打火印,打烙印
 **speculate   vi.思索；推测vt.投机；思索，推测**  
 **persecute   v.迫害**  
 **numb        a.麻木的,失去感觉的 v.使麻木 **  
+###### [markdown toc](#markdown-toc)
 
 # **Word List 8**  
 
 slice        n.薄片,切片;一份;部分切(片)
-
 **undergo      vt.遭受,经历,承受**
-
 thunder      n.雷(声);轰隆声 v.打雷;大声说,吼叫  
 atmosphere   n.大气(层)；空气；气氛，环境；大气压  
 tiresome     a.使人厌倦的，讨厌的  
@@ -565,7 +567,6 @@ conjunction  n.接合，连接，联合；连(接)词
 clutch       v.抓住,攫住,掌握 n.离合器  
 hostess      n.女主人,女主持人  
 wrist        n.腕,腕关节 
-
 **temperament  n.气质，性格，性情；资质**  
 economic     a.经济(上)的,经济学的  
 mate         n.配偶，伙伴，同事  
@@ -623,6 +624,7 @@ vessel       n.容器,器皿;船,舰;管,血管
 **setback      n.挫折；失效；复发；倒退**  
 moreovercon  j./ad.再者,加之,而且  
 cannon       n.大炮,火炮         
+###### [markdown toc](#markdown-toc)
 
 # Word List 9  
 
@@ -699,6 +701,7 @@ enrich        v.使富足;使肥沃;装饰;加料于;浓缩
 loyalty       n.忠诚,忠心  
 **authority    n.权力，权威；权威人士；(pl.)官方，当局**  
 gramme        n.(gram)克
+###### [markdown toc](#markdown-toc)
 
 # **Word List 10**  
 
@@ -775,6 +778,7 @@ friction      n.磨擦,摩擦力
 loosen        v.解开,放松  
 accurate      a.正确无误的；准确的，精确的  
 surplus       n.过剩,剩余；余款,余额 a.过剩的,剩余的
+###### [markdown toc](#markdown-toc)
 
 # **Word List 11**  
 
