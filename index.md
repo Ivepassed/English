@@ -3853,4 +3853,4 @@ specific 				 a.明确的、具体的，特定的、特有的
 **rear  				n.后部、尾部，a. 后方的、后部的，背后的 ，vt. 饲养、抚养 rear-view
 mirror 			后视镜**  
 enquire /inquire 				 v.（of）询问，（about）打听 （after）问好、问候  
-microscope  			n. 显微镜 cf. submicroscopic a. 亚显微镜的
+microscope                                         n. 显微镜 cf. submicroscopic a. 亚显微镜的
