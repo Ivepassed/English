@@ -13,7 +13,7 @@
 
 # Word List 1
 
-challenge                                   n.挑战(书);艰巨任务,难题 v.向…挑战    
+challenge                                   n.挑战(书);艰巨任务,难题 v.向…挑战    
 **furnish                                     v.供应,提供;装备,布置**    
 establish                                   v.建立,设立;安置,使定居    
 **intellectual                                n.知识分子 a.智力的，理智的，有理解力的**    
