@@ -228,14 +228,10 @@ grieve                                    v.
 **provision                                 n.供应,(一批)供应品;预备;条款;(pl.)给养**    
 contradict                                v.反驳;同…矛盾,同…抵触    
 infectious                                a. 传染的，有传染性的，有感染力的    
-mat                                                               n.席子,垫子    
-union                                     n.联合,团结;联盟,联邦;协会,社团;和谐    
 intelligible                    a.可理解的，明白易懂的，清楚的    
 **supplement                                n.补遗;增刊;附录 v.增刊,补**充    
 **propel                                    vt.推进，推动；激励，驱使**    
-torch                                     n.手电筒，火炬，火把    
 **appal                                     v.使惊骇，使恐怖**    
-snowstorm                                 n.暴风雪    
 dorm                                                              n.(dormitory)［美］［口］宿舍    
 **drain                                     n.排水沟,阴沟;消耗,负担 v.排去,放干**    
 portrait                                  n.肖像,画像    
@@ -251,15 +247,12 @@ attach                                    v.
 arch                                                              n.拱门，桥拱洞 v.拱起，(使)变成弓形    
 available                                 a.(用于物)可利用的；可见到的，接受采访的    
 **compound                                  n.混合物,化合物 a.混合的,化合的；vt.混合**    
-data                                                              n.(datum的复数)资料，数据    
 gown                                                              n.长袍，特殊场合穿的长服    
 **underestimate                              vt.低估，看轻**    
 **vague                                     a.不明确的,含糊的,暧昧的**    
 locomotive                                n.机车,火车头 a.运动的,移动的,运载的    
 **tremendous                                a.巨大的,极大的**    
 deprive                                   vt.剥夺,夺去,使丧失    
-rape                                                              n./vt.掠夺,蹂躏,强奸    
-preparation                              n.准备,预备;制剂,制备品    
 affirm                                    vt.断言，坚持声称；肯定；证实,确认；    
 petrol                                    n.汽油    
 seal                                                              n.封铅,封条;印,图章;海豹 v.封,密封    
@@ -268,9 +261,10 @@ confidence                                n.(in)
 **specimen                                  n.标本,样本**    
 audience                                  n.听众，观众，读者，谒见，会见    
 **collision                                 n.碰撞；(利益，意见等的)冲突，抵触**    
-constitute                                vt.组成，构成，形成；设立，建立，任命    
-rehearsal                                 n.排练,排演,演习,预演,试演    
-**headquarters                             n.司令部,指挥部;总部,总局**    
+constitute                                vt.组成，构成，形成；设立，建立，任命      
+defer    
+
+headquarters                             n.司令部,指挥部;总部,总局**    
 alert                                     a.机警的，警觉的；机灵的 vt.使…警觉    
 plentiful                                 a.富裕的,丰富的    
 congress                                  n.(代表)大会;(美国等国的)国会,议会    
@@ -279,15 +273,10 @@ arouse                                    vt
 interact                                  v.互相作用,互相影响    
 utter                                     v.说,发出(声音) a.彻底的,完全的    
 **chill                                     n.寒冷,寒气,寒战 v.使寒冷**    
-salad                                     n.色拉，凉拌菜    
 yell                                         vi.大叫;呼喊 vt.叫着说 n.叫声;喊声    
 tomb                                             n.坟,冢    
 **keen                                 a.锋利的;敏锐的;敏捷的;(on)热心的,渴望的**    
-topic                                     n.话题,主题,题目    
-growth                                    n.生长，发展，增长    
-aboard                                    ad.&prep.在船(飞机、车)上；ad.上船(飞机)    
-describe                                  v.描述,形容    
-aware                                     a.知道的，意识到的；
+describe                                  v.描述,形容  
 
 # **Word List 5**    
 
