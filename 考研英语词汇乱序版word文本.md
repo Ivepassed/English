@@ -489,7 +489,7 @@ brand                                    n.�
 # **Word List 8**    
 
 slice                                     n.薄片,切片;一份;部分切(片)  
-**undergo                                   vt.遭受,经历,承受**
+**undergo                                   vt.遭受,经历,承受**  
 atmosphere                                n.大气(层)；空气；气氛，环境；大气压    
 extinguish                                v.熄灭;消灭;结束;压制;使黯然失色;偿清    
 canal                                     n.运河，沟渠    
@@ -1062,7 +1062,7 @@ bubble                                   n.�
 certificate                                   n.证（明）书；执照                                    
 imply                                   vt.意指，含...意思；暗示；表明                                      
 hurricane                                   n.飓风  
-spontaneous                                   a.自发的，自然发生的 **                                                 
+spontaneous                             a.自发的 **       
 dilemma                                   n.（进退两难的）窘境，困境                                       
 rage                                   n.愤怒；精神错乱    **                
 select                                   vt.选择，挑选a.精选的，选择的  
@@ -1101,7 +1101,7 @@ republican                                   
 excess                                   a.过量的，额外的n.过量，过剩       **                                 
 collaborate                                   vi.协作，合作                                                                
 cluster                                   n.丛，群，串；星团；v.群集，丛生     **    
-stain                                   **                                n.污点，瑕疵vt.沾污，染污；玷污，败坏（名声）；染色   **  
+stain                                   **n.污点，瑕疵vt.沾污，染污；玷污，败坏（名声）；染色   **  
 attract                                   v.吸引，引诱；引起（注意等）   
 reduction                                   n.减少，缩减                            
 **satire                                   n.讽刺；讽刺作品                                        
@@ -1140,7 +1140,7 @@ preferable                                   
 lane                                   n.小路，小巷；行车道                                 
 eject                                   vt.喷射；排出；驱逐                                
 calcium                                   n.钙                                                                          
-shave                                   vt.剃，刮，刨，削n.刮脸
+shave                                   vt.剃，刮，刨，削n.刮脸  
 calorie                                   n.卡路里（热量单位），大卡（食物的热量） 
 hypothesis                                   n.假说，假设；【逻】前提   **                                    
 ballet                                   n.芭蕾舞；芭蕾舞剧；芭蕾舞团                                  
@@ -1288,7 +1288,7 @@ riddle                                   n.�
 anniversary                                  n.周年，周年纪念日    
 complain                                     v.(about,of)抱怨;申诉    
 **comparative                                  a.比较的,相当的**    
-advertise                                   vt.公告，公布；为...做广告 vi.登广告
+advertise                                   vt.公告，公布；为...做广告 vi.登广告  
 installment                                   n.分期付款  
 ward                                   n.病房;行政区;监护;被监护人 vt.挡住** 
 
