@@ -1416,7 +1416,7 @@ swing                                   v.摇
 mislead                                   v.把…带错路,使误入岐途    
 **tame                                   a.驯服的,温顺的;沉闷的,乏味的 vt.驯服**        
 heroic                                   a.英雄的，英勇的，崇高的    
-allowance                        n.补贴，津贴；零用钱；减价，折扣；允许    
+allowance                                   n.补贴，津贴；零用钱；减价，折扣；允许    
 **preach                                   v.宣讲(教义),布道;竭力鼓吹,宣传;说教**    
 sponsor                                  n.发起人,主力者,保证人 v.发起,主办    
 **gallop                                   v./n.奔驰,飞奔**    
@@ -1456,7 +1456,7 @@ scandal                                  n.丑
 radiate                                  v.放射,辐射;散布,传播    
 influential                                    a.有影响的;有权势的    
 recite                                   v.背诵,朗诵      
-repetition                        n.重复,反复    
+repetition                                   n.重复,反复    
 **documentary                                a.文献的 n.记录片**    
 **charter                                  v.租船,租车,租用飞机；n.宪章，特许状**    
 govern                                   v.统治,管理;决定,支配    
@@ -1471,7 +1471,7 @@ glare                                    vi.
 # **Word List 22**    
 
 recipe                                   n.烹饪法,食谱;诀窍,方法    
-**entrepreneur n.企业家，承包人**    
+**entrepreneur                             n.企业家，承包人**    
 orphan                                  n.孤儿    
 expose                                  v.(to)使暴露,受到;使曝光    
 immerse                                 v.使沉浸在;使浸没    
@@ -1482,14 +1482,14 @@ fling                                   v.(�
 divorce                                 v./n.离婚,分离    
 **discrepancy                                  n.相差;差异;矛盾;**    
 observe                                 v.观察,观测,注意到,监视,遵守,评述,说    
-reinforce                        v.增援,加强    
+reinforce                                  v.增援,加强    
 **implement                                  n.(pl.)工具,器具 v.贯彻,实现**    
 **commence                                   vt.开始 vi.获得学位**    
 **dismiss                                 v.免职,解雇,开除,解散**    
 pump                                    n.泵 v.用(泵)抽(水);打气,泵送    
 **lateral                                 n.侧面的,旁边的**    
 counsel                                 v./n.劝告,忠告 n.法律顾问,辩护人    
-sneeze                                  vi.打喷嚏，发喷嚏声n.喷嚏    
+sneeze                                  vi.打喷嚏，发喷嚏声n.喷嚏    
 alienate    
 **raid                                    n/v..袭击,搜查**    
 **agency                                  n.代理(处)；代办处；**    
@@ -1499,10 +1499,10 @@ ruby                                    n.�
 restore                                 v.恢复,使回复;归还,交还;修复,重建    
 **reckon                                  v.计算,总计,估计,猜想,依赖**           
 melody                                  n.旋律，曲调；悦耳的音乐    
-abrupt                                  a.突然的，出其不意的；(行为等)粗鲁无礼的    
+abrupt                                  a.突然的，出其不意的；(行为等)粗鲁无礼的    
 marathon  
 **disrupt                                 vt.使混乱，使崩溃，使分裂，使瓦解**    
-**hierarchy                        n.等级制度；统治集团，领导层**    
+**hierarchy                                  n.等级制度；统治集团，领导层**    
 ozone                                   n.臭氧；(海岸等的)新鲜空气    
 pyramid                                 n.金字塔    
 flash                                   n./a.闪光(的) v.发闪光,闪亮;闪现    
@@ -1515,7 +1515,7 @@ fable                                   n.寓
 **legislation                                    n.法律(规)；立法，法律的制定(或通过)**    
 attitude                                n.态度，看法(to, toward, about)；姿势    
 ferry                                   n.摆渡;渡船;渡口v.摆渡;渡运(人,车或物等)    
-frustrate                        vt.挫败,阻挠,使灰心        
+frustrate                                  vt.挫败,阻挠,使灰心        
 **merge                                   v.(使)结合，(使)合并，(使)合为一体**    
 **systematic                                    a.(systematical)系统的,有组织的**    
 deduce                                  vt.(from)演绎,推断,推论    
@@ -1533,7 +1533,7 @@ bizarre                                 a.奇�
 **vain                                    a.徒劳的,徒然的;自负的,爱虚荣的**    
 **layman                                  n.外行**    
 soda                                    n.苏打,汽水    
-**porcelain                        n.瓷器 a.精制的,瓷器的**    
+**porcelain                                  n.瓷器 a.精制的,瓷器的**    
 violent                                 a.猛烈的,激烈的;暴力引起的,强暴的    
 mechanism                                  n.机械装置,机构;机制    
 disease                                 n.疾病，弊病
@@ -1575,9 +1575,9 @@ project                                 n.方�
 blueprints                                 n.蓝图；方案    
 latter                                 a.后面的；末尾的；pron.后者    
 scramble                                 vi.①攀登，爬；②争夺，抢夺；vt.扰乱，搞乱；n.①攀登，爬行；②抢夺，争夺    
-transmission                                 n.①播送，发射；②传动，传送    
+transmission                              n.①播送，发射；②传动，传送    
 crime                                 n.罪行，犯罪    
-host                                 n.①主人，旅店老板；②节目主持人；③一大群，许多；vt.主持（节目、活动等）；作为主人招待    
+host                                 n.①主人，旅店老板；②节目主持人；③一大群，许多；vt.主持；作为主人招待    
 murmur                                 v.小声说（某事）；②小声抱怨；咕哝；n.小声说话，咕哝    
 blanket                                 n.毛毯，毯子    
 excel                                 vi.擅长，胜过某物；vt.（oneself）优于，超过    
@@ -1605,11 +1605,11 @@ consult                                 vi.（w
 directory                                 n.人名地址录；（电话）号码簿    
 gear                                 n.齿轮，传动装置；v.（to，towards）调整，使适合    
 porch                                 n.门廊    
-**conscience                                 n.良心，良知**    
+**conscience                              n.良心，良知**    
 **paradox                                 n.似是而非的话；反论**        
-investigate                                 vt.调查，调查研究    
+investigate                               vt.调查，调查研究    
 magnify                                 vt.放大，扩大    
-pad                                 n.①垫，衬垫；②便笺簿；拍纸簿；vt.填塞
+pad                                   n.①垫，衬垫；②便笺簿；拍纸簿；vt.填塞
 
 [markdown toc](#markdown-toc)
 
@@ -1651,16 +1651,16 @@ trait                                   n.特
 **commend                                 v.称赞，表扬：委托保管；推荐**    
 notion                                  n.概念,想法,意念,看法,观点    
 pave                                    v.铺砌,铺(路)    
-guarantee  n.保证,保证书 v.保证,担保    
+guarantee                                 n.保证,保证书 v.保证,担保    
 unload                                  vi.卸货;退子弹 vt.摆脱...之负担;倾销        
-ensure                                  v.确保,保证;使安全    
+ensure                                 v.确保,保证;使安全    
 buzz  
 index                                   n.(pl.indexes,indices)索引 v.附以索引        
 **intercourse                                   n.交流,交往,交际,性交**        
 **shrug                                   vt./n.耸肩(表示冷淡、怀疑、无奈、不满等)**    
 mass                                    n.大量,众多;团,块;(pl.)群众,民众;质量    
 **summon                                  v.召唤;传讯,传唤;鼓起(勇气),振作(精神)**        
-extension                        n.延长;扩大;范围;大小;尺寸;电话分机        
+extension                                 n.延长;扩大;范围;大小;尺寸;电话分机        
 exposure                                n.暴露,揭露;方向;陈列;遗弃;照射量    
 tangle                                   n.纠缠；缠结；混乱 v.(使)缠绕；变乱    
 **instant                                  a.立即的;紧迫的;(食品)速溶的 n.瞬间,时刻**    
@@ -1684,10 +1684,10 @@ gradual                                 a.逐�
 deceive                                 v.欺骗,蒙蔽    
 vibrate                                 v.(使)振动,(使)摇摆；受…而感动    
 **verify                                  vt.证实,查证;证明**       
-**recollect                        v.回忆,想起,记起,忆起,记得**    
-ascertain                        vt.确定，查明，弄清    
+**recollect                                 v.回忆,想起,记起,忆起,记得**    
+ascertain                                 vt.确定，查明，弄清    
 reservation                                   n.保留,保留意见;预定,预订        
-electrician                                    n.电学家,电工  
+electrician                                 n.电学家,电工  
 storage
 commute                                 v.乘公交车上下班，经常乘车或船往返与两地，通勤    
 **virgin                                  n.处女 a.处女的;纯洁的;原始的;未使用的**    
@@ -1701,9 +1701,9 @@ undesirable                                a.不
 formation                                  n.形成;构成;组织;构造;编制;塑造        
 corporation                                n.市镇自治机关；法人；公司，企业    
 helicopter                                 n.直升(飞)机    
-bloom                                                              n.花(朵);开花(期) v.开花    
-prescription                        n.药方，补方    
-increasingly                        ad.不断增加地，日益        
+bloom                                 n.花(朵);开花(期) v.开花    
+prescription                                 n.药方，补方    
+increasingly                                 ad.不断增加地，日益        
 product                                    n.产品,产物;乘积    
 decisive                                   a.决定性的，    
 acquire                                    v.取得，获得，学到    
@@ -1749,67 +1749,67 @@ accordance                                   
 
 # **Word List 26**    
 
-association n.协会，团体；联合，联系，交往；联想    
-periodical  n.期刊，杂志 a.周期的，定期的       
+association                              n.协会，团体；联合，联系，交往；联想    
+periodical                                n.期刊，杂志 a.周期的，定期的       
 testify                                  v.证明，证实    
 prolong                                  vt.拉长，延长    
 hum                                     v.哼曲子；发嗡嗡声；忙绿，活跃，充满活力 n.嗡嗡声，营营声，嘈杂声    
 **batch                                   n.一批，一组，一群**    
 **angle                                   n.角；角度，立场，观点**    
-amplifier                        n.放大器，扩音机    
+amplifier                              n.放大器，扩音机    
 prayer                                  n.祈祷，祷告，祷文    
 proposal                                n.提议，建议；求婚        
 **legacy                                  n.遗产；遗留之物**        
-**malignant                        a.恶毒的，恶性的；致命的**    
+**malignant                              a.恶毒的，恶性的；致命的**    
 recall                                  v.回忆，回想；撤销，收回    
 coincide                                v.和...一致，相符，相同    
-clockwise                        a.顺时针方向的    
+clockwise                              a.顺时针方向的    
 latitude                                n.纬度        
-spectator                        n.观众，旁观者    
+spectator                              n.观众，旁观者    
 invest                                  v.投资    
 fluid                                   a.流动的，液体的 n.流体，液体        
-investment                       n.投资，投资额    
-fellowship                       n.伙伴关系，友谊，团体    
+investment                              n.投资，投资额    
+fellowship                              n.伙伴关系，友谊，团体    
 **interim                                 n.间歇，过渡期间 a.暂时的，临时的**    
 limited                                 a.有限的，被限制的    
 organ                                   n.器官；机构；风琴    
 rare                                    a.稀有的，难得的，珍奇的；稀薄的，稀疏的    
-instrument                       n.工具，仪器，器械；乐器    
+instrument                              n.工具，仪器，器械；乐器    
 handful                                 n.一把，一小撮；少数    
 pail                                    n.提桶    
 **conceal                                 vt.隐藏，隐瞒，隐蔽**    
-individual                       a.个人的，单独的，独特的 n.个人，个体    
+individual                              a.个人的，单独的，独特的 n.个人，个体    
 argument                                n.争论，辩论    
 nitrogen                                n.氮    
-hop                                     vt.（人）单足跳跃，单足跳行；（鸟、昆虫等）齐足跳跃，齐足跳行n.蹦跳；（飞机的）短程航行    
+hop                                     vt.（人）单足跳跃，单足跳行；跳跃 n.蹦跳；（飞机的）短程航行    
 knob                                    n.门把手，（球形）把手，旋钮    
 array                                   n.一系列，大量，排列 vt.排列    
 **lawn                                    n.草地，草坪**    
-correspond                       vi.通信；符合，一致；相当于，对应    
+correspond                              vi.通信；符合，一致；相当于，对应    
 protein                                 n.蛋白质    
 **outrage                                 n.暴行，骇人听闻的事件；愤慨 v.激怒**    
 **justice                                 n.正义，公平；审判，司法，法律制裁**    
 **estate                                  n.地产，房地产**    
 pregnant                                a.怀孕的，妊娠的；充满的    
-significance                       n.意义，重要性       
-innovation                       n.创新，革新，改革    
-**hypocrisy                        n.伪善，虚伪**        
+significance                              n.意义，重要性       
+innovation                              n.创新，革新，改革    
+**hypocrisy                              n.伪善，虚伪**        
 warfare                                 n.战争（状态），斗争，冲突        
 ultimate                                a.最后的，最终的；根本的，基本的        
 variable                                a.易变的，多变的；可变的，变量的 n.变量    
 **latent                                  a.潜在的，潜伏的，不易察觉的**    
 balance                                 vt.称；（使）平衡 n.天平，称；平衡，均衡；差额，结余，余款    
 aid                                     vt.帮助，援助，救援 n.帮助，援助，救护；助手，辅助物，辅助设备    
-**extraordinary                       a.非常的，格外的**    
-gymnasium/gym                       n.体育馆，健身房    
+**extraordinary                              a.非常的，格外的**    
+gymnasium/gym                              n.体育馆，健身房    
 laundry                                 n.洗衣房（店）；待洗衣物，所洗衣物；洗熨    
-classification                       n.分类，分级    
+classification                              n.分类，分级    
 **mutual                                  a.相互的，彼此的；共有的**    
 muscle                                  n.肌肉；体力    
 avail                                   n.效用，利益；帮助 v.有益于，有助于；利用        
 captive                                 n.俘虏 a.被俘虏的，被监禁的    
 postpone                                vt.推迟，延期    
-universal                        a.普遍的，全体的；通用的；宇宙的，全世界的    
+universal                              a.普遍的，全体的；通用的；宇宙的，全世界的    
 handle                                  n.柄，把手，拉手 vt.处理，对待，操纵；触，摸
 
 [markdown toc](#markdown-toc)
@@ -1817,7 +1817,7 @@ handle                                  n.柄�
 # **Word List 27**    
 
 tide                                    n.潮,潮汐;潮流,趋势    
-ambulance                        n.救护车，救护船，救护飞机    
+ambulance                                n.救护车，救护船，救护飞机    
 tolerant                                a.容忍的,宽容的；有耐药力的        
 proceeding                                   n.行动,进行,(pl.)会议录,学报    
 congratulate                                 v.(on)祝贺,向…致贺词    
@@ -1837,20 +1837,20 @@ slipper                                 n.便�
 equator                                 n.赤道    
 bait                                    n.饵，引诱物 vt.用饵引诱；折磨，奚落        
 **remedy                                  n.药品;治疗措施 v.治疗,医治;纠正,补救**    
-paragraph                        n.段,节;小新闻,短评    
+paragraph                                n.段,节;小新闻,短评    
 weld                                    v.焊接 n.焊接,焊缝    
 **ethnic                                  a.种族的；人种学的**    
 **apt                                     a.恰当的，适当的；易于…的，有…倾向的**    
 condemn                                 v.谴责,指责;判刑,宣告有罪        
-parameter                        n.参数,参量  
+parameter                                n.参数,参量  
 endure  
 recovery                                n.痊愈,复元;重获,恢复
 deputy        
 beacon                                  n.咸肉，熏肉，    
 ditch                                   n.沟,沟渠,水沟    
-excessive                        a.过多的;过分的;额外      
+excessive                                a.过多的;过分的;额外      
 **engage                                  v.(in)从事,着手;约定;使订婚;保证;雇用**    
-physiology                       n.生理学    
+physiology                                n.生理学    
 convenience                                 n.便利,方便;(pl.)便利设备    
 copper                                  n.铜;铜币,铜制器    
 elevate                                 v.抬起，升高    
@@ -1859,15 +1859,15 @@ process                                 n.过�
 industrialize                                 v.(industrialise)(使)工业化        
 palm                                   n.手掌,掌状物,棕榈vt.与…握手,藏…于掌中    
 **medium                                 n.(pl.media)媒体,方法,媒介,介质 a.中等的**    
-heighten                        v.提高，升高，加强    
+heighten                                v.提高，升高，加强    
 stumble                                n.跌倒，绊倒 vi.绊(摔)倒；结结巴巴说    
 pint                                   n.品脱    
-**disorder                        n.混乱,杂乱;骚乱;失调,疾病**    
+**disorder                                n.混乱,杂乱;骚乱;失调,疾病**    
 cabin                                  n.客舱,机舱;小(木)屋    
 delete                                 v.删除    
-**commonplace                       a.普通的，平庸的n.寻常的事物，平庸的东西**    
+**commonplace                                a.普通的，平庸的n.寻常的事物，平庸的东西**    
 acrobat                                  n.特技演员，杂技演员    
-**proposition                       n.主张,建议;陈述,命题**        
+**proposition                                n.主张,建议;陈述,命题**        
 audit                                    v.审计；查帐；核对；旁听    
 affiliate                                v.使隶属(或附属)于 n.附属机构，分公司    
 chamber                                  n.房间    
@@ -1876,7 +1876,7 @@ inhibit                                  vt.�
 contain                                  v.包含，容纳；容忍，抑制；可被...除尽    
 **desirable                                a.值得做的;合意的,称心的;期望得到的**    
 sociable                                 a.好交际的，友好的，合群的    
-impressive                        a.给人深刻印象的,感人的    
+impressive                                                                a.给人深刻印象的,感人的    
 exile                                    **n.流放；被流放者 vt.流放，放逐，把…充军**    
 **formula                                  n.(pl.formulae)公式;规则;分子式;药方**    
 
@@ -1885,10 +1885,10 @@ exile                                    **n
 # **Word List 28**    
 
 medieval                                a.中世纪的,中古(时代)的,老式的,原始的    
-**artificial                       a.人工的，人造的，人为的；虚伪的，做作的**        
+**artificial                                a.人工的，人造的，人为的；虚伪的，做作的**        
 meadow                                  n.草地,牧场    
 kneel                                   v. 跪，下跪    
-**fabricate                        v.捏造,编造(谎言,借口等);建造,制造**    
+**fabricate                                v.捏造,编造(谎言,借口等);建造,制造**    
 persist                                 v.(in)坚持,持续    
 **weird                                   a.古怪的，离奇的；怪诞的，神秘而可怕的**    
 bar                                     n.条,杆,闩;酒吧;栅,障碍(物) v.闩上,阻拦    
@@ -1897,15 +1897,15 @@ complicated                                 a.�
 imaginary                                    a.想象的,虚构的    
 lodge                                   v.临时住宿,寄宿,寄存,容纳n.传达室,小旅馆    
 curve                                   n.曲线,弯曲(物) v.弄弯,成曲形    
-miserable                        a.痛苦的,悲惨的    
-**executive                        n.总经理,董事,行政负责人 a.执行的,实施的**    
+miserable                                a.痛苦的,悲惨的    
+**executive                                n.总经理,董事,行政负责人 a.执行的,实施的**    
 gloomy                                  a.阴暗的,阴沉的,令人沮丧的,阴郁的        
-**generalize                                    v.(generalise)归纳,概括;推广,普及**    
+**generalize                              v.(generalise)归纳,概括;推广,普及**    
 merchandise                                 n.商品,货物    
 adequate                                adj.充足的，足够的；适当的，胜任的    
-**characterize                        v.(characterise)表示…的特性;描述…特性**    
+**characterize                             v.(characterise)表示…的特性;描述…特性**    
 rainbow                                 n.彩虹    
-**nevertheless                        conj.(nonetheless)然而,不过 ad.仍然,不过**    
+**nevertheless                             conj.(nonetheless)然而,不过 ad.仍然,不过**    
 grocer                                  n.食品商,杂货商    
 **frank                                   a.坦白的,直率的**    
 vote                                    n.投票,表决;选票,选票数 v.投票,表决    
@@ -1916,7 +1916,7 @@ carbon                                  n.碳�
 streamline                                    a.流线型的 vt.使成流线型；使合理化    
 chew                                    v.咀嚼;思量    
 social                                  a.社会的，交际的    
-**threshold                        n.门槛;入门,开端**        
+**threshold                              n.门槛;入门,开端**        
 divert                                  vt.使转向，使改道；转移(注意力)；使娱乐    
 chef                                    n.(餐馆等的)厨师长，厨师    
 disgust                                 n.厌恶,恶心 v.使厌恶    
@@ -1925,12 +1925,12 @@ widow                                   n.寡
 weed                                 n.杂草，野草，v.除草    
 prosper                                 v.成功,兴隆,昌盛,使成功,使昌隆,繁荣    
 contact                                 v./n.(使)接触,联系,交往        
-**complementary                       a.补充的辅助的**    
+**complementary                            a.补充的辅助的**    
 adjacent                                a.(to)(时间上)紧接着的；邻近的，毗邻的    
 input                                   n./v.输入    
-prevalent                        a.流行的,普遍的    
+prevalent                                    a.流行的,普遍的    
 explore                                 v.勘探,探测;探究,探索    
-cultivate                        v.耕作,栽培,养殖;培养,教养,磨炼        
+cultivate                                    v.耕作,栽培,养殖;培养,教养,磨炼        
 robe                                    n.长袍,上衣    
 **approval                                n.批准，通过；赞成，同意**    
 religion                                n.宗教,信仰    
@@ -1953,7 +1953,7 @@ patrol                                  v.巡�
 # **Word List 29**    
     
 bald                                  a.秃的,秃头的        
-**manifest                       v.表明,证明,显示 a.明白的,明了的**        
+**manifest                                  v.表明,证明,显示 a.明白的,明了的**        
 channel                                n.海峡,水道;信道,;路线,途径    
 comparable                                  a.(with,to)可比较的,比得上的    
 bundle                                  n.捆,包,束    
@@ -1977,21 +1977,21 @@ sprout                                  vi.发
 plot                                    n.秘密计划;情节 v.标绘,绘制;密谋,策划    
 collide                                 vi.互撞，碰撞；冲突，抵触    
 **magistrate                                    n.地方行政官，地方法官，治安官**    
-rebellion                        n.叛乱,反抗,起义    
+rebellion                                  n.叛乱,反抗,起义    
 solution                                n.解答,解决办法;溶解,溶液        
 **compile                                 vt.编辑，编制，搜集**    
 oxide                                   n.氧化物    
-therefore                        ad.因此，所以 conj.因此    
+therefore                                  ad.因此，所以 conj.因此    
 adhere                                  vi.(to)粘着；坚持，遵守；依附，追随    
 insert                                  v.插入,嵌入;登载 n.插入物    
-necessity                        n.必要性,需要;必然性;(pl.)必需品    
+necessity                                  n.必要性,需要;必然性;(pl.)必需品    
 opt                                     vi.抉择，选择    
 **command                                 n./v.命令，指挥，控制 n.掌握，运用能力**    
 **dizzy                                   a.头晕目眩的,眩晕的;(可能)使人头晕的**    
 management                                n.经营,管理;处理,操纵;管理部门    
 **copyright                                 n.／a.版权(的)**    
 millionaire                                   n.百万富翁    
-accommodate                       vt.向…提供住处；对...予以照顾性考虑    
+accommodate                                  vt.向…提供住处；对...予以照顾性考虑    
 commerce                                  n.商业，贸易；交际，交往    
 **hazard                                    n.危险,冒险,危害 v.冒险,拼命**    
 toxic                                     a.有毒的；中毒的    
