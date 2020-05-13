@@ -1171,12 +1171,10 @@ tropical                                a.热带
 feast                                   n.节日；宴会    
 belly                                   n.肚子；腹部    
 local                                   a.地方的，当地的；局部的    
-**vigorous                                a.有力的；朝气蓬勃的，精力旺盛的**    
-extreme                                 a.末端的，尽头的；极度的，极端的n.极端，极度（状态）    
+**vigorous                                a.有力的；朝气蓬勃的，精力旺盛的**        
 **specify                                 vt.具体指定；详细说明**    
 **despise                                 vt.轻视，蔑视**    
-democratic                       a.民主的    
-feedback                                n.反馈    
+democratic                       a.民主的        
 slap                                    n/vt.拍，掌    
 smash                                   v.打碎，粉碎n.打碎，粉碎    
 **marital                                 a.婚姻的；夫妻的**    
@@ -1203,27 +1201,23 @@ probe                                   n.探
 **relish                                  n.（喻）滋味；兴趣；兴味，爱好；调味品；好味道，美味vt.欣赏；品尝**    
 harassment                       n.骚扰，扰乱；烦恼，烦乱    
 cylinder                                n.圆筒，圆柱体；气缸    
-**versatile                        a.通用的，万用的；多才多艺的，多方面的**    
-mist                                    n.薄雾，霭    
-cancer                                  n.癌    
+**versatile                        a.通用的，万用的；多才多艺的，多方面的**            
 **consecutive                       a.连续不断的，连贯的**    
 leisure                                 n.空闲，闲暇；悠闲，安逸    
-confirm                                 vt.证实；确认；批准；确认，巩固，加强    
-carrier                                 n.运送者，载体；携带者    
+confirm                                 vt.证实；确认；批准；确认，巩固，加强        
 superb                                  a.极好的，高质量的    
 enhance                                 vt.提高，增强    
 **inverse                                 a.倒转的，反向的n.反面，倒数**    
 contend                                 vi.(with)竞争；斗争vt.坚决主张    
-blast                                   n.一阵（风），一股（气流）；爆炸冲击波；管乐器或汽笛声v.爆炸，爆破    
-gap                                     n.(in/between_间隙，间隔；分歧；差距    
+blast                                   n.一阵（风），一股（气流）；爆炸冲击波；管乐器或汽笛声v.爆炸，爆破        
 **stretch                         vt.拉长vi.伸，延n.一段时间；一段距离（或路程）；（空间上的）眼神，连绵；连绵的一片**    
 obedient                                a.服从的，顺从的    
 **hound                                   n.猎犬vt.追逼；烦扰，纠缠**    
 **flush                                   v.冲洗；使（水等）流；脸红n.脸红a.齐平的，同高的**    
 voluntary                        a.自愿的，志愿的  
+**shrink                                   v.起皱；收缩；退缩，畏缩    ** 
 **hatred                                   n.憎恨，憎恶，怨恨 **                              
-**nominal                                   a.名义上的；（金额、租金）微不足道的   **                          
-**shrink                                   v.起皱；收缩；退缩，畏缩    **                                     
+**nominal                                   a.名义上的；（金额、租金）微不足道的   **                                                 
 **intensive                                   a.加强的；集中的；深入细致的 **                                    
 kettle                                   n.水壶                                                                    
 
