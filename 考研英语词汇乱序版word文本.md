@@ -1004,21 +1004,21 @@ chaos                                  n.混�
 
 # **Word List 14**    
 
-diet                                      n.饮食，食物                                 
-**genuine                   a.真正的，名副其实的**                                 
+diet                                           n.饮食，食物                                 
+**genuine                                           a.真正的，名副其实的**                                 
 weep                                         v.为...哭泣，为...流泪 n.悲叹，哀悼，为...伤心                                 
-costume                   n.戏装，（特定场合穿的）成套服装；服饰                                 
-fascinated                   a.兴奋的，着迷的                                 
-surround                                v.包围，环绕                                 
-**timid                                      a.胆怯的，怯懦的**                                 
-sportsman                    n.运动员                                 
-spark                       n.火花，火星 v.导致，产生；冒火花，飞火星                                 
-engineering                   n.工程；工程学                                 
-limitation                    n.限制，局限性                                 
-**prime                              a.首要的，主要的；最好的，第一流的 n.青春，青壮年时期；全盛时期**          
-jazz                                           n.爵士乐                                 
-envisage                                   v.展望，想象；正视                                 
-experimental                   a.实验性的，试验性的                                 
+costume                                           n.戏装，（特定场合穿的）成套服装；服饰                                 
+fascinated                                           a.兴奋的，着迷的                                 
+surround                                           v.包围，环绕                                 
+**timid                                           a.胆怯的，怯懦的**                                 
+sportsman                                           n.运动员                                 
+spark                                           n.火花，火星 v.导致，产生；冒火花，飞火星                                 
+engineering                                           n.工程；工程学                                 
+limitation                                           n.限制，局限性                                 
+**prime                                           a.首要的，主要的；最好的，第一流的 n.青春，青壮年时期；全盛时期**          
+jazz                                           n.爵士乐                                 
+envisage                                           v.展望，想象；正视                                 
+experimental                                           a.实验性的，试验性的                                 
 **agreeable                     a.惬意的，令人愉快的；易相处的；同意的**                                 
 dive                                           v.潜水；跳水，俯冲 n.潜水；跳水，俯冲                                 
 authentic                   a.真正的，真实的；可靠地                                 
