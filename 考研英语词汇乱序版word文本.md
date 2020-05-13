@@ -292,7 +292,6 @@ oar                                      �
 royalty                                                               n.皇家,皇族    
 innumerable                                   a.无数的,数不清的    
 **verge                                                                 n.边,边缘 v.濒临**    
-community                                     n.同一地区的全体居民,社会,社区;共同体    
 prosperous                                    a.繁荣的,兴旺的,茂盛的,顺利的    
 foam                                                                  v./n.泡沫,起泡沫    
 veteran                                                               n.老手,老兵    
@@ -319,7 +318,6 @@ benefit                                    �
 **bosom                                                                 n.胸，胸部；胸怀；内心；a.亲密的**    
 solar                                                                 a.太阳的,日光的    
 dissolve                                                              v.(使)溶解,(使)融化;解散,取消    
-fisherman                                     n.渔民，渔夫    
 semiconductor                                 n.半导体    
 arrange                                                               v.安排，筹划；整理，使有条理，排列，布置    
 orderly                                                               a.整齐的,有秩序的,有条理的 n.勤务兵    
@@ -329,8 +327,9 @@ rag                                      �
 tuition                                                               n.学费；**(某一学科的)教学，讲授，指导**    
 heave                                                                 v.(用力)举，提，拉；扔；拖；呕吐n.举起    
 enthusiasm                                    n.热情,热心;狂热;积极性(for)    
-pope                                                                  n.罗马教皇,主教,大腿上要害部位    
-edible                                                                a.可食用的    
+pope                                                                  n.罗马教皇,主教,大腿上要害部位    
+defendant  
+edible                                                                a.可食用的    
 **supervise                                     v.管理,监督**    
 likewise                                                              ad.同样地,照样地;又,也,而且    
 plea                                                                  n.(法律)抗辩；请求，恳求，托词，口实    
@@ -343,14 +342,14 @@ fitting                                    �
 **sober                                                                 a.清醒的;认真的,冷静的,适度的    **    
 **obsolete                                                              a.已废弃的,过时的**    
 navy                                                                  n.海军    
-rural                                                                 a.乡下的,田园的,乡村风味的    
 **indulge                                                               v.放任，纵容，沉溺；使(自己)纵情享受**    
 **funeral                                                               n.丧葬,葬礼**    
 mobilize                                                              v.(mobilise)动员,赋予可动性    
 feminine                                                              a.女性的;娇柔的    
-combat                                                                v./n.战斗,搏斗,格斗    
-style                                                                 n.风格,文体;式样,时式,类型    
-cottage                                                               n.村舍,小屋,别墅
+combat                                                                v./n.战斗,搏斗,格斗    
+embryo  
+herald  
+
 
 # **Word List 6**    
 
