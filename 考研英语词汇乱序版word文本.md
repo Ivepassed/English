@@ -1004,79 +1004,79 @@ chaos                                  n.混�
 
 # **Word List 14**    
 
-diet                                      n.饮食，食物                                 
-**genuine                   a.真正的，名副其实的**                                 
-weep                                         v.为...哭泣，为...流泪 n.悲叹，哀悼，为...伤心                                 
-costume                   n.戏装，（特定场合穿的）成套服装；服饰                                 
-fascinated                   a.兴奋的，着迷的                                 
-surround                                v.包围，环绕                                 
-**timid                                      a.胆怯的，怯懦的**                                 
-sportsman                    n.运动员                                 
-spark                       n.火花，火星 v.导致，产生；冒火花，飞火星                                 
-engineering                   n.工程；工程学                                 
-limitation                    n.限制，局限性                                 
-**prime                              a.首要的，主要的；最好的，第一流的 n.青春，青壮年时期；全盛时期**          
-jazz                                           n.爵士乐                                 
-envisage                                   v.展望，想象；正视                                 
-experimental                   a.实验性的，试验性的                                 
-**agreeable                     a.惬意的，令人愉快的；易相处的；同意的**                                 
-dive                                           v.潜水；跳水，俯冲 n.潜水；跳水，俯冲                                 
-authentic                   a.真正的，真实的；可靠地                                 
-highlight                   v.使显著，使突出；强调 n.最精彩的部分；最重要的事件                                 
-**ventilate                   v.使通风，换气；给...装通风设备**                                 
-automation                   n.自动化                                 
-**overturn                                vi.翻倒，倾覆 vt.推翻 n.翻倒，倾覆**                                 
-durable                               a.持久的，耐久的 n.耐用物品                                 
-pulse                                   n.脉搏，脉冲；意向，动向；情绪                                 
-biography                    n.传记                                 
-**provided                            conj.倘若，只要，假如**                                 
-designate                    v.指明；指定                                 
-jeans                   n.工装裤，牛仔裤                                 
-**avert                   v.防止，避免；转移（目光、注意力等）**                                 
-hover                   v.（鸟等）翱翔，盘旋；逗留在近旁，徘徊，彷徨，犹豫                                 
-vivid                   a.鲜艳的；生动的，栩栩如生的                                 
-**overthrow                   v.推翻，颠覆 n.推翻，颠覆**                                 
-purple                                 a.紫的，紫红的 n.紫色                                 
-display                                v.陈列，展览，显示 n.陈列，展览，展示                                 
-theme                                  n.题目，主题                                 
+diet                                   n.饮食，食物                                 
+**genuine                                   a.真正的，名副其实的**                                 
+weep                                   v.为...哭泣，为...流泪 n.悲叹，哀悼，为...伤心                                 
+costume                                   n.戏装，（特定场合穿的）成套服装；服饰                                 
+fascinated                                   a.兴奋的，着迷的                                 
+surround                                   v.包围，环绕                                 
+**timid                                   a.胆怯的，怯懦的**                                 
+sportsman                                   n.运动员                                 
+spark                                   n.火花，火星 v.导致，产生；冒火花，飞火星                                 
+engineering                                   n.工程；工程学                                 
+limitation                                   n.限制，局限性                                 
+**prime                                   a.首要的，主要的；最好的，第一流的 n.青春，青壮年时期；全盛时期**          
+jazz                                   n.爵士乐                                 
+envisage                                   v.展望，想象；正视                                 
+experimental                                   a.实验性的，试验性的                                 
+**agreeable                                   a.惬意的，令人愉快的；易相处的；同意的**                                 
+dive                                   v.潜水；跳水，俯冲 n.潜水；跳水，俯冲                                 
+authentic                                   a.真正的，真实的；可靠地                                 
+highlight                                   v.使显著，使突出；强调 n.最精彩的部分；最重要的事件                                 
+**ventilate                                   v.使通风，换气；给...装通风设备**                                 
+automation                                   n.自动化                                 
+**overturn                                   vi.翻倒，倾覆 vt.推翻 n.翻倒，倾覆**                                 
+durable                                   a.持久的，耐久的 n.耐用物品                                 
+pulse                                   n.脉搏，脉冲；意向，动向；情绪                                 
+biography                                   n.传记                                 
+**provided                                   conj.倘若，只要，假如**                                 
+designate                                   v.指明；指定                                 
+jeans                                   n.工装裤，牛仔裤                                 
+**avert                                   v.防止，避免；转移（目光、注意力等）**                                 
+hover                                   v.（鸟等）翱翔，盘旋；逗留在近旁，徘徊，彷徨，犹豫                                 
+vivid                                   a.鲜艳的；生动的，栩栩如生的                                 
+**overthrow                                   v.推翻，颠覆 n.推翻，颠覆**                                 
+purple                                   a.紫的，紫红的 n.紫色                                 
+display                                   v.陈列，展览，显示 n.陈列，展览，展示                                 
+theme                                   n.题目，主题                                 
 cube                                   n.立方形，立方体；立方，三次幂                                 
-**offensive                       a.冒犯的，攻击的；讨厌的 n.攻势，进攻**                                 
-amend                                  v.修改，修正                                 
-pirate                                 n.强盗，盗版；v.盗版                                 
+**offensive                                   a.冒犯的，攻击的；讨厌的 n.攻势，进攻**                                 
+amend                                   v.修改，修正                                 
+pirate                                   n.强盗，盗版；v.盗版                                 
 **fume                                   v. 发怒；冒烟 n.烟，气，汽**                                 
-amaze                                  v.使惊奇，使惊愕，使惊叹                                 
-advantage                       n.优点，长处；有利条件；利益，好处 v.有利于，有益于                                 
-click                                  v.（使）发出滴答声；使发出咔嚓声 n.滴答声，咔哒声，咔嚓声                                 
-security                        n.安全                                 
-file                                  n.锉刀；文件，档案 v.挫                                 
-salesman                       n.售货员，推销员                                 
-forth                                 ad.向前；向外                                 
-insure                                v.给...上保险；保证                                 
-diminish                       v.缩小，减少，递减                                 
-tempt                                 v.诱惑，引诱；吸引，使感兴趣                                 
-saucer                       n.茶托，碟子                                 
-giggle                       n./v.咯咯笑；傻笑                                 
-mosaic                       n.马赛克；镶嵌画                                 
-throat                       n.咽喉，嗓子                                 
-**prevail                                v.取胜，占优势；流行，盛行**                                 
-transform                       v.改变，变换；使改观；变压，转化；改造，改革                                 
-amount                                 n.数量，总额 v.合计，总共达；等于                                 
-author                                 n.作者；创始人                                 
-cop                                    n.警察                                 
-enlighten                       v.启发，启蒙；教导                                 
-**nuisance                        n.讨厌的人（或东西）；麻烦事**                                 
+amaze                                   v.使惊奇，使惊愕，使惊叹                                 
+advantage                                   n.优点，长处；有利条件；利益，好处 v.有利于，有益于                                 
+click                                   v.（使）发出滴答声；使发出咔嚓声 n.滴答声，咔哒声，咔嚓声                                 
+security                                   n.安全                                 
+file                                   n.锉刀；文件，档案 v.挫                                 
+salesman                                   n.售货员，推销员                                 
+forth                                   ad.向前；向外                                 
+insure                                   v.给...上保险；保证                                 
+diminish                                   v.缩小，减少，递减                                 
+tempt                                   v.诱惑，引诱；吸引，使感兴趣                                 
+saucer                                   n.茶托，碟子                                 
+giggle                                   n./v.咯咯笑；傻笑                                 
+mosaic                                   n.马赛克；镶嵌画                                 
+throat                                   n.咽喉，嗓子                                 
+**prevail                                   v.取胜，占优势；流行，盛行**                                 
+transform                                   v.改变，变换；使改观；变压，转化；改造，改革                                 
+amount                                   n.数量，总额 v.合计，总共达；等于                                 
+author                                   n.作者；创始人                                 
+cop                                   n.警察                                 
+enlighten                                   v.启发，启蒙；教导                                 
+**nuisance                                   n.讨厌的人（或东西）；麻烦事**                                 
 claw                                   n.爪，脚爪 v.抓                                 
-discount                        n. 折扣 v.打折                                 
-**issue                                  vi.流出，放出 vt.发行，发表，颁布n.发行物，报刊期号；问题，争论点，争端     
-replace                                v.替换，取代；放回，归还                                 
-consistent                       a.前后一致的，始终如一的                                 
-**veil                                    n.面纱，遮掩物 v.用面纱掩盖；掩饰**                                 
-**contrive                       v.设法做到；谋划，策划**                                 
-**judicial                       a.审判的，司法的；法庭的，法官的；公正的，明断的**                                 
-**tramp                                 n.流浪者；步行，跋涉 v.步行，跋涉**                                 
-sin                                 n.罪，罪恶 v.犯罪                                 
-legal                        a.法律的，法定的；合法的，正当的                                 
-saving                       n.储蓄，储蓄金，存款 a.节约的
+discount                                   n. 折扣 v.打折                                 
+**issue                                   vi.流出，放出 vt.发行，发表，颁布n.发行物，报刊期号；问题，争论点，争端     
+replace                                   v.替换，取代；放回，归还                                 
+consistent                                   a.前后一致的，始终如一的                                 
+**veil                                   n.面纱，遮掩物 v.用面纱掩盖；掩饰**                                 
+**contrive                                   v.设法做到；谋划，策划**                                 
+**judicial                                   a.审判的，司法的；法庭的，法官的；公正的，明断的**                                 
+**tramp                                   n.流浪者；步行，跋涉 v.步行，跋涉**                                 
+sin                                   n.罪，罪恶 v.犯罪                                 
+legal                                   a.法律的，法定的；合法的，正当的                                 
+saving                                   n.储蓄，储蓄金，存款 a.节约的
 
 # **Word List 15**    
 
