@@ -12,7 +12,7 @@
 - [Word List 46](#word-list-46) - [Word List 47](#word-list-47) - [Word List 48](#word-list-48) - [Word List 49](#word-list-49) - [Word List 50](#word-list-50)
 
 # Word List 1
-[markdown toc](#markdown toc)
+
 challenge                                   n.挑战(书);艰巨任务,难题 v.向…挑战    
 **furnish                                     v.供应,提供;装备,布置**    
 establish                                   v.建立,设立;安置,使定居    
@@ -79,7 +79,7 @@ kidnap                                     
 **propaganda                                  n.宣传(机构)；**    
 prescribe                                   v.指示，规定，开处方    
 **cape                                      n.海角，岬；披肩，短披风**
-
+[markdown toc](#markdown-toc)
 # **Word List 2**    
 
 solo                                        n.独奏 a.&ad.单独的(地)；独唱的(地)    
