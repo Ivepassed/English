@@ -948,79 +948,79 @@ legal                                   a.法
 
 # **Word List 15**    
 
-erosion                       n.腐蚀，磨损；削弱，减少    
+erosion                                  n.腐蚀，磨损；削弱，减少    
 pat                                  v.轻拍，轻打，抚摸 n.轻拍，轻打，抚摸    
-**versus/vs                      . prep.与...相对，与...相比；以...为对手，对**    
+**versus/vs                                  . prep.与...相对，与...相比；以...为对手，对**    
 fasten                                  v.扎牢，使固定    
-**learned                                 a.博学的，有学问的**    
-**perplex                                 v.使困惑；使费解；使复杂化**    
-suite                                   n.（旅馆的）套间；（一套）家具；（同类物的）套，组，系列    
-**inferior                       a.下等的，下级的；差的，次的 n.下级；晚辈**    
-**coordinate                       a.同等的，并列的；坐标的 n.坐标**    
-underground                       a.地下的，地面下的；秘密的 n.地铁 ad.在地下；秘密地    
-bounce                                   v.跳起，弹起 n.（球）跳起，弹回    
-**realm                                    n.王国，国土；领域**    
-bug                                                              n.臭虫；小毛病；窃听器；v.在...装窃听器    
-**undermine                                v.暗中破坏，逐渐削弱；侵蚀...的基础**    
-organise/organize                       v.组织，编组    
-evidence                       n.根据，证据；行迹，迹象    
-**cardinal                       a.最重要的 n.红衣主教**    
-costly                                a.昂贵的；价值高的；豪华的    
-priest                                n.教士，神父    
-route                                 n.路线，路程    
-lantern                        n.提灯，灯笼    
-log                                   n.原木，圆木；航海日志    
-**concession                       n.迁就，让步**    
-excitement                       n.刺激，激动，兴奋    
-eclipse                                 n.（天体的）食    
-loop                                n.圈，环    
-fridge                       n.电冰箱    
-roar                                v.吼叫，怒号；轰鸣，咆哮    
-**ultraviolet                        a.紫外线的 n.紫外线**    
-abdomen                                   n.腹部    
-**conventional                       a.惯例的，传统的；常规的**    
-glove                                   n.手套    
-foundation                       n.基础，根本；建立，创立；地基；基金，基金会    
-embarrass                        v.使窘迫，使为难    
+**learned                                  a.博学的，有学问的**    
+**perplex                                  v.使困惑；使费解；使复杂化**    
+suite                                  n.（旅馆的）套间；（一套）家具；（同类物的）套，组，系列    
+**inferior                                  a.下等的，下级的；差的，次的 n.下级；晚辈**    
+**coordinate                                  a.同等的，并列的；坐标的 n.坐标**    
+underground                                  a.地下的，地面下的；秘密的 n.地铁 ad.在地下；秘密地    
+bounce                                  v.跳起，弹起 n.（球）跳起，弹回    
+**realm                                  n.王国，国土；领域**    
+bug                                  n.臭虫；小毛病；窃听器；v.在...装窃听器    
+**undermine                                  v.暗中破坏，逐渐削弱；侵蚀...的基础**    
+organise/organize                                  v.组织，编组    
+evidence                                  n.根据，证据；行迹，迹象    
+**cardinal                                  a.最重要的 n.红衣主教**    
+costly                                  a.昂贵的；价值高的；豪华的    
+priest                                  n.教士，神父    
+route                                  n.路线，路程    
+lantern                                  n.提灯，灯笼    
+log                                  n.原木，圆木；航海日志    
+**concession                                  n.迁就，让步**    
+excitement                                  n.刺激，激动，兴奋    
+eclipse                                  n.（天体的）食    
+loop                                  n.圈，环    
+fridge                                  n.电冰箱    
+roar                                  v.吼叫，怒号；轰鸣，咆哮    
+**ultraviolet                                  a.紫外线的 n.紫外线**    
+abdomen                                  n.腹部    
+**conventional                                  a.惯例的，传统的；常规的**    
+glove                                  n.手套    
+foundation                                  n.基础，根本；建立，创立；地基；基金，基金会    
+embarrass                                  v.使窘迫，使为难    
 jar                                  n.罐，坛；广口瓶    
-approve                       vi.赞成，同意，满意 **vt.批准，审定，通过**    
-novel                                n.（长篇）小说 a.新奇的，新颖的    
-involve                       v.使某人卷入，陷入，连累；包含，涉及    
-emperor                       n.皇帝    
-cathedral                       n.大教堂    
-**analogy                                n.比拟，类比**    
-texture                                n.质地，纹理，结构    
-resist                                 v.抵抗，反抗；抗，忍得住，抵制    
-illegal                                a.不合法的，非法的    
-administer                       v.掌管，料理...的事务；实施，执行；给予，投（药）    
-**elaborate                       a.精心制作的；详尽的；复杂的 vi.详细制定 vt.详细说明**    
-**deaf                                   a.聋的，不愿听的**    
-hint                                   n.暗示，提示，线索；v.暗示，示意    
-bronze                                 n.青铜色，青铜制品    
-scrape                                 v.刮，擦去；擦过，勉强通过 n.刮削，刮削声；擦伤，擦痕    
-missionary                       n.传教士    
-illustrate                       v.举例说明，阐明；图解，加插图    
-being                                   n.生物；存在，生存    
-**quest                                   v.搜寻，探求 n.搜寻，探求**    
-Catholic                                a.天主教的 n.天主教徒    
+approve                                  vi.赞成，同意，满意 **vt.批准，审定，通过**    
+novel                                  n.（长篇）小说 a.新奇的，新颖的    
+involve                                  v.使某人卷入，陷入，连累；包含，涉及    
+emperor                                  n.皇帝    
+cathedral                                  n.大教堂    
+**analogy                                  n.比拟，类比**    
+texture                                  n.质地，纹理，结构    
+resist                                  v.抵抗，反抗；抗，忍得住，抵制    
+illegal                                  a.不合法的，非法的    
+administer                                  v.掌管，料理...的事务；实施，执行；给予，投（药）    
+**elaborate                                  a.精心制作的；详尽的；复杂的 vi.详细制定 vt.详细说明**    
+**deaf                                  a.聋的，不愿听的**    
+hint                                  n.暗示，提示，线索；v.暗示，示意    
+bronze                                  n.青铜色，青铜制品    
+scrape                                  v.刮，擦去；擦过，勉强通过 n.刮削，刮削声；擦伤，擦痕    
+missionary                                  n.传教士    
+illustrate                                  v.举例说明，阐明；图解，加插图    
+being                                  n.生物；存在，生存    
+**quest                                  v.搜寻，探求 n.搜寻，探求**    
+Catholic                                  a.天主教的 n.天主教徒    
 convey                                  v.运送，搬运，转运；表达，传播    
-recorder                                n.记录员，录音机    
-watt                                    n.瓦，瓦特    
-criticise/criticize                       v.批评，评论    
-**dump                                                              v.倾倒，倾卸 n.垃圾场，堆存处**    
-assurance                                 n.确保，断言；保证，担保    
-metropolitan                       a.首都的；大都市的    
-lubricate                       v.润滑；加润滑油于    
+recorder                                  n.记录员，录音机    
+watt                                  n.瓦，瓦特    
+criticise/criticize                                  v.批评，评论    
+**dump                                  v.倾倒，倾卸 n.垃圾场，堆存处**    
+assurance                                  n.确保，断言；保证，担保    
+metropolitan                                  a.首都的；大都市的    
+lubricate                                  v.润滑；加润滑油于    
 **blush                                  n./v.脸红**    
-cupboard                        n.碗柜，小厨    
-nightmare                       n.噩梦；无法摆脱的恐惧，可怕的事    
-database                        n.数据库    
-compress                        v.压缩，浓缩    
-**favo(u)rable                       a.赞许的，有利的，顺利的**    
-loose                                 a.松的，肥大的    
-**ornament                       v.装饰，美化 n.装饰，装饰物**    
-**overlap                        v.重叠，与...交叠 n.重叠**    
-senate                                n.参议院，上院
+cupboard                                  n.碗柜，小厨    
+nightmare                                  n.噩梦；无法摆脱的恐惧，可怕的事    
+database                                  n.数据库    
+compress                                  v.压缩，浓缩    
+**favo(u)rable                                  a.赞许的，有利的，顺利的**    
+loose                                  a.松的，肥大的    
+**ornament                                  v.装饰，美化 n.装饰，装饰物**    
+**overlap                                  v.重叠，与...交叠 n.重叠**    
+senate                                  n.参议院，上院
 
 # **Word List 16**    
 
