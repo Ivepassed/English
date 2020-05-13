@@ -948,38 +948,31 @@ legal                                   a.法
 
 # **Word List 15**    
 
-erosion                                  n.腐蚀，磨损；削弱，减少    
-pat                                  v.轻拍，轻打，抚摸 n.轻拍，轻打，抚摸    
+erosion                                  n.腐蚀，磨损；削弱，减少      
+complicate
 **versus/vs                                  . prep.与...相对，与...相比；以...为对手，对**    
 fasten                                  v.扎牢，使固定    
-**learned                                  a.博学的，有学问的**    
 **perplex                                  v.使困惑；使费解；使复杂化**    
 suite                                  n.（旅馆的）套间；（一套）家具；（同类物的）套，组，系列    
 **inferior                                  a.下等的，下级的；差的，次的 n.下级；晚辈**    
 **coordinate                                  a.同等的，并列的；坐标的 n.坐标**    
 underground                                  a.地下的，地面下的；秘密的 n.地铁 ad.在地下；秘密地    
 bounce                                  v.跳起，弹起 n.（球）跳起，弹回    
-**realm                                  n.王国，国土；领域**    
-bug                                  n.臭虫；小毛病；窃听器；v.在...装窃听器    
+**realm                                  n.王国，国土；领域**        
 **undermine                                  v.暗中破坏，逐渐削弱；侵蚀...的基础**    
 organise/organize                                  v.组织，编组    
 evidence                                  n.根据，证据；行迹，迹象    
-**cardinal                                  a.最重要的 n.红衣主教**    
-costly                                  a.昂贵的；价值高的；豪华的    
+**cardinal                                  a.最重要的 n.红衣主教**        
 priest                                  n.教士，神父    
 route                                  n.路线，路程    
 lantern                                  n.提灯，灯笼    
 log                                  n.原木，圆木；航海日志    
-**concession                                  n.迁就，让步**    
-excitement                                  n.刺激，激动，兴奋    
-eclipse                                  n.（天体的）食    
-loop                                  n.圈，环    
-fridge                                  n.电冰箱    
+**concession                                  n.迁就，让步**      
+loop                                  n.圈，环        
 roar                                  v.吼叫，怒号；轰鸣，咆哮    
 **ultraviolet                                  a.紫外线的 n.紫外线**    
 abdomen                                  n.腹部    
-**conventional                                  a.惯例的，传统的；常规的**    
-glove                                  n.手套    
+memorandum    
 foundation                                  n.基础，根本；建立，创立；地基；基金，基金会    
 embarrass                                  v.使窘迫，使为难    
 jar                                  n.罐，坛；广口瓶    
@@ -1011,16 +1004,16 @@ criticise/criticize                              �
 assurance                                  n.确保，断言；保证，担保    
 metropolitan                                  a.首都的；大都市的    
 lubricate                                  v.润滑；加润滑油于    
-**blush                                  n./v.脸红**    
-cupboard                                  n.碗柜，小厨    
-nightmare                                  n.噩梦；无法摆脱的恐惧，可怕的事    
-database                                  n.数据库    
+**blush                                  n./v.脸红**        
+nightmare                                  n.噩梦；无法摆脱的恐惧，可怕的事        
 compress                                  v.压缩，浓缩    
 **favo(u)rable                                  a.赞许的，有利的，顺利的**    
 loose                                  a.松的，肥大的    
 **ornament                                  v.装饰，美化 n.装饰，装饰物**    
 **overlap                                  v.重叠，与...交叠 n.重叠**    
-senate                                  n.参议院，上院
+senate                                  n.参议院，上院  
+taboo  
+eclipse
 
 # **Word List 16**    
 
@@ -1329,20 +1322,20 @@ advertise                                   �
 # **Word List 20**    
 
 **compatible                                   a.能和睦相处的,合得来的;兼容的**    
-hopeful                                a.有希望的，给以人希望的，抱有希望的，充满希望的    
+hopeful                                   a.有希望的，给以人希望的，抱有希望的，充满希望的    
 **ward                                   n.病房;行政区;监护;被监护人 vt.挡住**    
-vowel                                  n.元音,元音字母    
-**cement                                 n.水泥;胶泥,胶接剂 v.胶合;巩固,加强**    
-**account                                a.叙述，说明；账目，账户 vi.说明，解释**    
-suppress                        v.镇压,压制;抑制,忍住;查禁    
-credit                                 v./n.信用,信任 n.信用贷款,赊欠;名誉,名望    
-assimilate                           vt.吸收，消化；使同化 vi.被吸收；被同化    
-cohesive                        a.粘合性的，有结合力的    
-arise                                  v.出现，发生，由……引起，由……产生    
-comply                                 v.(with)遵照，照做，应允；顺从，服从    
-barbeque                        n.金属烤架，烧烤野餐，在烤架上烧烤    
-**assumption                          n.假定，设想；采取；承担；推测；假装**    
-**interfere                       v.(in)干涉,干预;(with)妨碍,打扰**    
+vowel                                   n.元音,元音字母    
+**cement                                   n.水泥;胶泥,胶接剂 v.胶合;巩固,加强**    
+**account                                   a.叙述，说明；账目，账户 vi.说明，解释**    
+suppress                                   v.镇压,压制;抑制,忍住;查禁    
+credit                                   v./n.信用,信任 n.信用贷款,赊欠;名誉,名望    
+assimilate                                   vt.吸收，消化；使同化 vi.被吸收；被同化    
+cohesive                                   a.粘合性的，有结合力的    
+arise                                   v.出现，发生，由……引起，由……产生    
+comply                                   v.(with)遵照，照做，应允；顺从，服从    
+barbeque                                   n.金属烤架，烧烤野餐，在烤架上烧烤    
+**assumption                                   n.假定，设想；采取；承担；推测；假装**    
+**interfere                                   v.(in)干涉,干预;(with)妨碍,打扰**    
 governor                        n.统治者,管理者,总督,州(省)长    
 hut                                    n.小屋，棚屋    
 cushion                                n.垫子,软垫 vt.装垫子;缓和,减轻;    
@@ -1404,24 +1397,24 @@ signal                                 n.信号
 
 # **Word List 21**    
 
-up-to-date                      a.现代化的，最新的；跟上时代的    
-**alleviate                        v.减轻，缓和，缓解(痛苦等)**    
-**identify                                v.识别,鉴别;(with)把…和…看成一样**    
-potential                        a.潜在的,可能的 n.潜能,潜力    
+up-to-date                                   a.现代化的，最新的；跟上时代的    
+**alleviate                                   v.减轻，缓和，缓解(痛苦等)**    
+**identify                                   v.识别,鉴别;(with)把…和…看成一样**    
+potential                                   a.潜在的,可能的 n.潜能,潜力    
 stuff                                   n.原料,材料,东西 v.填满,塞满    
-shampoo                                 n.洗发膏，香波，洗发，洗头    
-**empirical                        a.凭经验(或观察)的,经验主义的**    
-**career                                  n.生涯，经历，职业，专业**    
+shampoo                                   n.洗发膏，香波，洗发，洗头    
+**empirical                                   a.凭经验(或观察)的,经验主义的**    
+**career                                   n.生涯，经历，职业，专业**    
 proportion                                   n.比例;部分;均衡,相称    
-restrain                                 v.(from)抑制,制止    
-**execute                                  v.实行;实施;执行;完成;履行;处死**    
-lemon                                    n.柠檬    
-**mistress                                 n.女主人，主妇，情妇，情人**    
-**sovereign                        a.独立的，有主权的 n.君主，国王，统治者**    
-swing                                    v.摇摆,摇荡,回转,旋转 n.秋千;摇摆,摆动    
-mislead                                  v.把…带错路,使误入岐途    
-**tame                                     a.驯服的,温顺的;沉闷的,乏味的 vt.驯服**    
-pronoun                                  n.代词    
+restrain                                   v.(from)抑制,制止    
+**execute                                   v.实行;实施;执行;完成;履行;处死**    
+lemon                                   n.柠檬    
+**mistress                                   n.女主人，主妇，情妇，情人**    
+**sovereign                                   a.独立的，有主权的 n.君主，国王，统治者**    
+swing                                   v.摇摆,摇荡,回转,旋转 n.秋千;摇摆,摆动    
+mislead                                   v.把…带错路,使误入岐途    
+**tame                                   a.驯服的,温顺的;沉闷的,乏味的 vt.驯服**    
+pronoun                                   n.代词    
 heroic                                   a.英雄的，英勇的，崇高的    
 allowance                        n.补贴，津贴；零用钱；减价，折扣；允许    
 **preach                                   v.宣讲(教义),布道;竭力鼓吹,宣传;说教**    
