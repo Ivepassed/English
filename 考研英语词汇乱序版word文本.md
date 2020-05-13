@@ -354,22 +354,19 @@ herald
 # **Word List 6**    
 
 **scorn                                                              v./n.轻蔑,藐视**    
-princess                                   n.公主，王妃    
-tragedy                                 n.悲剧;惨事,灾难 posture        n.姿势,姿态,心态,态度 v.作出某种姿势
-relate                                    v.叙述,讲述;使互相关联
-
+tragedy                                 n.悲剧;惨事,灾难   
+posture        n.姿势,姿态,心态,态度 v.作出某种姿势
+relate                                    v.叙述,讲述;使互相关联  
 **mode                                                               n.方式，式样**    
 **institute                                  n.学会,研究所;学院 v.设立,设置,制定**    
 **augment                                    vt.(使)增大，增加，增长，扩张**    
 sequence                                   n.先后,次序;连续,数列
-
 obligation                                 n.义务，责任    
 **reckless                                   a.不注意的,大意的,卤莽的,不顾后果的**    
 detector                                   n.发现者,侦察器,探测器,检波器,检电器    
 **manoeuvre/maneuver                             v. 演习 运动 巧妙地引导某人**    
 decline                                    v.下降,衰落;拒绝 n.下降;斜面,倾斜,衰落    
-**mock                                                               v.嘲笑 a.假的,模拟的 n.(常pl.)模拟考试**    
-laughter                                   n.笑，笑声    
+**mock                                                               v.嘲笑 a.假的,模拟的 n.(常pl.)模拟考试**     
 **extract                                    v./n.拔出,抽出;摘录n.抽取物;精华;选集**    
 linen                                                              n.亚麻布,亚麻布制品    
 ounce                                                              n.盎司，英两    
@@ -382,8 +379,7 @@ string                                     
 frost                                                              n.霜,霜冻,严寒    
 **plateau                                    n.高原,平稳状态**    
 abide                                                              vi.(abode，abided)(by)遵守；坚持    
-**personnel                                  n.全体人员,全体职员;人事(部门)**    
-fee                                                                n.费(会费,学费等);酬金    
+**personnel                                  n.全体人员,全体职员;人事(部门)**     
 telegraph                                  n.电报机，电报 v.打电报传达消息，电告    
 dome                                                               n.圆屋顶    
 encounter                                  n./v.遇到,遭遇    
@@ -394,43 +390,33 @@ pursue                                     
 **acquaint                                   vt.(with)使认识，使了解，使熟悉**    
 worthwhile                                 a.值得(做)的    
 **lumber                                     n.木材,木料**    
-**majesty                                    n.雄伟,壮丽,庄严,威严;最高权威,王权**    
-global                                     a.球形的;全球的,全世界的;全面的    
+**majesty                                    n.雄伟,壮丽,庄严,威严;最高权威,王权**      
 **repertoire                                 n.节目,全部剧目,保留剧目,全部技能**    
 aggressive                                 a.侵略的，好斗的，有进取心的，敢作敢为的    
 **compensate                                 v.(for)补偿,赔偿**    
-oppose                                     v.反对,使对立,使对抗,使相对    
-crew                                                               n.全体船员,全体乘务员    
-**sake                                                               n.缘故,理由**    
-X-way    n.X射线，X光
-
 interrupt                                  v.中断,遮断,阻碍;打断(话),打扰    
 **obstruction                                n.妨碍,障碍物**    
 fragile                                    a.易碎的，脆的，易损坏的；虚弱的，脆弱的    
-cautious                                   a.(of)小心的,谨慎的    
 echo                                                               v./n.回声,反响,共鸣    
 **agony                                                              n.(精神或肉体的)极大痛苦，创伤**    
 negotiate                                  v.商订；谈判，洽谈，交涉    
 propose                                    v.提议,建议;提名,推荐;求婚    
 immigrant                                  a.(从国外)移来的,移民的 n.移民,侨民    
-**invade                                     vt.入侵,侵略,侵袭,侵扰**    
-confident                                  adj.(of,in)确信的,自信的
-
+**invade                                     vt.入侵,侵略,侵袭,侵扰**      
 nominate                                   v.提名,任命    
 wisdom                                     n.智慧,明智;名言,格言    
 phase                                                              n.阶段,状态,时期;相,相位    
 specialist                                 n.专家    
 **definite                                   a.明确的;一定的;意志坚强的,立场坚定的**    
-somehow                                    ad.不知怎么的，设法，以某种方式    
 subscribe                                  vi.(to)订阅，订购；同意vt.捐助，赞助    
 carbohydrate                        n.碳水化合物; 糖类；(plural)淀粉质或糖类    
-**discourse                                  n.论文;演说;谈话;话语 vi.讲述,著述**    
-complicate                                 v.使..复杂；使..难懂；使（疾病等）恶化；    
+**discourse                                  n.论文;演说;谈话;话语 vi.讲述,著述**     
 contrary                                   a.相反的，矛盾的，对抗的 n.矛盾，反对，相反，反面，对立物（面）    
 numerical                                  a.数字的，用数字表示的，数值的    
-junior                                     a./n.年少的/者,三年级的/学生,下级(的)
+junior                                     a./n.年少的/者,三年级的/学生,下级(的)  
+overhaul  
+discourse  
 
- 
 
 # **Word List 7**    
 
