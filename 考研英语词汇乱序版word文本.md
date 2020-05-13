@@ -550,7 +550,7 @@ vessel                                    n.
 **literary                                  a.文学上的,文学的;精通文学的,从事写作的**    
 **setback                                   n.挫折；失效；复发；倒退**    
 moreovercon                              j./ad.再者,加之,而且    
-cannon                                    n.大炮,火炮      
+cannon                                    n.大炮,火炮  
 prototype  
 
 # Word List 9    
