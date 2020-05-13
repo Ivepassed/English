@@ -36,7 +36,6 @@ loaf                                      
 applicable                                  a.可应用(实施)的；适当的,合适的    
 motion                                        n. 运动，提议    
 diploma                                     n.毕业文凭,学位证书    
-dragon                                     n.龙    
 contrast                                   n.对比，对照 vi.形成对比 vt.把…与…对比    
 trend                                              n.倾向,趋势 vi.伸向,倾向    
 honorable                                   a.(honourable)可敬的;荣誉的,光荣的    
@@ -47,8 +46,7 @@ inflation                                   n
 substantial                                 a.实质的;相当的;显著的;坚固的;富裕的    
 hasty                                                    a.匆忙的,仓促的;草率的    
 interpret                                   vt.解释,说明;口译    
-fraction                                    n.碎片,小部分,一点儿;分数    
-romance                                     n.传奇,爱情故事    
+fraction                                    n.碎片,小部分,一点儿;分数     
 rectangle                                   n.长方形，矩形    
 owl                                                   n.猫头鹰    
 **denote                                           vt.表示,意味着**    
@@ -57,8 +55,7 @@ fruitful                                    
 startle                                     v.惊吓,使吃惊    
 inlet                                                     n.水湾,小湾;进口,入口    
 system                                            n.系统，体系；制度；方法，方式，步聚    
-concede                                     vt.承认；容许；(比赛结束前)认输；退让    
-jewelry                                     n.珠宝    
+concede                                     vt.承认；容许；(比赛结束前)认输；退让       
 dictate                                     v.口授;(使)听写;指令,指示,命令;    
 lame                                                a.跛的,(辩解、论据等)无说服力的    
 exhaust                                     v.使筋疲力尽,耗尽;抽完 n.排气装置;废气    
