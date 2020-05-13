@@ -149,7 +149,7 @@ undertake                                 v.承
 generate                                  vt.产生,发生;生殖    
 threat                                    n.恐吓,威胁;坏兆头,危险迹象    
 manual                                    a.手的,手工做的,体力的 n.手册,指南    
-converge
+converge  
 default
 
 # **Word List 3**    
