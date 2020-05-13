@@ -1844,7 +1844,7 @@ weld                                    v.�
 condemn                                 v.谴责,指责;判刑,宣告有罪        
 parameter                                n.参数,参量  
 endure  
-recovery                                n.痊愈,复元;重获,恢复  
+recovery                                n.痊愈,复元;重获,恢复  
 deputy        
 beacon                                  n.咸肉，熏肉，    
 ditch                                   n.沟,沟渠,水沟    
