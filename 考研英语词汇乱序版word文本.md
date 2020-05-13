@@ -1600,79 +1600,79 @@ disease                                 n.疾�
 
 # **Word List 23**    
 
-grateful                      a. 感激的；感谢的    
-diverse                        a. 多种多样的；不同的    
-compass                        n. ①罗盘，指南针；②圆规    
+grateful                                 a. 感激的；感谢的    
+diverse                                 a. 多种多样的；不同的    
+compass                                 n. ①罗盘，指南针；②圆规    
 outer                                 a.外部的，外面的，外层的    
-violet                                n. ①紫罗兰；②紫罗兰色，紫色    
-dock                                  n.船坞，码头    
-inclusive                                a.包括的，包含的    
-efficiency                        n.功率，功效    
+violet                                 n. ①紫罗兰；②紫罗兰色，紫色    
+dock                                 n.船坞，码头    
+inclusive                                 a.包括的，包含的    
+efficiency                                 n.功率，功效    
 **underlie                                 vt. ①位于…之下；②构成…的基础**    
-**fundamental                       a.基础的，基本的； n.[pl]基本原则，基本原理**    
-**prone                                    a. ①平卧的，俯卧的；②（to）易于做…的，倾向做…的**    
-absurd                                   a.荒唐的    
-exceptional                       a.例外的，异常的    
-ecology                                  n.生态学    
+**fundamental                                 a.基础的，基本的； n.[pl]基本原则，基本原理**    
+**prone                                 a. ①平卧的，俯卧的；②（to）易于做…的，倾向做…的**    
+absurd                                 a.荒唐的    
+exceptional                                 a.例外的，异常的    
+ecology                                 n.生态学    
 operator                                 n. ①操作人员；②（电话）接线员    
-gallon                                   n.加仑    
-unfold                                   v. ①展开，打开；②显露，展现    
-**transplant                        vt.移植**    
-evaporate                                v.（使）蒸发    
-scatter                                  v. ①（使人或动物）散开，驱散；②散布，散播    
-van                                     n.大篷车，运货车；有篷货运车厢    
-vanity                                  n.虚荣心，浮华    
-influence                        n. ①（on）影响，作用②势力，权势 vt.影响，感化    
-**literature                       n.文学，文学作品；文献**    
-**scout                                   n.侦查员，侦察机（舰）； vi.搜索，侦查**    
+gallon                                 n.加仑    
+unfold                                 v. ①展开，打开；②显露，展现    
+**transplant                                 vt.移植**    
+evaporate                                 v.（使）蒸发    
+scatter                                 v. ①（使人或动物）散开，驱散；②散布，散播    
+van                                 n.大篷车，运货车；有篷货运车厢    
+vanity                                 n.虚荣心，浮华    
+influence                                 n. ①（on）影响，作用②势力，权势 vt.影响，感化    
+**literature                                 n.文学，文学作品；文献**    
+**scout                                 n.侦查员，侦察机（舰）； vi.搜索，侦查**    
 entitle                                 vt. ①给以权力（或资格）②给…以称号；给…题名    
-eloquent                                a.①雄辩的，有说服力的②动人的，意味深长的    
+eloquent                                 a.①雄辩的，有说服力的②动人的，意味深长的    
 attempt                                 v.尝试，试图； n.（at）企图，努力    
-adjust                                  vt.①调节，调整；②校正，校准； vi.调整，适应    
-barber                                  n.理发师    
-arrow                                   n.箭；箭头（符号），箭状物    
+adjust                                 vt.①调节，调整；②校正，校准； vi.调整，适应    
+barber                                 n.理发师    
+arrow                                 n.箭；箭头（符号），箭状物    
 project                                 n.方案，计划；工程，项目 vt.①投射，放映；②设计，规划； vi.凸出，伸出    
-blueprints                       n.蓝图；方案    
-latter                                  a.后面的；末尾的；pron.后者    
-scramble                                vi.①攀登，爬；②争夺，抢夺；vt.扰乱，搞乱；n.①攀登，爬行；②抢夺，争夺    
-transmission                       n.①播送，发射；②传动，传送    
-crime                                   n.罪行，犯罪    
-host                           n.①主人，旅店老板；②节目主持人；③一大群，许多；vt.主持（节目、活动等）；作为主人招待    
-murmur                                  v.小声说（某事）；②小声抱怨；咕哝；n.小声说话，咕哝    
+blueprints                                 n.蓝图；方案    
+latter                                 a.后面的；末尾的；pron.后者    
+scramble                                 vi.①攀登，爬；②争夺，抢夺；vt.扰乱，搞乱；n.①攀登，爬行；②抢夺，争夺    
+transmission                                 n.①播送，发射；②传动，传送    
+crime                                 n.罪行，犯罪    
+host                                 n.①主人，旅店老板；②节目主持人；③一大群，许多；vt.主持（节目、活动等）；作为主人招待    
+murmur                                 v.小声说（某事）；②小声抱怨；咕哝；n.小声说话，咕哝    
 blanket                                 n.毛毯，毯子    
-excel                                   vi.擅长，胜过某物；vt.（oneself）优于，超过    
-radioactive                       a.放射性的，放射引起的    
-horrible                                a.①令人恐怖的，可怕的；②极讨厌的，使人不愉快的    
+excel                                 vi.擅长，胜过某物；vt.（oneself）优于，超过    
+radioactive                                 a.放射性的，放射引起的    
+horrible                                 a.①令人恐怖的，可怕的；②极讨厌的，使人不愉快的    
 **torture                                 vt.①拷问，拷打；②折磨，磨难；n.①拷问，拷打；②折磨，痛苦**    
-campaign                                n.①战役；②活动，竞争活动    
-nonetheless                       conj./ad.尽管如此，依然    
+campaign                                 n.①战役；②活动，竞争活动    
+nonetheless                                 conj./ad.尽管如此，依然    
 visible                                 a.看得见的，可见的    
-clone                                   n.①无性繁殖系（的个体），克隆；②复制品，翻版；v.克隆    
-declaration                       n.宣言，宣布，声明    
-household                        n.户，家庭；全家人；a，家庭的    
-installation                       n.①安装，设置；设备；②就职，就任    
-**overflow                                v.（使）外溢，（使）溢出**    
-ore                                     n.矿石，矿砂    
-cooperative                       a.合作的，协作的；n.合作社    
-**ingenious                        a.①有独创性的；②心灵手巧的；③精致的**    
-recipient                        n.接受者，收受者    
-**idle                       a.①空闲的，闲置的；②无用的，无效的；③懒散的；vt.（away）浪费，虚度.**    
-standpoint                       n.立场，观点    
+clone                                 n.①无性繁殖系（的个体），克隆；②复制品，翻版；v.克隆    
+declaration                                 n.宣言，宣布，声明    
+household                                 n.户，家庭；全家人；a，家庭的    
+installation                                 n.①安装，设置；设备；②就职，就任    
+**overflow                                 v.（使）外溢，（使）溢出**    
+ore                                 n.矿石，矿砂    
+cooperative                                 a.合作的，协作的；n.合作社    
+**ingenious                                 a.①有独创性的；②心灵手巧的；③精致的**    
+recipient                                 n.接受者，收受者    
+**idle                                 a.①空闲的，闲置的；②无用的，无效的；③懒散的；vt.（away）浪费，虚度.**    
+standpoint                                 n.立场，观点    
 **passion                                 n.①热情，激情；酷爱；②愤怒，大怒**    
 **flatter                                 vt.奉承；使高兴**    
-credentials                       n.①证明书；证件；②（学历、资历）资格    
-loyal                                   a.忠诚的，忠贞的    
-hardware                                n.①五金，金属制品；②硬件    
+credentials                                 n.①证明书；证件；②（学历、资历）资格    
+loyal                                 a.忠诚的，忠贞的    
+hardware                                 n.①五金，金属制品；②硬件    
 consult                                 vi.（with）与…商量，商议；vt.请教；查阅    
-directory                        n.人名地址录；（电话）号码簿    
-gear                                    n.齿轮，传动装置；v.（to，towards）调整，使适合    
-porch                                   n.门廊    
-**conscience                       n.良心，良知**    
+directory                                 n.人名地址录；（电话）号码簿    
+gear                                 n.齿轮，传动装置；v.（to，towards）调整，使适合    
+porch                                 n.门廊    
+**conscience                                 n.良心，良知**    
 **paradox                                 n.似是而非的话；反论**    
-poison                                  n.毒物，毒药；vt.放毒；\<喻\>毒害    
-investigate                       vt.调查，调查研究    
+poison                                 n.毒物，毒药；vt.放毒；\<喻\>毒害    
+investigate                                 vt.调查，调查研究    
 magnify                                 vt.放大，扩大    
-pad                                     n.①垫，衬垫；②便笺簿；拍纸簿；vt.填塞
+pad                                 n.①垫，衬垫；②便笺簿；拍纸簿；vt.填塞
 
 # **Word List 24**    
 
