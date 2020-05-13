@@ -3353,7 +3353,7 @@ dot                                   n. 点�
 **maintain                       vt. 维修，保养，维持，保持，坚持，主张，支持**    
 spit                                  vi. 吐（唾沫），吐痰；n. 唾液，口水    
 deck                                  n. 甲板    
-**tow                                                              n./vt. 拖，牵引**    
+**tow                                  n./vt. 拖，牵引**    
 cocaine                                  n. 可卡因    
 **disturbance                       n. 动乱，骚乱，干扰**    
 **formidable                       a. 可怕的东西，令人敬畏的，强大的，难以应付的**    
