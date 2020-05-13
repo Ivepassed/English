@@ -1676,40 +1676,40 @@ pad                                 n.①垫，
 
 # **Word List 24**    
 
-bin                                                              n.(贮藏食物等用的)箱子    
-sue                                                              v.控告,对…提出诉讼,起诉    
-**status                                   n.地位,身份;情形,状况**    
-**premise                                  n.前提,房屋连地基v.提论,预述,假定**    
-**bully                                    n.恃强欺弱者，小流氓 vt.威胁，欺侮**    
-cell                                     n.细胞;小房间;蜂房;电池    
-**profile                                  n.侧面(像);轮廓,外形;人物简介**    
-**peninsula                       n.半岛**    
-crucial                                a.至关重要的,决定性的    
-economy                                n.节约;经济    
-**initiate                        vt.开始，创始，发动；启蒙，使入门；引入**    
-shaft                                  n.轴;杆状物    
+bin                                 n.(贮藏食物等用的)箱子    
+sue                                 v.控告,对…提出诉讼,起诉    
+**status                                 n.地位,身份;情形,状况**    
+**premise                                 n.前提,房屋连地基v.提论,预述,假定**    
+**bully                                 n.恃强欺弱者，小流氓 vt.威胁，欺侮**    
+cell                                 n.细胞;小房间;蜂房;电池    
+**profile                                 n.侧面(像);轮廓,外形;人物简介**    
+**peninsula                                 n.半岛**    
+crucial                                 a.至关重要的,决定性的    
+economy                                 n.节约;经济    
+**initiate                                 vt.开始，创始，发动；启蒙，使入门；引入**    
+shaft                                 n.轴;杆状物    
 uphold                                 vt.支持,赞成;举起;坚持    
-ruin                                   v.毁灭;(使)破产 n.毁灭,崩溃;(pl.)废墟    
+ruin                                 v.毁灭;(使)破产 n.毁灭,崩溃;(pl.)废墟    
 abroad                                 ad.到国外，在国外；在传播，在流传    
 horror                                 n.恐怖，战栗    
-**dividend                        n.红利，股息；回报，效益；被除数**    
-stem                                   n.茎，干 vt.堵(挡)住 vi.起源于，由…造成    
-keyboard                        n.键盘    
-recommend                       v.推荐,介绍;劝告,建议    
-nutrition                       n.营养,营养学    
-transmit                        vt.传输/导；转送；发射 vi.发射信号；发报    
-lorry                                  n.卡车,运货汽车    
-**mourn                                  v.哀悼,忧伤**    
-**sweat                                  n.汗 v.(使)出汗**    
-**reference                       n.提及,涉及;参考,参考书目;证明书（人）**    
-architect                       n.建筑师；设计师；缔造者；创造者    
-draft                                  n.草稿,草案,草图 v.起草,草拟    
+**dividend                                 n.红利，股息；回报，效益；被除数**    
+stem                                 n.茎，干 vt.堵(挡)住 vi.起源于，由…造成    
+keyboard                                 n.键盘    
+recommend                                 v.推荐,介绍;劝告,建议    
+nutrition                                 n.营养,营养学    
+transmit                                 vt.传输/导；转送；发射 vi.发射信号；发报    
+lorry                                 n.卡车,运货汽车    
+**mourn                                 v.哀悼,忧伤**    
+**sweat                                 n.汗 v.(使)出汗**    
+**reference                                 n.提及,涉及;参考,参考书目;证明书（人）**    
+architect                                 n.建筑师；设计师；缔造者；创造者    
+draft                                 n.草稿,草案,草图 v.起草,草拟    
 reform                                 v./n.改革,改造,改良    
 **summit                                 n.顶，最高点；颠峰，高峰；最高级会议**    
-**politician                       n.政治家，政客**    
-precision                        n.精确,精确度    
-diversion                        n.转向,转移;牵制;解闷;娱乐    
-progressive                       a.进步的，先进的，前进的    
+**politician                                 n.政治家，政客**    
+precision                                 n.精确,精确度    
+diversion                                 n.转向,转移;牵制;解闷;娱乐    
+progressive                                 a.进步的，先进的，前进的    
 abandon                                 vt.离弃，丢弃；遗弃，抛弃；放弃    
 gaze                                    v./n.凝视,注视    
 heroine                                 n.女英雄;女主角    
