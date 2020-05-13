@@ -1141,7 +1141,7 @@ lane                                   n.小�
 eject                                   vt.喷射；排出；驱逐                                
 calcium                                   n.钙                                                                          
 shave                                   vt.剃，刮，刨，削n.刮脸  
-calorie                                   n.卡路里（热量单位），大卡（食物的热量） 
+calorie                                   n.卡路里（热量单位），大卡（食物的热量）   
 hypothesis                                   n.假说，假设；【逻】前提   **                                    
 ballet                                   n.芭蕾舞；芭蕾舞剧；芭蕾舞团                                  
 entity                                   n.实体；事物的存在
