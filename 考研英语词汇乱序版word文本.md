@@ -1366,20 +1366,17 @@ up-to-date                                   
 **alleviate                                   v.减轻，缓和，缓解(痛苦等)**    
 **identify                                   v.识别,鉴别;(with)把…和…看成一样**    
 potential                                   a.潜在的,可能的 n.潜能,潜力    
-stuff                                   n.原料,材料,东西 v.填满,塞满    
-shampoo                                   n.洗发膏，香波，洗发，洗头    
+stuff                                   n.原料,材料,东西 v.填满,塞满      
 **empirical                                   a.凭经验(或观察)的,经验主义的**    
 **career                                   n.生涯，经历，职业，专业**    
 proportion                                   n.比例;部分;均衡,相称    
 restrain                                   v.(from)抑制,制止    
-**execute                                   v.实行;实施;执行;完成;履行;处死**    
-lemon                                   n.柠檬    
+**execute                                   v.实行;实施;执行;完成;履行;处死**        
 **mistress                                   n.女主人，主妇，情妇，情人**    
 **sovereign                                   a.独立的，有主权的 n.君主，国王，统治者**    
 swing                                   v.摇摆,摇荡,回转,旋转 n.秋千;摇摆,摆动    
 mislead                                   v.把…带错路,使误入岐途    
-**tame                                   a.驯服的,温顺的;沉闷的,乏味的 vt.驯服**    
-pronoun                                   n.代词    
+**tame                                   a.驯服的,温顺的;沉闷的,乏味的 vt.驯服**        
 heroic                                   a.英雄的，英勇的，崇高的    
 allowance                        n.补贴，津贴；零用钱；减价，折扣；允许    
 **preach                                   v.宣讲(教义),布道;竭力鼓吹,宣传;说教**    
@@ -1401,21 +1398,17 @@ evolve                                   v.(�
 **immense                                  a.广大的,巨大的;**    
 humanity                                 n.人类,人性,人情;(pl.)人文科学    
 **tablet                                   n.药片;碑,匾**    
-thesis                                   n.(pl.theses) 论文;论题;论点    
-item                                     n.条(款)，项目；一则(新闻)，(戏剧的)节目    
-aircraft                                 n.飞机，飞船，飞行器    
+thesis                                   n.(pl.theses) 论文;论题;论点        
 **harbor                                   n.(harbour)海港;避难所 v.隐匿,窝藏**    
 thoughtful                                   a.认真思考的,沉思的;体贴的,关心的    
 violin                                   n.小提琴    
-typewriter  n.打字机    
+typewriter                                   n.打字机    
 **patriotic                                a.爱国的**    
 breeze                                   n.微风；轻而易举的事 vi.来去匆匆，急速走    
 dubious                                  a.怀疑的，无把握的；有问题的，靠不住的    
 waterproof                                   a.防水的,耐水的    
 presumably                                  ad.推测起来,大概    
-**gigantic                                 a.巨大的,庞大的**    
-origin                                   n.起源,由来;出身,来历    
-poisonous                                a.有毒的    
+**gigantic                                 a.巨大的,庞大的**            
 integral                                 a.构成整体所必需的;完整的    
 **slip                                     v.滑,滑倒;滑掉;溜走n.疏忽,小错,口误,笔误**    
 emigrate                                 v.(反)immigrate;(to,from)自本国移居他    
@@ -1424,8 +1417,7 @@ scandal                                  n.丑
 **succession                                    n.连续,系列;继任,继承**    
 radiate                                  v.放射,辐射;散布,传播    
 influential                                    a.有影响的;有权势的    
-recite                                   v.背诵,朗诵    
-clue                                     n.线索,暗示    
+recite                                   v.背诵,朗诵      
 repetition                        n.重复,反复    
 **documentary                                a.文献的 n.记录片**    
 **charter                                  v.租船,租车,租用飞机；n.宪章，特许状**    
@@ -1457,21 +1449,18 @@ reinforce                        v.增援,加强  
 pump                                    n.泵 v.用(泵)抽(水);打气,泵送    
 **lateral                                 n.侧面的,旁边的**    
 counsel                                 v./n.劝告,忠告 n.法律顾问,辩护人    
-sneeze                                  vi.打喷嚏，发喷嚏声n.喷嚏    
-disregard                        vt.不理会;忽视;漠视 n.忽视;漠视    
+sneeze                                  vi.打喷嚏，发喷嚏声n.喷嚏    
+alienate    
 **raid                                    n/v..袭击,搜查**    
 **agency                                  n.代理(处)；代办处；**    
 exchange                                v./n.(for)交换,兑换;交流,交易;交换台    
 ruby                                    n.红宝石    
 **cable                                   n.电报;电缆;缆,索,钢丝绳 v.拍电报**    
 restore                                 v.恢复,使回复;归还,交还;修复,重建    
-**reckon                                  v.计算,总计,估计,猜想,依赖**    
-dumb                                    a.哑的,无言的    
-clothe                                  v.给……穿衣，供给衣服，    
+**reckon                                  v.计算,总计,估计,猜想,依赖**           
 melody                                  n.旋律，曲调；悦耳的音乐    
-abrupt                                  a.突然的，出其不意的；(行为等)粗鲁无礼的    
-climate                                 n.气候;风气,社会思潮    
-shortly                                 ad.立刻，不久；不耐烦地，简慢地    
+abrupt                                  a.突然的，出其不意的；(行为等)粗鲁无礼的    
+marathon  
 **disrupt                                 vt.使混乱，使崩溃，使分裂，使瓦解**    
 **hierarchy                        n.等级制度；统治集团，领导层**    
 ozone                                   n.臭氧；(海岸等的)新鲜空气    
@@ -1486,10 +1475,7 @@ fable                                   n.寓
 **legislation                                    n.法律(规)；立法，法律的制定(或通过)**    
 attitude                                n.态度，看法(to, toward, about)；姿势    
 ferry                                   n.摆渡;渡船;渡口v.摆渡;渡运(人,车或物等)    
-frustrate                        vt.挫败,阻挠,使灰心    
-favorite                                a.最喜欢的人或物，特别喜欢的，中意的    
-sofa                                    n.长沙发    
-boot                                    n.靴；(汽车后部的)行李箱；    
+frustrate                        vt.挫败,阻挠,使灰心        
 **merge                                   v.(使)结合，(使)合并，(使)合为一体**    
 **systematic                                    a.(systematical)系统的,有组织的**    
 deduce                                  vt.(from)演绎,推断,推论    
