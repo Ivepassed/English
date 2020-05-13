@@ -425,6 +425,8 @@ junior                                     
 overhaul  
 discourse  
 
+[markdown toc](#markdown-toc)
+
 
 # **Word List 7**    
 
@@ -495,6 +497,8 @@ brand                                    n.�
 **persecute                                v.迫害**    
 **numb                                     a.麻木的,失去感觉的 v.使麻木 **    
 
+[markdown toc](#markdown-toc)
+
 # **Word List 8**    
 
 slice                                     n.薄片,切片;一份;部分切(片)  
@@ -560,6 +564,8 @@ vessel                                    n.
 moreovercon                                   j./ad.再者,加之,而且    
 cannon                                    n.大炮,火炮  
 prototype  
+
+[markdown toc](#markdown-toc)
 
 # Word List 9    
 hormone   
@@ -628,6 +634,8 @@ enrich                                     
 loyalty                                    n.忠诚,忠心    
 **authority                                    n.权力，权威；权威人士；(pl.)官方，当局**    
 
+[markdown toc](#markdown-toc)
+
 # **Word List 10**    
 
 balcony                                    n.阳台；(电影院等的)楼厅，楼座    
@@ -694,6 +702,8 @@ loosen                                     
 accurate                                   a.正确无误的；准确的，精确的    
 surplus                                    n.过剩,剩余；余款,余额 a.过剩的,剩余的
 
+[markdown toc](#markdown-toc)
+
 # **Word List 11**    
 
 doze                                    vi. 瞌睡；假寐 n. 瞌睡；假寐    
@@ -759,6 +769,8 @@ medal                                     n
 **reproduce                                 vi.生殖，繁殖         vt.翻版；复制，仿造**      
 **cosmic                                    a.宇宙的**    
 motel                                     n..汽车旅馆    
+
+[markdown toc](#markdown-toc)
 
 # **Word List 12**    
 
@@ -827,6 +839,8 @@ canteen                                   n.�
 wrench                                  vt.1)猛拧，猛拉；2)拜托，挣脱；3)使扭伤n.1)扳手；2)（离别等的）痛苦，难受  
 vaccine
 
+[markdown toc](#markdown-toc)
+
 # **Word List 13**    
 
 **massacre                                   v.大规模屠杀，残杀；彻底击败 n.大屠杀，残杀；（比赛等的）惨败**                                 
@@ -891,6 +905,8 @@ hinge                                  n.合�
 **slack                                  a.懈怠的，懒散的；松弛的，不紧的；萧条的 n.淡季，萧条（期）**                                
 chaos                                  n.混乱，杂乱的一团
 
+[markdown toc](#markdown-toc)
+
 # **Word List 14**    
                               
 **genuine                                   a.真正的，名副其实的**                                 
@@ -951,8 +967,10 @@ consistent                                   
 **veil                                   n.面纱，遮掩物 v.用面纱掩盖；掩饰**                                 
 **contrive                                   v.设法做到；谋划，策划**                                 
 **judicial                                   a.审判的，司法的；法庭的，法官的；公正的，明断的**                                 
-**tramp                               n.流浪者；步行，跋涉 v.步行，跋涉**                                                                 
+**tramp                               n.流浪者；步行，跋涉 v.步行，跋涉**                                                            
 legal                                   a.法律的，法定的；合法的，正当的                                 
+
+[markdown toc](#markdown-toc)
 
 # **Word List 15**    
 
@@ -1023,6 +1041,8 @@ senate                                  n.参�
 taboo  
 eclipse
 
+[markdown toc](#markdown-toc)
+
 # **Word List 16**    
  
 weary                                   a.疲倦的，令人厌烦的vt.使疲倦，使厌倦 **                                   
@@ -1091,6 +1111,8 @@ conference                                   
 powder                                   n.粉末；【医】药粉；火药；炸药  
 analytical  
 
+[markdown toc](#markdown-toc)
+
 # **Word List 17**    
 
 proclaim                                   vt.宣告，声明                                            
@@ -1154,6 +1176,8 @@ calorie                                   n.�
 hypothesis                                   n.假说，假设；【逻】前提   **                                    
 ballet                                   n.芭蕾舞；芭蕾舞剧；芭蕾舞团                                  
 entity                                   n.实体；事物的存在
+
+[markdown toc](#markdown-toc)
 
 # **Word List 18**    
 
@@ -1230,6 +1254,8 @@ voluntary                                a.自�
 **intensive                                   a.加强的；集中的；深入细致的 **                                    
 kettle                                       n.水壶                                                                    
 
+[markdown toc](#markdown-toc)
+
 # **Word List 19**    
 
 consultant                                   n.会诊医师,顾问医生;顾问    
@@ -1301,6 +1327,7 @@ advertise                                   v
 installment                                   n.分期付款  
 ward                                   n.病房;行政区;监护;被监护人 vt.挡住** 
 
+[markdown toc](#markdown-toc)
 
 # **Word List 20**    
 
@@ -1369,6 +1396,8 @@ belief                                 n.信任
 sigh                                   n.叹息,叹息声 v.叹息,叹气    
 signal                                 n.信号,暗号 v.发信号,用信号通知
 
+[markdown toc](#markdown-toc)
+
 # **Word List 21**    
 
 up-to-date                                   a.现代化的，最新的；跟上时代的    
@@ -1436,6 +1465,8 @@ external                                 a.外�
 multitude                                n.众多,大量    
 fertile                                  a.肥沃的,富饶的;能繁殖的    
 glare                                    vi.怒目而视;发射强光 n.强光;怒视;炫耀
+
+[markdown toc](#markdown-toc)
 
 # **Word List 22**    
 
@@ -1506,6 +1537,8 @@ soda                                    n.�
 violent                                 a.猛烈的,激烈的;暴力引起的,强暴的    
 mechanism                                  n.机械装置,机构;机制    
 disease                                 n.疾病，弊病
+
+[markdown toc](#markdown-toc)
 
 # **Word List 23**    
 
@@ -1578,6 +1611,8 @@ investigate                                 vt.
 magnify                                 vt.放大，扩大    
 pad                                 n.①垫，衬垫；②便笺簿；拍纸簿；vt.填塞
 
+[markdown toc](#markdown-toc)
+
 # **Word List 24**    
    
 sue                                 v.控告,对…提出诉讼,起诉    
@@ -1640,6 +1675,8 @@ accommodation                                 �
 oven                                    n.炉，灶，烤箱    
 controversial                                a.引起争论的,有争议的    
 cling                                   v.(to)粘住;依附;坚持
+
+[markdown toc](#markdown-toc)
 
 # **Word List 25**    
 
@@ -1708,6 +1745,8 @@ tuck                                    v.�
 antique                                 a.古式的，过时的　n.有价值的古物，古董    
 accordance                                   n.一致，和谐，符合
 
+[markdown toc](#markdown-toc)
+
 # **Word List 26**    
 
 association n.协会，团体；联合，联系，交往；联想    
@@ -1772,6 +1811,8 @@ captive                                 n.俘�
 postpone                                vt.推迟，延期    
 universal                        a.普遍的，全体的；通用的；宇宙的，全世界的    
 handle                                  n.柄，把手，拉手 vt.处理，对待，操纵；触，摸
+
+[markdown toc](#markdown-toc)
 
 # **Word List 27**    
 
@@ -1839,6 +1880,8 @@ impressive                        a.给人深刻印象的,感人的  
 exile                                    **n.流放；被流放者 vt.流放，放逐，把…充军**    
 **formula                                  n.(pl.formulae)公式;规则;分子式;药方**    
 
+[markdown toc](#markdown-toc)
+
 # **Word List 28**    
 
 medieval                                a.中世纪的,中古(时代)的,老式的,原始的    
@@ -1904,6 +1947,8 @@ consolidate                                  v
 sunrise                                 n.日出        
 patrol                                  v.巡逻，巡查 n.巡逻，巡查；巡逻队    
 **recede                                  v.退回,后退;收回,撤回;跌落,缩减,贬值**
+
+[markdown toc](#markdown-toc)
 
 # **Word List 29**    
     
@@ -1974,6 +2019,8 @@ genius                                    n.
 mankind                                   n.人类, 男性
 spot
 
+[markdown toc](#markdown-toc)
+
 # **Word List 30**    
 
 tutor                                     n.导师;家庭教师 v.辅导;当导师;当家庭教师        
@@ -2038,6 +2085,8 @@ aggravate                                 vt.�
 tumour                                    n.(tumor)(肿)瘤，肿块    
 famine                                    n.饥荒,饥馑    
 expansion                                 n.扩张,膨胀;张开,伸展
+
+[markdown toc](#markdown-toc)
 
 # **Word List 31**    
 
