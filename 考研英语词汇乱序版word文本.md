@@ -155,7 +155,6 @@ default
 # **Word List 3**    
 
 **fabulous                      a.极好的；极为巨大的；寓言中的，传说中**    
-graduate                                 n.大学毕业生,研究生 v.大学毕业a.毕了业的    
 inhabit                                  vt.居住于,存在于;栖息于    
 constant                                 a.固定的，持续的,忠实的 n.常数,恒量    
 **prosperity                         n.繁荣,兴旺**    
@@ -163,18 +162,14 @@ siege                                    n.�
 handwriting                           n.笔迹,手迹,书法    
 **conduct                                  n.行为,品行 v.引导;管理;指挥(乐队);传导**    
 lever                                    n.杆,杠杆,手段,途径,工具    
-**blend                                    n.混合(物) v.混和,混杂**    
-crab                                     n.螃蟹,蟹肉    
+**blend                                    n.混合(物) v.混和,混杂**     
 ample                                    a.充分的，富裕的；宽敞的，宽大的    
-urban                                    a.城市的, 市内的    
 preside                                  v.(at,over)主持    
 psychology                         n.心理,心理学,心理状态    
 **rash                                     a.轻率的,鲁莽的 n.皮疹**    
 radical                                  a.基本的,重要的;激进的,极端的;根本的    
-document                                 n.公文，文件，文献    
 **inventory                                n.详细目录,存货,财产清册,总量**    
 pillar                                   n.柱,台柱,栋梁    
-harm                                     n./v.伤害,损害,危害    
 grip                                     v./n.紧握,抓紧;掌握    
 **antenna                                  n.(无线电或电视的)天线**    
 sip                                                              v.小口地喝，抿，呷n.一小口的量    
@@ -183,33 +178,25 @@ devise                                   vt.�
 highly                                   adv.高度地，非常，很，赞许地    
 **stadium                                  n.体育场**    
 **diffuse                                  v.扩散;传播 a.(文章等)冗长的,漫无边际的**    
-globe                                    n.球体,地球仪;地球,世界    
-negligible                          a.可忽略不计的，微不足道的    
-mostly                                   adv.主要地，大部分，通常    
-dine                                     v.吃饭，进餐    
+negligible                          a.可忽略不计的，微不足道的     
 graph                                    n.图表,曲线图    
 **tile                                     n.瓦片,瓷砖 vt.铺瓦于，贴砖于**    
 jail                                     n.监狱，拘留所v.监禁某人    
-segregate                                vt.使分开，隔离（病患等）    
-spider                                   n.蜘蛛    
+segregate                                vt.使分开，隔离（病患等）      
 invasion                                 n.入侵,侵略,侵犯    
 precedent                                n.先例    
 critical                                 a.批评的,评论的;危急,紧要的;临界的    
 **excursion                                n.短途旅行,游览;离题;**    
 commit                                   v.把…交托给,提交;犯(错误),干(坏事)    
 integrate                                v.(into,with)(使)成为一体,(使)结合在一起    
-message                                  n.消息,信息,通讯,启示,教训,广告词,预言    
 crash                                    v./n.碰撞,坠落,摔坏 n.失败,瓦解;爆裂声    
-environment                   n.环境，外界**cosy **  a.暖和舒服的；舒适的    
+**cosy **  a.暖和舒服的；舒适的    
 boundary                                 n.分界线,边界    
-**peep                                     v.偷看,窥视**    
-toast                                    n.烤面包,吐司;祝酒(词)v.烘,烤;(向…)祝酒    
-**conductor                    n.管理者；(汽车)售票员；领队，指挥；导体**    
-neighborhood                 n.邻居，四邻，街道，住宅区    
+**peep                                     v.偷看,窥视**     
+**conductor                    n.管理者；(汽车)售票员；领队，指挥；导体**     
 **halt                                     n.止步,停步,停止前进 v.止步,(使)停止**    
 isle                                     n.小岛(用于诗歌中)    
 **intrigue                                 n.阴谋v.密谋,私通;激起…的兴趣;诡计取得**    
-character                                n.性格,品质,特性;人物,角色;字符,(汉)字    
 **stoop                                    v.弯腰,俯身 n.弯腰,曲背**    
 cater                                    vi.(for/to)满足,迎合;(for)提供饮食及服务    
 **inertia                                  n.不活动,惰性;惯性**    
@@ -220,7 +207,6 @@ deadly                                   a.�
 luggage                                  n.行李,皮箱    
 **plausible                                a.似是而非的,似乎合理的,似乎可信的**    
 vice                                     n.邪恶;恶习;(pl.)台钳,老虎钳    
-repay                                    v.偿还,报答    
 underneath                     prep.在…下面 ad.在下面,在底下    
 blur                                     n.模糊不清的事物；污点 vt.使模糊；玷污    
 percentage                     n.百分数,百分率,百分比    
