@@ -154,6 +154,8 @@ manual                                    a.
 converge  
 default
 
+[markdown toc](#markdown-toc)
+
 # **Word List 3**    
 
 **fabulous                                  a.极好的；极为巨大的；寓言中的，传说中**    
@@ -214,6 +216,8 @@ blur                                     n.
 percentage                                  n.百分数,百分率,百分比    
 nucleus                                  n.(pl.nuclei)核,核心,原子核    
 **ambiguous                                a.引起歧义的，模棱两可的，含糊不清的**
+
+[markdown toc](#markdown-toc)
 
 # **Word List 4**    
 
@@ -278,6 +282,8 @@ yell                                      
 tomb                                             n.坟,冢    
 **keen                                 a.锋利的;敏锐的;敏捷的;(on)热心的,渴望的**    
 describe                                  v.描述,形容  
+
+[markdown toc](#markdown-toc)
 
 # **Word List 5**   
    
@@ -351,6 +357,7 @@ combat                                     
 embryo  
 herald  
 
+[markdown toc](#markdown-toc)
 
 # **Word List 6**    
 
