@@ -88,7 +88,6 @@ neglect                                   v./
 faulty                                    a.有错误的，有缺点的，不完善的    
 eliminate                                 vt.除去;淘汰;排(删,消)除;削减(人员)    
 upright                                   a.垂直的,直立的;正直的,诚实的 ad.竖立着    
-invitation                                n.邀请，招待，请柬    
 **commemorate  vt.纪念，庆祝**    
 **reproach                                  v./n.责备,指责**    
 **dilute                                    vt.稀释，冲淡 a.稀释的，冲淡的**    
@@ -119,7 +118,6 @@ evident                                   a.�
 **rigorous                                  a.严格的,严厉的,严酷的,严密的,严谨的**    
 technology                                n.工艺，技术    
 wax                                                n.蜡,蜂蜡 v.打蜡    
-pillow                                    n.枕头    
 **solidarity                                n.团结；休戚相关**    
 slaughter                                 n.屠杀，屠宰 vt.屠杀，宰杀    
 **pit                                                               n.坑,陷阱;煤矿,矿井**    
@@ -135,7 +133,7 @@ nursery                                   n.�
 worship                                   n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜    
 dental                                    a.牙齿的；牙科(用)的    
 dense                                     a.浓厚的,密集的,稠密的    
-productivity n.生产率    
+productivity                                      n.生产率    
 **valve                                     n.阀;(英)电子管,真空管;(心脏的）瓣膜**    
 abuse                                     vt.滥用；辱骂；诋毁 n.滥用；恶习；弊端    
 circular                                  a.圆(形)的,环形的;循环的 n.传单,通报    
@@ -144,17 +142,15 @@ circular                                  a.�
 disguise                                  n./v.假装,伪装    
 deny                                                              v.否认,否定;拒绝    
 huddle                                    n./v.拥挤;聚集v.(因寒冷、害怕而)缩成一团    
-cheat                                     v.欺骗，作弊n.骗子，欺骗行为    
-cellar                                    n.地窑,地下室    
-court                                     n.法院,法庭;宫廷,朝廷;院子;球场    
+cellar                                    n.地窑,地下室      
 namely                                    ad.即,也就是    
-paw                                                               n.爪    
 undertake                                 v.承担,担任;许诺,保证;着手,从事    
 **instrumental                 a.仪器的;器械的;乐器的;起作用的;有帮助**    
 generate                                  vt.产生,发生;生殖    
 threat                                    n.恐吓,威胁;坏兆头,危险迹象    
 manual                                    a.手的,手工做的,体力的 n.手册,指南    
-hamburger                                 n.汉堡包，牛肉饼
+converge
+default
 
 # **Word List 3**    
 
