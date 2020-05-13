@@ -422,7 +422,7 @@ discourse
 **sturdy                                   a.坚定的，不屈不挠的；强健的，结实的**    
 **fuss                                     n./v.忙乱,大惊小怪**    
 **undo                                     v.松开,解开**    
-axe                                   n.斧子
+axe                                   n.斧子  
 majority                                 n.多数,大多数,成年,法定年龄    
 physical                                 a.物质的;肉体的,身体的;自然科学的,物理的    
 possess                                  v.占有,拥有      
@@ -434,11 +434,11 @@ steep                                    a.�
 calendar                                 n. 日历，月历    
 dam                                                              n.水坝,水闸    
 narrative                                a.叙述性的 n.叙述    
-worldwide                                a.全世界的，世界范围的，遍及全世界
+worldwide                                a.全世界的，世界范围的，遍及全世界  
 altitude                                 n.高度，海拔；    
 **vulgar                                   a.粗俗的，庸俗的，本土的，通俗的，普通的**    
 cripple                                  n.跛子,残疾人 v.使跛,使残疾    
-**liable                                   adj.有责任的，有义务的，有倾向的，易于的**
+**liable                                   adj.有责任的，有义务的，有倾向的，易于的**  
 farewell                                 n.再会，别了，告别    
 equality                                 n.同等;平等;相等;等式;等同性    
 **panel                                    n.面,板;控制板,仪表盘;专门小组**    
