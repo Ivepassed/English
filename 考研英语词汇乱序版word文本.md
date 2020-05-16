@@ -2159,7 +2159,7 @@ conversion                                   
 specialize                                   v.(specialise)(in)专攻,专门研究,专业化        
 currency                                 n.流传,流通；通货,货币    
 **contemporary                             a.现代的,当代的;同时代的**    
-feasible
+feasible  
 nostalgic
 
 [markdown toc](#markdown-toc)
@@ -2304,7 +2304,7 @@ cruise                                   v.�
 **readily                                 ad.容易地;乐意地,欣然地**    
 **sacred                                  a.神圣的;宗教的;庄严的**    
 **auxiliary                                a.辅助的，支援的 n.辅助者，辅助设备**    
-stool                                n.凳子；(pl.)大便
+stool                                n.凳子；(pl.)大便  
 bat
 
 [markdown toc](#markdown-toc)
@@ -2447,8 +2447,8 @@ institution                                  �
 **comprise                                 vt.包含，包括，由...组成；构成，组成**        
 debut
 foresee                                  v.预见,预知            
-addition                                 n.加，加法；附加部分，增加(物) 
-endorse
+addition                                 n.加，加法；附加部分，增加(物)   
+endorse  
 successor
 
 [markdown toc](#markdown-toc)
