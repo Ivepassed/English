@@ -2207,7 +2207,7 @@ prick                                    n./
 plug                                     n.塞子,插头 v.堵,塞,插上,插栓    
 fulfill                                   v.(fulfil)完成,履行,实践,满足    
 **entertainment                                    n.招待,款待;表演文娱节目**        
-sock                                     v.&n.吸，舐；吸收(取)    
+soak                                     v.&n.吸，舐；吸收(取)    
 graze                                    vi.吃青草 vt.放牧;擦伤;掠过 .n.擦伤(处)        
 addict                                   v.使沉溺；使上瘾 n.沉溺于不良嗜好的人    
 drought                                  n.旱灾,干旱    
@@ -2454,81 +2454,66 @@ successor
 [markdown toc](#markdown-toc)
 
 # **Word List 36**    
-
-ban                                     v.取缔,查禁;(from)禁止 n.禁止,禁令    
-**incidence                        n.影响程度，影响范围；发生率**    
-successor                        n.接替的人或事物，继任者    
-snack                                   n.快餐,小吃,点心    
+   
+**incidence                        n.影响程度，影响范围；发生率**       
 slogan                                  n.标语,口号    
 boom                                    v.迅速发展,兴旺;发出隆隆声    
 **compact                                 a.紧密的,结实的;简明的 v.使紧凑,压缩**    
 democracy                                   n.民主,民主制,民主国家    
-amiable                                 a.和蔼可亲的，友善的，亲切的    
-grammar                                 n.语法    
+amiable                                 a.和蔼可亲的，友善的，亲切的        
 wrinkle                                 n.皱纹 v.起皱,皱眉    
-spokesman  n.发言人    
+spokesman                                 n.发言人    
 dentist                                  n.牙医    
 salvation                                n.拯救,救助;救济(者,品),救助工具;救世主    
 loan                                     n.贷款;出借,借出 v.借出    
-**exclusive                                a.独占的;排他的;孤高的;唯一的;高级的**    
-ballot                                   n.(不记名)投票；投票总数；投票权 vi.投票    
+**exclusive                                a.独占的;排他的;孤高的;唯一的;高级的**        
 shortcoming                       n.短处，缺点    
 **crystal                                  n.水晶,水晶饰品;结晶 a.水晶的,透明的**    
-**polar                                    a.两极的,极地的,南辕北辙的 n.极线,极面**    
-maid                                     n.少女,处女,女仆    
+**polar                                    a.两极的,极地的,南辕北辙的 n.极线,极面**        
 catalog                                  n.（catalogue）目录(册) v.编目(录)    
-consumption                                n.消费(量),消耗    
-**sample                                   n.样品,实例,标本,抽样检查 v.取样,采样**    
+consumption                                n.消费(量),消耗        
 gallery                                  n.长廊,画廊,美术馆    
 barely                                   ad.赤裸裸地,无遮蔽地;仅仅,勉强,几乎没有    
 **promote                                  v.促进,发扬;提升,提拔;增进,助长**    
 intense                                  a.强烈的,剧烈的;热烈的,热情的    
 **axis                                     n.轴，轴线，中心线；坐标轴，基准线**    
-script                                   n.剧本(原稿)；手稿，原稿；笔迹，手迹    
-charm                                    n.吸引力,魅力 v.迷人,(使)陶醉;施魔法于    
+script                                   n.剧本(原稿)；手稿，原稿；笔迹，手迹        
 **tray                                     n.盘,碟,托盘**    
 **gamble                                   n./v.投机,冒险;赌博**    
 code                                     n.代码,代号,密码;**法典,法规,规划**    
-**creature                                 n.人，动物，产物**    
-eyesight                                 n.视力    
+**creature                                 n.人，动物，产物**        
 delivery                                 n.递送;交付;分娩;交货;引渡    
-**delegate                                 n.代表 vt.委派…为代表;授权;委托**    
-**depict                                   v.描绘;描写,描述**    
+**delegate                                 n.代表 vt.委派…为代表;授权;委托**        
 claim                                    v.要求;声称;索赔 n.要求;断言;索赔;权利    
 patch                                    n.补丁,斑点,碎片小块 v.补,修补,掩饰    
 liberate                                 v.解放，释放    
-baggage                                  n.行李    
-poetry                                   n.诗歌,诗集    
+baggage                                  n.行李        
 **indispensable                       a.(to,for)必不可少的,必需的**    
 **perceive                                 v.察觉,感知;理解,领悟**    
-**affluent                                 a.富裕的，富有的，丰富的，富饶的**    
-agency                                   n.代理(处)；代办处；    
+**affluent                                 a.富裕的，富有的，丰富的，富饶的**        
 exhibit                                  v.展出    
 tanker                                   n.油船    
 mathematical                       a.数学的；数学上的    
 **dismay                                   n./v.(使)沮丧;(使)惊慌;(使)失望,(使)绝望**    
-survive                                  v.幸免于,幸存;比…长命    
-breadth                                  n.宽度,幅    
+survive                                  v.幸免于,幸存;比…长命        
 **oblige                                   v.强迫,迫使;责成;(使)感激,施恩于**    
 bid                                                              v.祝愿;命令,吩咐;报价,投标 n.出众,投标    
 commission                                 n.委员会;委任,委托(书),代办;佣金,手续费    
 revelation                                     n.揭示,揭露,显示,启示,新发现,被揭露的事    
 suffice                                  v.充足，足够；vt.(食物等)使(某人)满足    
-wrap                                     v.裹,缠,卷,包 n.披肩,围巾    
-usage                                    n.用法，惯用法    
+wrap                                     v.裹,缠,卷,包 n.披肩,围巾        
 **brisk                                    a.轻快的;生气勃勃的;兴隆的**    
 **odds                                     n.不平等,差异;机会**    
 audio                                    n./a.音频(响)(的)；声音(的)，听觉(的)    
-**implicit                                 a.含蓄的;(in)固有的;无疑问的;绝对的**    
-racket                                   n.球拍    
+**implicit                                 a.含蓄的;(in)固有的;无疑问的;绝对的**        
 **strenuous                                a.费力的，艰辛的；奋发的，努力的**    
-location                                 n.位置,场所,定位,测位    
-operational                                  a.操作的,运转的,起作用的,经营的    
+location                                 n.位置,场所,定位,测位        
 **drastic                                  a.激烈的,严厉的;(药性等)猛烈的**    
 skyscraper                                   n.摩天大楼    
-**compel                                   v.强迫,迫使**    
-queue                                    n.行列,长队 v.(up)排队,排队等待    
+**compel                                   v.强迫,迫使**        
 **enquire                                  v.(inquire)询问,打听;调查;查问**
+
+[markdown toc](#markdown-toc)
 
 # **Word List 37**    
 
