@@ -3070,24 +3070,20 @@ acid                                   n.酸�
 alliance                                   n.结盟，联盟，联姻    
 **lag                                   vi.落后于，滞后于, n.落后，滞后**    
 criterion                                   n.评判的标准，准则    
-**refund                                   vt.退还，偿还，退款 n.退款，偿还额，**    
-update                                   vt.更新，使现代化    
+**refund                                   vt.退还，偿还，退款 n.退款，偿还额，**        
 guilty                                      adj.有罪的，内疚的    
 comparison                                 n.比较，对比，比喻，比拟    
 profitable                                 adj.有利可图的，有益的    
-**permanent                                   adj.永久的，持久的**    
-roast                                   vi.&vt.烤，炙，烘    
+**permanent                                   adj.永久的，持久的**       
 **sphere                                   n.球，球体，范围，领域**    
 **sham                                   n.假冒，虚伪 vt.假冒，虚伪**    
 carve                                   vt.&vi.雕刻    
-**trivial                                   adj.琐碎的，无足轻重的**    
-**overwhelming                                   adj.势不可挡的，压倒的**    
+**trivial                                   adj.琐碎的，无足轻重的**    
+lyric   
 crush                                   vt.压碎，压坏，vi.压碎，压坏，压服，压垮    
 **scattered                                   adj.离散的，分散的**    
 tenant                                   n.承租人，房客，佃户    
-**deficiency                                   n.缺乏，不足，缺陷，缺点**    
-accustomed                                   adj.惯常的，习惯的    
-lower                                   adj.较低的，下级的，下游的 vt.&vi.使降低，放低    
+**deficiency                                   n.缺乏，不足，缺陷，缺点**        
 **appetite                                   n.食欲，胃口，欲望，爱好，要求**    
 **courtyard                                   n.庭院，院子**    
 **breed                                   vt.&vi.繁殖，生殖，造成，引起,教养，抚养，饲养n.品种，种类**    
@@ -3099,8 +3095,7 @@ violate                                   vt.
 zigzag                                   adj.之字形，之字形的，vi.使成之字形，曲折盘旋    
 instruct                                   vt.教、教授，命令、指示 instructive 有教育意义的    
 rarely                                   ad.很少、难得，稀有的    
-evolution                                   n. 进化、渐进、演化    
-entry                                   n.进入，入口、通道，记载、条目    
+evolution                                   n. 进化、渐进、演化        
 **plantation                                   n.种植园**    
 landlady                                   n.女房东、女地主    
 **engagement                                   n.约会、约定，婚约、订婚**    
@@ -3117,26 +3112,22 @@ merely                                   ad. 
 **parasite                                   n.寄生虫**    
 **confidential                                   a. 秘密的、机密的 ，亲信的**    
 **dramatic                                   a. 戏剧的、戏剧性的，巨大的、突然的**    
-**chip                                   n. 碎片 ，（土豆等）薄片，芯片**    
-sincere                                   a.诚挚的、诚恳的，忠实的、忠诚的    
+**chip                                   n. 碎片 ，（土豆等）薄片，芯片**        
 **vertical                                   a. 垂直的、竖的 n.垂线**    
 **marine                                   a. 海的、海生的 ，船舶的、航海的**    
-**impetus                                   n. 推动力、促进**    
-nephew                                   n.外甥、侄子    
-naughty                                   adj.淘气的 、顽皮的，猥亵的    
-apart                                   v.分开，使分离    
+**impetus                                   n. 推动力、促进**        
 perform                                   v.做，    
 punctual                                   adj.守时的    
 boycott                                   vt.联合抵制    
-license                                   n.许可证，证件    
-theft                                   n.偷盗    
-alphabet                                   n.字母表    
-scarf                                   n.围巾，头巾    
+license                                   n.许可证，证件        
+alphabet                                   n.字母表        
 litter                                   n.垃圾，一窝动物    
 overcome                                   v.克服    
 **sponge                                   n.海绵，抹掉**    
-slight                                   adj.微小的
-                                   
+slight                                   adj.微小的  
+bypass  
+checkup  
+                                     
 # **Word List 46**    
 
 effective                                          a. 有效的、生效的，给人深刻印象的、显著的
