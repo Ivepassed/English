@@ -2863,6 +2863,8 @@ lounge                                     
 thereby                                    ad. 因此，从而    
 tempo                                     n. 节奏，（音乐的）速度，行进速度
 
+[markdown toc](#markdown-toc)
+
 # **Word List 42**    
 
 carpenter                                n.木工，木匠    
@@ -2928,6 +2930,8 @@ fund                                     n.
 paddle                                   n.浆 v.用浆划    
 **hospitality                       n.好客，殷勤，款待**    
 monster                                  n.怪物，妖怪
+
+[markdown toc](#markdown-toc)
 
 # **Word List 43**    
 
@@ -2995,6 +2999,8 @@ moral                                   a. �
 **staturate                                    vt. 使浸透、渗透，使充满**   vt.        
 **vicinity                                   n. 近邻、附近**
 
+[markdown toc](#markdown-toc)
+
 # **Word List 44**    
 
 plaster                                   n. 灰泥，熟石膏，膏药    
@@ -3060,6 +3066,8 @@ cocaine                                   n. 
 **rug                                   n. （小）地毯，围毯**    
 archeology  
 so-called  
+
+[markdown toc](#markdown-toc)
 
 # **Word List 45**    
 
@@ -3127,6 +3135,8 @@ overcome                                   v.
 slight                                   adj.微小的  
 bypass  
 checkup  
+  
+[markdown toc](#markdown-toc)
                                      
 # **Word List 46**    
 
